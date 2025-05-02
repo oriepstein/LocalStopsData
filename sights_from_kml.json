@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "8bc9f8b4-a6a3-4d9c-b80d-fbc7e5ab4b6c",
+    "name": "Melville House Publishing and Bookstore",
+    "latitude": 40.7043658,
+    "longitude": -73.98619,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Melville House Publishing and Bookstore is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c0e067c5-8b36-4778-abb7-13b35bf1575c",
+    "name": "Empire Stores",
+    "latitude": 40.7035539,
+    "longitude": -73.9916217,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Empire Stores is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b3c5a3fb-defa-4896-b6bf-ee1b85ed2f5a",
+    "name": "POWERHOUSE Arena",
+    "latitude": 40.7029566,
+    "longitude": -73.9888366,
+    "icon": "default",
+    "imageURL": "",
+    "description": "POWERHOUSE Arena is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "55acb727-2d33-4486-b5e1-9c63f977beb4",
+    "name": "Plymouth Church",
+    "latitude": 40.6991711,
+    "longitude": -73.9931456,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Plymouth Church is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c6ec94a4-617c-4dc8-bdde-f7ca643a9df1",
+    "name": "Brooklyn Women's Exchange Inc",
+    "latitude": 40.6959876,
+    "longitude": -73.9950959,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Women's Exchange Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c4fa014c-8ff3-4253-8448-c14e1fffd3b2",
+    "name": "58 Joralemon St",
+    "latitude": 40.6934007,
+    "longitude": -73.9974105,
+    "icon": "default",
+    "imageURL": "",
+    "description": "58 Joralemon St is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "63a166e3-74a7-49d9-9c23-5c78ee0d3e9c",
+    "name": "Urban Folk Art",
+    "latitude": 40.6882642,
+    "longitude": -73.9892243,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Urban Folk Art is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c88d98d1-528e-4e75-9ba2-648f69a4b90a",
+    "name": "Autonomedia",
+    "latitude": 40.7077721,
+    "longitude": -73.966749,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Autonomedia is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4aa04c3b-9184-4e83-840b-3d4bd4ca69fe",
+    "name": "Saint Vitus Bar",
+    "latitude": 40.7367758,
+    "longitude": -73.9551337,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Saint Vitus Bar is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8440d373-695d-4d86-96aa-93fc0784b97e",
+    "name": "Flavor Paper",
+    "latitude": 40.6887464,
+    "longitude": -73.9920688,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Flavor Paper is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2225d2f7-7f8e-4622-a1e0-602e2ff6b0cf",
+    "name": "Gowanus Souvenir Shop",
+    "latitude": 40.6789851,
+    "longitude": -73.9866028,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gowanus Souvenir Shop is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "09642caa-25d2-47a4-bea2-1f1e02f9b85c",
+    "name": "keur djembe African Drums Shop",
+    "latitude": 40.6781264,
+    "longitude": -73.9852363,
+    "icon": "default",
+    "imageURL": "",
+    "description": "keur djembe African Drums Shop is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "9afe47db-caf8-4804-b439-3895ae6fd70e",
+    "name": "Jalopy Theatre and School of Music",
+    "latitude": 40.6813194,
+    "longitude": -74.0042257,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Jalopy Theatre and School of Music is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3ccbd045-ee5b-4d88-88e9-4803211ab596",
+    "name": "Sistas' Place",
+    "latitude": 40.6833508,
+    "longitude": -73.9503228,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sistas' Place is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c3e70557-6cc1-43d4-84f0-18b36ebb695c",
+    "name": "Arlington Place",
+    "latitude": 40.6809175,
+    "longitude": -73.9511572,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Arlington Place is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7d5185de-1cd0-42a4-ae98-086e24e89118",
+    "name": "Five Myles",
+    "latitude": 40.672629,
+    "longitude": -73.959636,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Five Myles is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ce54c98b-1dba-4098-a1ef-3817f2a38824",
+    "name": "The Betzalel Gallery & Picture Framing",
+    "latitude": 40.664259,
+    "longitude": -73.9434144,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Betzalel Gallery & Picture Framing is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "93b6ffec-61fc-4773-b713-2a8f5713b274",
+    "name": "Micro Museum",
+    "latitude": 40.687607,
+    "longitude": -73.9897317,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Micro Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5616bc04-afa1-4bee-a058-5a50a54ac778",
+    "name": "108 Wyckoff St",
+    "latitude": 40.6854419,
+    "longitude": -73.9896727,
+    "icon": "default",
+    "imageURL": "",
+    "description": "108 Wyckoff St is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "eaae9835-e50b-49ce-8167-232be523696d",
+    "name": "The Boiler | Pierogi",
+    "latitude": 40.7229231,
+    "longitude": -73.955229,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Boiler | Pierogi is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f8f91ff2-59c4-4f9a-aa51-3210e3307707",
+    "name": "WNYC Transmitter Park",
+    "latitude": 40.7298447,
+    "longitude": -73.9607685,
+    "icon": "default",
+    "imageURL": "",
+    "description": "WNYC Transmitter Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "55d14e5e-51e2-4d3c-9f31-8f9aecdbced3",
+    "name": "Newtown Creek Wastewater Treatment Plant",
+    "latitude": 40.7315714,
+    "longitude": -73.9469037,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Newtown Creek Wastewater Treatment Plant is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4cb28ea3-8cda-447e-bb4d-8a4dfd8740d6",
+    "name": "Newtown Creek Nature Walk",
+    "latitude": 40.736267,
+    "longitude": -73.948846,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Newtown Creek Nature Walk is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "574e710e-172e-4835-943c-1dd228c14136",
+    "name": "Light Industry",
+    "latitude": 40.734637,
+    "longitude": -73.955648,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Light Industry is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "384c741e-03fa-410e-b836-678a219abfeb",
+    "name": "The Thing",
+    "latitude": 40.733263,
+    "longitude": -73.9550435,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Thing is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5b7a9bae-457f-4784-9bb1-c14d7cc7da72",
+    "name": "Green Farms Super Market",
+    "latitude": 40.7307422,
+    "longitude": -73.9542059,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Green Farms Super Market is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0aa953c6-1aef-462a-aa97-c1e984147125",
+    "name": "Sunshine Laundromat",
+    "latitude": 40.7293483,
+    "longitude": -73.9535391,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sunshine Laundromat is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "6e5b3c32-7ab5-44a4-91d9-73e4d1473197",
+    "name": "The Bushwick Collective",
+    "latitude": 40.7076388,
+    "longitude": -73.9218185,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Bushwick Collective is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "fc0ddfe8-7931-41d6-8a0f-639b66eb11b9",
+    "name": "Green Village Used Clothing",
+    "latitude": 40.706795,
+    "longitude": -73.9212834,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Green Village Used Clothing is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5c2308b5-a299-4449-b577-4ee756833315",
+    "name": "House of Yes",
+    "latitude": 40.7068169,
+    "longitude": -73.9236004,
+    "icon": "default",
+    "imageURL": "",
+    "description": "House of Yes is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ed81ef85-774f-4024-a8f3-e3b41ee7b081",
+    "name": "Human Relations",
+    "latitude": 40.7045416,
+    "longitude": -73.92967,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Human Relations is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "9d142c31-527a-460c-91ba-6e737ae16ca9",
+    "name": "The Paper Box",
+    "latitude": 40.710973,
+    "longitude": -73.9363036,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Paper Box is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c6493684-d859-44ec-9e5b-a7deb8c2b4a1",
+    "name": "Moore Street Market",
+    "latitude": 40.7038146,
+    "longitude": -73.9410897,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Moore Street Market is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c9e38cb6-1321-45ed-a97d-9124af635010",
+    "name": "Bushwick Inlet Park",
+    "latitude": 40.7223295,
+    "longitude": -73.9613074,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bushwick Inlet Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "13d62bac-d09d-409f-b761-fe88f2e33ac1",
+    "name": "State of New York- East River State Park",
+    "latitude": 40.7214081,
+    "longitude": -73.9620691,
+    "icon": "default",
+    "imageURL": "",
+    "description": "State of New York- East River State Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "84245738-e0d1-4841-b477-57442855a62b",
+    "name": "Grand Ferry Park",
+    "latitude": 40.716365,
+    "longitude": -73.966639,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grand Ferry Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "de8b5bef-db11-4921-bedf-41b958a426af",
+    "name": "indieScreen",
+    "latitude": 40.7149544,
+    "longitude": -73.966198,
+    "icon": "default",
+    "imageURL": "",
+    "description": "indieScreen is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3e617891-59d2-46c0-be27-013c23e20f09",
+    "name": "Whisk",
+    "latitude": 40.7159891,
+    "longitude": -73.9594278,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Whisk is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c97f13f9-dcd6-48a6-8882-80a18facdfa4",
+    "name": "Brooklyn Reclamation",
+    "latitude": 40.7143193,
+    "longitude": -73.9594944,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Reclamation is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1cd59df2-0d7c-4deb-8559-e0d0c26714bd",
+    "name": "Book Thug Nation",
+    "latitude": 40.7165843,
+    "longitude": -73.9619363,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Book Thug Nation is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c83e7220-a303-44e7-a667-9915bf46716f",
+    "name": "Brooklyn Art Library",
+    "latitude": 40.717305,
+    "longitude": -73.9510093,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Art Library is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0d523b4e-4e32-4dfa-b3be-512b64fc2214",
+    "name": "The City Reliquary Museum",
+    "latitude": 40.713963,
+    "longitude": -73.955746,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The City Reliquary Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a46ffff3-60eb-4c4c-ae48-c2049ebc06ac",
+    "name": "The Arm Letterpress",
+    "latitude": 40.715273,
+    "longitude": -73.953158,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Arm Letterpress is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8366a621-5711-4372-8cf9-8d578b905e23",
+    "name": "Museum of Food and Drink (MOFAD) Lab",
+    "latitude": 40.718844,
+    "longitude": -73.9495801,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Museum of Food and Drink (MOFAD) Lab is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "92b33531-4cca-423a-b530-81c7b23a665f",
+    "name": "Spectacle",
+    "latitude": 40.7125413,
+    "longitude": -73.9628444,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Spectacle is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0784c1c6-9757-4fb1-a917-eae3d9874638",
+    "name": "The Living Gallery",
+    "latitude": 40.6941285,
+    "longitude": -73.9306532,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Living Gallery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a08a93e9-a06c-496a-a171-ba4f94b4acff",
+    "name": "Do The Right Thing Way",
+    "latitude": 40.6893275,
+    "longitude": -73.933321,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Do The Right Thing Way is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "deafc22b-884b-4724-be02-f79161712c96",
+    "name": "Molasses Books",
+    "latitude": 40.7006193,
+    "longitude": -73.9237572,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Molasses Books is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "29b20554-ed75-4ab9-a6c8-610b2a1971f4",
+    "name": "Silent Barn",
+    "latitude": 40.69863,
+    "longitude": -73.934307,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Silent Barn is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c73e64c1-1c06-4e17-8847-a55ed4fe1f61",
+    "name": "Woodhull Medical Center",
+    "latitude": 40.7008259,
+    "longitude": -73.9424803,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Woodhull Medical Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "687ca411-58a1-40c0-8131-7b83ec0a1973",
+    "name": "Brooklyn Table Tennis Club",
+    "latitude": 40.6306627,
+    "longitude": -73.9665767,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Table Tennis Club is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "be8467bf-c020-438d-b3f2-ce708b2ed72a",
+    "name": "Brooklyn College",
+    "latitude": 40.6314406,
+    "longitude": -73.9544488,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn College is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a87c6a33-f65d-442b-8e36-dc329831a1bc",
+    "name": "Living Torah Museum",
+    "latitude": 40.635547,
+    "longitude": -73.9805466,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Living Torah Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1d701b15-f63e-49fa-a296-0d80e9fd5f1c",
+    "name": "Brancaccio's Food Shop",
+    "latitude": 40.6485601,
+    "longitude": -73.978833,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brancaccio's Food Shop is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a1c23509-f856-43d1-9f1c-f773130cf44e",
+    "name": "Buzz-A-Rama",
+    "latitude": 40.6424018,
+    "longitude": -73.9807003,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Buzz-A-Rama is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f5ff5fed-1efa-4af5-aa01-62c03b10c632",
+    "name": "Brooklyn ARTery",
+    "latitude": 40.6395941,
+    "longitude": -73.9684007,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn ARTery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c3c7d1bc-fe7e-428c-8a58-249cbd3e466f",
+    "name": "Sacred Vibes Apothecary",
+    "latitude": 40.6400252,
+    "longitude": -73.9662255,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sacred Vibes Apothecary is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "07fbf81e-c42d-46c5-a2f3-da659e80ab71",
+    "name": "Erasmus Hall High School",
+    "latitude": 40.6495813,
+    "longitude": -73.9581967,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Erasmus Hall High School is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "196bb8eb-a136-49dd-820b-c5605d0a5612",
+    "name": "Albemarle Terrace",
+    "latitude": 40.6485612,
+    "longitude": -73.959662,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Albemarle Terrace is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "520da35d-6a29-4d36-b47a-f55ab53be01e",
+    "name": "Kenmore Terrace",
+    "latitude": 40.6491736,
+    "longitude": -73.9594277,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kenmore Terrace is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "9cef8ef4-c3db-45d6-acbb-ee21f1f39962",
+    "name": "Harbor Defense Museum",
+    "latitude": 40.609084,
+    "longitude": -74.032499,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Harbor Defense Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "9203c6ec-a515-4ccf-83e8-0837b9301a1d",
+    "name": "Narrows Botanical Gardens",
+    "latitude": 40.6372374,
+    "longitude": -74.0367631,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Narrows Botanical Gardens is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "35e7eba4-e6cf-4442-9e88-e7774318ff60",
+    "name": "Owl's Head Park",
+    "latitude": 40.6401377,
+    "longitude": -74.0322522,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Owl's Head Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7531851f-538b-41de-94c4-9fe2d0cbfe68",
+    "name": "American Veterans Memorial Pier",
+    "latitude": 40.6393213,
+    "longitude": -74.0376877,
+    "icon": "default",
+    "imageURL": "",
+    "description": "American Veterans Memorial Pier is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "13979b7c-06b8-4e2a-a404-6b6aeffaa8a8",
+    "name": "Weeksville Heritage Center",
+    "latitude": 40.6739761,
+    "longitude": -73.9253119,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Weeksville Heritage Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f1203f47-6b0e-4160-b692-698b7af99e0b",
+    "name": "Dead Horse Bay",
+    "latitude": 40.584376,
+    "longitude": -73.8999741,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dead Horse Bay is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0d281e29-b443-4b9d-b8f2-7a86f38476ab",
+    "name": "CB I Hate Perfume - Olfactory Art Gallery",
+    "latitude": 40.712045,
+    "longitude": -73.936328,
+    "icon": "default",
+    "imageURL": "",
+    "description": "CB I Hate Perfume - Olfactory Art Gallery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "da8eca74-c826-420e-8721-7f77d50e06fe",
+    "name": "Big Sky Works",
+    "latitude": 40.7230252,
+    "longitude": -73.9562924,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Big Sky Works is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "9be1ac3a-130c-4e82-827c-913e622ecb2a",
+    "name": "NURTUREart Non-Profit Inc",
+    "latitude": 40.7058963,
+    "longitude": -73.9332806,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NURTUREart Non-Profit Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "677dafe3-4c66-433c-9b01-a65755d643c9",
+    "name": "Vandervoort Place",
+    "latitude": 40.704465,
+    "longitude": -73.9304578,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Vandervoort Place is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "10cfbcbc-c2ff-43a8-805e-cd087e007c68",
+    "name": "Angel's Fruit Market",
+    "latitude": 40.702043,
+    "longitude": -73.9245569,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Angel's Fruit Market is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "71e71d85-8634-480e-8abd-1a998a1c7127",
+    "name": "Norte Maar",
+    "latitude": 40.684419,
+    "longitude": -73.873741,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Norte Maar is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f56afb62-b251-4829-9be8-0efb1ddee2e6",
+    "name": "Luhring Augustine Gallery",
+    "latitude": 40.707305,
+    "longitude": -73.931251,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Luhring Augustine Gallery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "eeec37f5-7a1f-4969-bb75-73a4921c3410",
+    "name": "56 Bogart St",
+    "latitude": 40.7057243,
+    "longitude": -73.9331652,
+    "icon": "default",
+    "imageURL": "",
+    "description": "56 Bogart St is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f773ec23-30e9-43f5-b115-1715af05a00a",
+    "name": "The Bushwick Starr",
+    "latitude": 40.705089,
+    "longitude": -73.9234806,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Bushwick Starr is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "80ecfef0-c6d2-44a0-8bfe-c435e6662acf",
+    "name": "Low Brow Artique",
+    "latitude": 40.6996921,
+    "longitude": -73.927463,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Low Brow Artique is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3a6250c9-af7c-44de-9617-1f7a87d636e7",
+    "name": "Museum of Contemporary African Diasporan Arts",
+    "latitude": 40.6851993,
+    "longitude": -73.974308,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Museum of Contemporary African Diasporan Arts is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bd6f5882-9b55-482f-8adc-1453bb5ab6ea",
+    "name": "Lafayette Avenue Presbyterian Church",
+    "latitude": 40.6870381,
+    "longitude": -73.9732706,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lafayette Avenue Presbyterian Church is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "397d9fa2-ef85-49b3-8baf-b757c0b0683f",
+    "name": "Irondale Center",
+    "latitude": 40.6870381,
+    "longitude": -73.9732706,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Irondale Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "52e22119-a3e2-4037-a346-36fc522efcb1",
+    "name": "BRIC",
+    "latitude": 40.6886419,
+    "longitude": -73.9791298,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BRIC is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7ef796a1-c986-4e54-8534-bfc52cb85350",
+    "name": "Brown Memorial Baptist Church",
+    "latitude": 40.684223,
+    "longitude": -73.965559,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brown Memorial Baptist Church is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "536a4e88-e10b-43b2-b1f6-9011188f81d3",
+    "name": "Brooklyn Army Terminal",
+    "latitude": 40.6441587,
+    "longitude": -74.0249671,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Army Terminal is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2878a05c-8e55-4cb5-9414-e6dbd5fce7f0",
+    "name": "The Wyckoff House Museum",
+    "latitude": 40.6443368,
+    "longitude": -73.9207731,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Wyckoff House Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "df1fd4c3-2baf-4b48-94e4-5bd4c603f8c1",
+    "name": "Salt Marsh Nature Center",
+    "latitude": 40.6040464,
+    "longitude": -73.9306319,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Salt Marsh Nature Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ad63a5a3-3709-4d43-a7fd-ff044cf922d6",
+    "name": "7901 Ridge Blvd",
+    "latitude": 40.628993,
+    "longitude": -74.0314,
+    "icon": "default",
+    "imageURL": "",
+    "description": "7901 Ridge Blvd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "db38912d-766a-42cd-af4f-085e2b7cad11",
+    "name": "The Coney Island Museum",
+    "latitude": 40.5753293,
+    "longitude": -73.979783,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Coney Island Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b240e9c0-1fb6-4bf8-9887-0f73fce0e008",
+    "name": "Sideshows by the Seashore",
+    "latitude": 40.5752703,
+    "longitude": -73.9797856,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sideshows by the Seashore is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2f42c559-cd81-4330-833c-2f7c848d6f0c",
+    "name": "Hendrick I. Lott House",
+    "latitude": 40.6103011,
+    "longitude": -73.9325837,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hendrick I. Lott House is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5cecb68c-e25b-440b-bd7e-f013ec345392",
+    "name": "Waterfront Museum",
+    "latitude": 40.675219,
+    "longitude": -74.0183687,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Waterfront Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2ee3d9a2-d479-47c9-aa31-46d9da0fa56e",
+    "name": "Carroll Street Bridge",
+    "latitude": 40.6781878,
+    "longitude": -73.989156,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Carroll Street Bridge is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e4d82d0e-0aba-42db-8a7f-0aa54d8f7e8e",
+    "name": "Gridspace",
+    "latitude": 40.67288,
+    "longitude": -73.9532399,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gridspace is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d9c4fee8-3ab6-443d-bdf1-3034c68a176f",
+    "name": "St. Ann's Warehouse",
+    "latitude": 40.703789,
+    "longitude": -73.9928,
+    "icon": "default",
+    "imageURL": "",
+    "description": "St. Ann's Warehouse is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c870d9a3-c233-4488-976c-f3925bfb689f",
+    "name": "Lefferts Historic House",
+    "latitude": 40.6643449,
+    "longitude": -73.9637644,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lefferts Historic House is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3f6848e2-5aee-4b33-86aa-d7fe21f63350",
+    "name": "Old Stone House & Washington Park",
+    "latitude": 40.6729885,
+    "longitude": -73.9846023,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Old Stone House & Washington Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "791605de-61d4-41ee-96c8-5ed0a74cc98f",
+    "name": "Brick Theatre",
+    "latitude": 40.714288,
+    "longitude": -73.9497617,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brick Theatre is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0c6b3fc2-2787-4e6b-89e1-936f13adeefa",
+    "name": "Melody Lanes Bowling Center",
+    "latitude": 40.652779,
+    "longitude": -74.002944,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Melody Lanes Bowling Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2b22cb2d-caa9-4516-8f98-91a8a60235ff",
+    "name": "The Billie Holiday Theatre",
+    "latitude": 40.6799694,
+    "longitude": -73.9456848,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Billie Holiday Theatre is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "758f17ef-4bb8-413d-b162-01e65e6215c4",
+    "name": "The Invisible Dog Art Center",
+    "latitude": 40.687245,
+    "longitude": -73.9911963,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Invisible Dog Art Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5c8fbd37-0466-4be4-bf17-c6620625b25b",
+    "name": "ISSUE Project Room",
+    "latitude": 40.6908467,
+    "longitude": -73.9897215,
+    "icon": "default",
+    "imageURL": "",
+    "description": "ISSUE Project Room is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "dd8e1dbc-1986-490c-8181-c91f89bd119e",
+    "name": "Bargemusic",
+    "latitude": 40.7031305,
+    "longitude": -73.9952668,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bargemusic is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "58d51b43-7525-47f1-82f4-5692c0079a62",
+    "name": "Brooklyn Historical Society",
+    "latitude": 40.6947959,
+    "longitude": -73.9924082,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Historical Society is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "237f9b46-4c87-433c-84fd-cc51c0c2f385",
+    "name": "Grace Court Alley",
+    "latitude": 40.6940583,
+    "longitude": -73.9964117,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grace Court Alley is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5cc92644-e4c6-48f5-b328-f3e1d9208315",
+    "name": "Warsaw",
+    "latitude": 40.7224421,
+    "longitude": -73.9485191,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Warsaw is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4481b725-ff55-4c81-bc8c-1f4a0dcd7c7e",
+    "name": "The Brooklyn Kitchen",
+    "latitude": 40.717634,
+    "longitude": -73.947659,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Brooklyn Kitchen is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "fe27997d-cc34-44fa-a50c-4b001a90fcaf",
+    "name": "Acme Smoked Fish Corporation",
+    "latitude": 40.7254473,
+    "longitude": -73.956479,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Acme Smoked Fish Corporation is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f4922c7b-920a-4828-b5c6-8fa89f4b4e0c",
+    "name": "Coral & Tusk",
+    "latitude": 40.6562028,
+    "longitude": -74.0073766,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Coral & Tusk is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "93a3b09e-edcc-4c7e-9df0-3ea0bb7085a1",
+    "name": "Brighton Bazaar",
+    "latitude": 40.5782174,
+    "longitude": -73.9592266,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brighton Bazaar is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5d6042b4-7ed0-4f53-88ce-f18d096cfeeb",
+    "name": "MARY A. WHALEN",
+    "latitude": 40.6804785,
+    "longitude": -74.0124708,
+    "icon": "default",
+    "imageURL": "",
+    "description": "MARY A. WHALEN is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "58ebd8d6-4144-42aa-ba09-bed3ea944bc8",
+    "name": "National Sawdust",
+    "latitude": 40.7189016,
+    "longitude": -73.9613395,
+    "icon": "default",
+    "imageURL": "",
+    "description": "National Sawdust is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4ab0b747-737a-4d6b-966a-7e0a009e2075",
+    "name": "Gotham Archery",
+    "latitude": 40.6824532,
+    "longitude": -73.986126,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gotham Archery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e3f63168-5ee7-420b-b25f-34863a6736e2",
+    "name": "Williamsburg Art & Historical Center",
+    "latitude": 40.7105986,
+    "longitude": -73.9635467,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Williamsburg Art & Historical Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e382c21e-6813-42ee-84b6-750c61ec7802",
+    "name": "Interference Archive",
+    "latitude": 40.670388,
+    "longitude": -73.985844,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Interference Archive is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c90461e8-b38b-43e0-b587-39958902ed9f",
+    "name": "Books Are Magic",
+    "latitude": 40.6839938,
+    "longitude": -73.9920653,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Books Are Magic is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1a491ac3-0023-43d8-b25f-9b0908697ddf",
+    "name": "Former site of Ebbets Field",
+    "latitude": 40.6645909,
+    "longitude": -73.9577832,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Former site of Ebbets Field is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5ac9a3f0-54a6-494b-a93a-28e5025fabac",
+    "name": "Lite Brite Neon Studio LLC",
+    "latitude": 40.6746019,
+    "longitude": -73.9880992,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lite Brite Neon Studio LLC is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "585d9611-259b-46ca-b03a-7015de74d8b5",
+    "name": "House of Wax",
+    "latitude": 40.6908759,
+    "longitude": -73.9828655,
+    "icon": "default",
+    "imageURL": "",
+    "description": "House of Wax is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bb2d08e5-23e0-4109-948c-96c92935ad16",
+    "name": "The THNK1994 Museum",
+    "latitude": 40.6779777,
+    "longitude": -73.9445838,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The THNK1994 Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "db4b9fd6-8b20-4a37-b557-929839e84b52",
+    "name": "Sebago Canoe Club Inc",
+    "latitude": 40.6271391,
+    "longitude": -73.9040646,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sebago Canoe Club Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1099d198-4e3c-40a2-b939-893527207ebf",
+    "name": "American Veterans Memorial Pier",
+    "latitude": 40.6393213,
+    "longitude": -74.0376877,
+    "icon": "default",
+    "imageURL": "",
+    "description": "American Veterans Memorial Pier is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e4b8d4d8-8c90-49ee-b4f4-4f141bf21cd2",
+    "name": "Louis Valentino, Jr. Park and Pier",
+    "latitude": 40.6784075,
+    "longitude": -74.0181413,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Louis Valentino, Jr. Park and Pier is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "23acf5ce-0cc5-434b-ad7e-267401ddf00c",
+    "name": "Brooklyn Glass",
+    "latitude": 40.6691314,
+    "longitude": -73.9939402,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Glass is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a0f0a874-f786-4daa-bc3c-662283d96541",
+    "name": "Saint Nicholas Antiochian Orthodox Cathedral",
+    "latitude": 40.6878252,
+    "longitude": -73.9847697,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Saint Nicholas Antiochian Orthodox Cathedral is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "16a49f5b-9265-4579-844a-7e711dc085f0",
+    "name": "The City Foundry",
+    "latitude": 40.6572748,
+    "longitude": -74.0075161,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The City Foundry is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "323e8923-aa80-41a1-8367-e3143cd23a3b",
+    "name": "A/D/O",
+    "latitude": 40.7246841,
+    "longitude": -73.9548224,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A/D/O is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "be8d9882-64da-48e9-ad15-bb4b95aa73f1",
+    "name": "Church of St. Luke & St. Matthew",
+    "latitude": 40.682702,
+    "longitude": -73.9672458,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Church of St. Luke & St. Matthew is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1153dccf-b99f-4451-b3a4-acc347f0c233",
+    "name": "Church of the Annunciation",
+    "latitude": 40.714349,
+    "longitude": -73.9547487,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Church of the Annunciation is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "41d5982b-9a12-46a5-9cff-8ae8c6e2e332",
+    "name": "The Evergreens Cemetery",
+    "latitude": 40.68389,
+    "longitude": -73.9011979,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Evergreens Cemetery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "14401232-6dd3-424c-ab47-f2291396ae26",
+    "name": "Five Boroughs Brewing Co.",
+    "latitude": 40.650597,
+    "longitude": -74.014486,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Five Boroughs Brewing Co. is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "6461c215-c7c4-49c1-baa5-daafed7f2f2a",
+    "name": "Kings County Distillery",
+    "latitude": 40.6995644,
+    "longitude": -73.9801965,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kings County Distillery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f83e63a6-0e19-49bf-9bb4-248093d72764",
+    "name": "Kingsland Wildflowers Green Roof & Community Engagement Center",
+    "latitude": 40.7345393,
+    "longitude": -73.9432776,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kingsland Wildflowers Green Roof & Community Engagement Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3af57724-20ca-483f-a59e-ca4c1ffefb25",
+    "name": "Urban Post-Disaster Housing Prototype",
+    "latitude": 40.6996055,
+    "longitude": -73.9895276,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Urban Post-Disaster Housing Prototype is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f6464cdd-fc83-410a-9ec8-991e208f6602",
+    "name": "Fool's Gold Records",
+    "latitude": 40.7149298,
+    "longitude": -73.9619704,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fool's Gold Records is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "646d5ca0-7ce6-4ba0-9255-0e2f4b6d7fd3",
+    "name": "Jane Bailey Memorial Garden",
+    "latitude": 40.6877751,
+    "longitude": -73.9582771,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Jane Bailey Memorial Garden is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "873e54ab-f9e0-4586-b482-ec47c7f3ce4e",
+    "name": "Co-Cathedral of St. Joseph",
+    "latitude": 40.6806183,
+    "longitude": -73.966431,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Co-Cathedral of St. Joseph is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ee5f229c-bb0c-46ac-8f4c-ebaedf31d9d1",
+    "name": "Cloud City",
+    "latitude": 40.716174,
+    "longitude": -73.9633205,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Cloud City is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "49ffe57c-eb95-4142-b7d7-662797cd34c5",
+    "name": "Secret Project Robot",
+    "latitude": 40.6923023,
+    "longitude": -73.9274769,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Secret Project Robot is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b3cebc4a-3a56-490a-85ca-466a2025d7ba",
+    "name": "The Gowanus Ballroom",
+    "latitude": 40.6740825,
+    "longitude": -73.9960189,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Gowanus Ballroom is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3ca9bfc4-c7d3-405a-8b26-e3e5973c5b2b",
+    "name": "Etsy",
+    "latitude": 40.7005824,
+    "longitude": -73.9881456,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Etsy is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f2ca1411-429b-4ad8-b067-0f979e4bfbc0",
+    "name": "Cadman Plaza Park",
+    "latitude": 40.6984759,
+    "longitude": -73.9904687,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Cadman Plaza Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "db5d7fb8-b908-43b3-911a-5a1664a12dd7",
+    "name": "679 Lafayette Ave",
+    "latitude": 40.6905805,
+    "longitude": -73.9468209,
+    "icon": "default",
+    "imageURL": "",
+    "description": "679 Lafayette Ave is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "6713824b-0742-4650-adf7-56185bf2f448",
+    "name": "Our Lady of Lebanon Maronite Catholic Cathedral",
+    "latitude": 40.6942202,
+    "longitude": -73.9941115,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Our Lady of Lebanon Maronite Catholic Cathedral is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7dcbda44-aa57-4886-b5b3-13de3208e9af",
+    "name": "Rooftop Reds",
+    "latitude": 40.6984774,
+    "longitude": -73.977732,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Rooftop Reds is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "01400e20-160a-49b1-9e63-08c8828280e0",
+    "name": "Brooklyn Visitation Monastery",
+    "latitude": 40.6219355,
+    "longitude": -74.0346561,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Visitation Monastery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "34de14ae-9f61-4114-a88d-c901f8802959",
+    "name": "The Barkaloo Cemetery",
+    "latitude": 40.6368074,
+    "longitude": -74.0345172,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Barkaloo Cemetery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "360d069e-7453-4b5d-a5b8-08cac25b6cfa",
+    "name": "Prospect Park - Ravine",
+    "latitude": 40.6638721,
+    "longitude": -73.968746,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Prospect Park - Ravine is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2b202fba-e423-4a2d-84c8-da8acb882ce6",
+    "name": "Lookout Hill",
+    "latitude": 40.6577778,
+    "longitude": -73.9719444,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lookout Hill is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a9908204-f805-4b76-a0fb-b96cdb75fb8a",
+    "name": "New York Transit Museum",
+    "latitude": 40.6905275,
+    "longitude": -73.9898178,
+    "icon": "default",
+    "imageURL": "",
+    "description": "New York Transit Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "64cdec81-063e-4f73-b632-98c63903b6cb",
+    "name": "372 Fulton St",
+    "latitude": 40.691317,
+    "longitude": -73.987861,
+    "icon": "default",
+    "imageURL": "",
+    "description": "372 Fulton St is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "66809b13-faf9-4e85-bc10-98e73cce047b",
+    "name": "Prospect Park Boathouse + Audubon Center",
+    "latitude": 40.6608215,
+    "longitude": -73.9652444,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Prospect Park Boathouse + Audubon Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "6574451d-3dd7-4d0b-819a-27ae67eeaffe",
+    "name": "Pacifier Tree",
+    "latitude": 40.6334879,
+    "longitude": -73.9882162,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Pacifier Tree is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "80c86492-4e61-4c9d-ba95-f9e60b20e5cf",
+    "name": "Gleason's Gym",
+    "latitude": 40.7029749,
+    "longitude": -73.9889864,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gleason's Gym is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "36070fc7-c94f-4858-9f2d-e278245f05eb",
+    "name": "Quaker Cemetery",
+    "latitude": 40.6593127,
+    "longitude": -73.9726639,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Quaker Cemetery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "18ff8821-ca54-4294-93db-7ef38b8f38f4",
+    "name": "TRAINWORLD",
+    "latitude": 40.6359665,
+    "longitude": -73.9778183,
+    "icon": "default",
+    "imageURL": "",
+    "description": "TRAINWORLD is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bc51f7a0-27d9-4988-afb0-ccbc328ab385",
+    "name": "Grand Prospect Hall",
+    "latitude": 40.6638097,
+    "longitude": -73.9895988,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grand Prospect Hall is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d235f3a0-bad7-4639-b652-0cb8accfe0e1",
+    "name": "International Studio & Curatorial Program",
+    "latitude": 40.714231,
+    "longitude": -73.9346977,
+    "icon": "default",
+    "imageURL": "",
+    "description": "International Studio & Curatorial Program is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0aee8e3d-84d9-48ce-8a60-57db8dea2294",
+    "name": "Erie Basin Park",
+    "latitude": 40.6711264,
+    "longitude": -74.012936,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Erie Basin Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f1d206d8-2c29-44e7-8c4e-5e83622596ec",
+    "name": "Ample Hills Factory and Museum",
+    "latitude": 40.6748299,
+    "longitude": -74.0156844,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ample Hills Factory and Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8d7e7ae1-8160-4153-aa0d-b33ec7486f2d",
+    "name": "Mellow Pages Library",
+    "latitude": 40.6986516,
+    "longitude": -73.9342599,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Mellow Pages Library is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b86341ac-5f72-40c5-8636-8b2b7ac6045b",
+    "name": "Our Lady of Perpetual Help Church",
+    "latitude": 40.6396319,
+    "longitude": -74.0154736,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Our Lady of Perpetual Help Church is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "16ce044b-080b-4420-a1c4-d3df629c4ac9",
+    "name": "Dennet Place",
+    "latitude": 40.6765256,
+    "longitude": -73.9975637,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dennet Place is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "cba23571-d2f2-4264-92a7-26f93b717061",
+    "name": "GBX Gowanus Bay Terminal",
+    "latitude": 40.6692899,
+    "longitude": -74.0076108,
+    "icon": "default",
+    "imageURL": "",
+    "description": "GBX Gowanus Bay Terminal is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b0c5951a-9e8f-4a7f-bcf0-a089e5860ec6",
+    "name": "Amorphic Robot Works",
+    "latitude": 40.678311,
+    "longitude": -74.0105985,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Amorphic Robot Works is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8f97b623-a4a0-454a-a517-aad3ee89b163",
+    "name": "Warren Place",
+    "latitude": 40.6879362,
+    "longitude": -73.9984861,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Warren Place is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c34e9d5c-e9df-4e04-9509-d72acf548278",
+    "name": "Torah Animal World",
+    "latitude": 40.6354863,
+    "longitude": -73.9804474,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Torah Animal World is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "25f6f749-a004-48be-85d9-e6e9dff3eb68",
+    "name": "Wyckoff-Bennet Homestead",
+    "latitude": 40.6108391,
+    "longitude": -73.9513319,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Wyckoff-Bennet Homestead is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3085b07e-bf5c-48cc-81b1-d349065db702",
+    "name": "St. Ann & the Holy Trinity Church",
+    "latitude": 40.6945037,
+    "longitude": -73.9924631,
+    "icon": "default",
+    "imageURL": "",
+    "description": "St. Ann & the Holy Trinity Church is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "cce9c524-91fa-4a91-82d0-7d05e2a1d165",
+    "name": "Commandant's House",
+    "latitude": 40.7023868,
+    "longitude": -73.980335,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Commandant's House is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2ce18a20-0f3b-4365-9923-94495e8c6721",
+    "name": "500 25th St",
+    "latitude": 40.6580779,
+    "longitude": -73.9948493,
+    "icon": "default",
+    "imageURL": "",
+    "description": "500 25th St is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "9003abde-ed93-4550-9147-84350ceb8506",
+    "name": "Weir J Ebb & Co Inc",
+    "latitude": 40.659115,
+    "longitude": -73.996076,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Weir J Ebb & Co Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "de71bd7f-f9c0-4175-8b90-d6b4afc41407",
+    "name": "Minerva Statue",
+    "latitude": 40.6570104,
+    "longitude": -73.9897067,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Minerva Statue is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4737e438-25a7-463c-9a82-13ecab11f024",
+    "name": "Ridgewood Reservoir",
+    "latitude": 40.6889501,
+    "longitude": -73.8864839,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ridgewood Reservoir is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "72d3aa6d-ae5e-4e07-980e-5d7a6a3887fd",
+    "name": "2840 Atlantic Ave",
+    "latitude": 40.676488,
+    "longitude": -73.888919,
+    "icon": "default",
+    "imageURL": "",
+    "description": "2840 Atlantic Ave is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1eae1b44-95b0-443b-8be9-8710e3dd1383",
+    "name": "Floyd Bennett Field",
+    "latitude": 40.5910174,
+    "longitude": -73.8906091,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Floyd Bennett Field is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e60a01df-ddff-420c-9a6a-b6787302d6f6",
+    "name": "John Paul Jones Park",
+    "latitude": 40.6108083,
+    "longitude": -74.0340919,
+    "icon": "default",
+    "imageURL": "",
+    "description": "John Paul Jones Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "842cb038-6359-4789-80b3-68e4d9b101bc",
+    "name": "Outside Space NYC Landscape and Garden Design",
+    "latitude": 40.693169,
+    "longitude": -73.961144,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Outside Space NYC Landscape and Garden Design is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "73586cbc-8bf1-4d2b-9022-42ded8123aa4",
+    "name": "FINE & RAW Chocolate",
+    "latitude": 40.705377,
+    "longitude": -73.933755,
+    "icon": "default",
+    "imageURL": "",
+    "description": "FINE & RAW Chocolate is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "87961661-caca-42ae-9a07-e9ee55093e47",
+    "name": "Brooklyn Terminal Market Merchants Association",
+    "latitude": 40.6431954,
+    "longitude": -73.9153159,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Terminal Market Merchants Association is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2dd8434b-9aa6-4202-813d-49158bad4b97",
+    "name": "The Muse",
+    "latitude": 40.6914551,
+    "longitude": -73.9024229,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Muse is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ebe3316c-4041-4b95-9f1e-d146b4c1a2d7",
+    "name": "North Brooklyn Boat Club",
+    "latitude": 40.7384101,
+    "longitude": -73.9531242,
+    "icon": "default",
+    "imageURL": "",
+    "description": "North Brooklyn Boat Club is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5b558ab3-67cf-4b6d-a7bc-987d5b03665d",
+    "name": "Pioneer Works",
+    "latitude": 40.6792081,
+    "longitude": -74.0121513,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Pioneer Works is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "053678f2-01a5-4cbf-9728-259190bea32e",
+    "name": "Drummer's Grove",
+    "latitude": 40.6558582,
+    "longitude": -73.9625246,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Drummer's Grove is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "82c8682c-e45a-4cf7-a224-a26c5d645b9b",
+    "name": "The Center for Fiction",
+    "latitude": 40.6868022,
+    "longitude": -73.9785744,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Center for Fiction is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "207aa0eb-d60c-4587-a0e1-46ff90967f98",
+    "name": "High Valley Books",
+    "latitude": 40.7229747,
+    "longitude": -73.9511741,
+    "icon": "default",
+    "imageURL": "",
+    "description": "High Valley Books is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f227bad5-5048-4b1d-b434-de8712dd9438",
+    "name": "Stuart Cinema & Cafe",
+    "latitude": 40.7292358,
+    "longitude": -73.9592967,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Stuart Cinema & Cafe is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "daa66a4b-ef97-4aea-b4ef-ab3b15a706d1",
+    "name": "Staubitz Market",
+    "latitude": 40.6864565,
+    "longitude": -73.9940737,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Staubitz Market is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2201d62d-f57b-4104-95ed-6ab6a9fc43f3",
+    "name": "Metropolitan Rod & Gun Club",
+    "latitude": 40.68924,
+    "longitude": -73.994332,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Metropolitan Rod & Gun Club is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "92fcc907-6114-4e34-b641-9fcbd90d4bab",
+    "name": "Barb\u00e8s",
+    "latitude": 40.6677603,
+    "longitude": -73.9838642,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Barb\u00e8s is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "091bf199-7ddc-4a22-a5cc-7949275afe63",
+    "name": "Niblo Mausoleum",
+    "latitude": 40.6491593,
+    "longitude": -73.9938053,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Niblo Mausoleum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c37f57d4-21e3-4770-bf4e-17663a40c52c",
+    "name": "van ness mausoleum",
+    "latitude": 40.6580779,
+    "longitude": -73.9948493,
+    "icon": "default",
+    "imageURL": "",
+    "description": "van ness mausoleum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ee55986a-017c-477e-b39b-8028f6d45d75",
+    "name": "Grave of Charlotte Canda",
+    "latitude": 40.6553671,
+    "longitude": -73.9918226,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grave of Charlotte Canda is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "addabfcd-b755-4469-a99b-346234e181f0",
+    "name": "Better Than Jam's STORE & STUDIO",
+    "latitude": 40.705467,
+    "longitude": -73.932367,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Better Than Jam's STORE & STUDIO is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "fb220a3f-9767-4689-b467-3467c4d5d606",
+    "name": "Brooklyn Bridge Park Boathouse, Pier 2",
+    "latitude": 40.6998833,
+    "longitude": -73.9987987,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Bridge Park Boathouse, Pier 2 is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7c6d1076-b1f0-49e8-96f6-12b071bea3c6",
+    "name": "Brooklyn Cyclones at MCU Park",
+    "latitude": 40.5748057,
+    "longitude": -73.9844943,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Cyclones at MCU Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "52ca7233-aa4b-4fb3-b636-21ff8b4a4d93",
+    "name": "Glass Bottle Beach",
+    "latitude": 40.5815181,
+    "longitude": -73.8961059,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Glass Bottle Beach is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "578247c6-bb2d-459e-aa23-d3e00f306291",
+    "name": "She-Weld",
+    "latitude": 40.6741953,
+    "longitude": -74.011412,
+    "icon": "default",
+    "imageURL": "",
+    "description": "She-Weld is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d2132e1c-892a-4880-9d0c-e9dcc193cbb5",
+    "name": "Bushwick Community Darkroom",
+    "latitude": 40.699218,
+    "longitude": -73.929546,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bushwick Community Darkroom is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "16e271a0-c1af-46d0-a2d2-27783f295a93",
+    "name": "Brooklyn Film Camera",
+    "latitude": 40.707737,
+    "longitude": -73.9247634,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Film Camera is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "839b4114-c017-4f23-8751-2ba9896845e1",
+    "name": "Lullwater Bridge",
+    "latitude": 40.660643,
+    "longitude": -73.9658835,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lullwater Bridge is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e57ff245-3440-4db0-a138-ea1c94e629f5",
+    "name": "Camperdown Elm",
+    "latitude": 40.6604439,
+    "longitude": -73.9650484,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Camperdown Elm is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c80db1c1-8d56-429e-a1e6-19dd3c4a048f",
+    "name": "Brooklyn Plantology by Lapide",
+    "latitude": 40.643811,
+    "longitude": -73.915038,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Plantology by Lapide is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1c390182-f747-469a-9fef-80994dfded6f",
+    "name": "Textile Arts Center",
+    "latitude": 40.6768345,
+    "longitude": -73.985221,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Textile Arts Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d661af12-5ac0-4b96-be02-010402e6c4b2",
+    "name": "Marine Park Cricket Field",
+    "latitude": 40.606658,
+    "longitude": -73.9357984,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Marine Park Cricket Field is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1b4291c4-1a6b-40ea-82c9-0c96a6764bd3",
+    "name": "Canarsie Park Cricket Ground 1",
+    "latitude": 40.6257282,
+    "longitude": -73.8993055,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Canarsie Park Cricket Ground 1 is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7e8ac7ea-d1d1-45bd-a0ab-44e24a879934",
+    "name": "Crown Finish Caves",
+    "latitude": 40.6771821,
+    "longitude": -73.9566243,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Crown Finish Caves is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e926815b-69d6-45ed-bb7e-914068e40928",
+    "name": "Espo's Art World",
+    "latitude": 40.6824672,
+    "longitude": -73.9798588,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Espo's Art World is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "937beb9a-3249-404a-98db-18e4136078c1",
+    "name": "Flatbush Reformed Church",
+    "latitude": 40.6501539,
+    "longitude": -73.9589433,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Flatbush Reformed Church is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2bb4d158-f3ea-4be6-96c6-ed7f9ccd6752",
+    "name": "Kick Axe Throwing BROOKLYN",
+    "latitude": 40.6791092,
+    "longitude": -73.9836161,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kick Axe Throwing BROOKLYN is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b911644b-c69a-4c75-970a-485c3fe5607a",
+    "name": "Lesbian Herstory Archives",
+    "latitude": 40.6618645,
+    "longitude": -73.9803428,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lesbian Herstory Archives is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8863a3c3-49de-46c3-80de-58c275c9ed25",
+    "name": "Coney Island History Project",
+    "latitude": 40.573839,
+    "longitude": -73.979541,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Coney Island History Project is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1fca8004-2f46-43ff-8b5c-31febe00dea0",
+    "name": "Eastern Parkway Brooklyn Museum Station",
+    "latitude": 40.6719938,
+    "longitude": -73.9642065,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Eastern Parkway Brooklyn Museum Station is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "916c14dc-4003-45ce-b42a-031a62095976",
+    "name": "131 Buckingham Rd",
+    "latitude": 40.6473457,
+    "longitude": -73.9645954,
+    "icon": "default",
+    "imageURL": "",
+    "description": "131 Buckingham Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "97b484f8-a888-4237-a2a4-674255e6a473",
+    "name": "101 Rugby Rd",
+    "latitude": 40.6473788,
+    "longitude": -73.9662439,
+    "icon": "default",
+    "imageURL": "",
+    "description": "101 Rugby Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d17a4445-3092-4eaf-abd2-4de93a9650dd",
+    "name": "100 Rugby Rd",
+    "latitude": 40.6472798,
+    "longitude": -73.9667719,
+    "icon": "default",
+    "imageURL": "",
+    "description": "100 Rugby Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bcc00a03-9256-4b9b-b7ea-0187e0445d41",
+    "name": "1320 Ditmas Ave",
+    "latitude": 40.636427,
+    "longitude": -73.964653,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1320 Ditmas Ave is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2849ca63-d3fc-4bca-baf8-c1a10d0c95ed",
+    "name": "Van Brunt Stillhouse",
+    "latitude": 40.6734904,
+    "longitude": -74.0100937,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Van Brunt Stillhouse is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0a5e51f0-0494-43e8-81f3-06e49de16813",
+    "name": "Miss Brooklyn & Miss Manhattan",
+    "latitude": 40.6961538,
+    "longitude": -73.9847737,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Miss Brooklyn & Miss Manhattan is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ffa41d22-09cd-48c4-bb20-9c4e11eac204",
+    "name": "Then She Fell",
+    "latitude": 40.7111031,
+    "longitude": -73.9429092,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Then She Fell is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ab571bd7-32c4-4569-9009-df4a2e0926c9",
+    "name": "Park Slope Plane Crash site",
+    "latitude": 40.6777249,
+    "longitude": -73.9732782,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Park Slope Plane Crash site is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "45361d49-cd3a-4e81-9e25-7b19588ad62b",
+    "name": "Widow Jane Distillery",
+    "latitude": 40.6773529,
+    "longitude": -74.0153869,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Widow Jane Distillery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "db804fb1-573e-4d1c-b1bb-71568d92704b",
+    "name": "Raaka Chocolate",
+    "latitude": 40.6814367,
+    "longitude": -74.0071505,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Raaka Chocolate is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ad730b09-f852-4ac7-9a78-e9495be3a312",
+    "name": "Red Hook Community Farms",
+    "latitude": 40.6725717,
+    "longitude": -74.0087895,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Red Hook Community Farms is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a6561695-205b-44bc-89df-2c9f49cbeb24",
+    "name": "St. Mary Star of the Sea",
+    "latitude": 40.6768146,
+    "longitude": -73.9983507,
+    "icon": "default",
+    "imageURL": "",
+    "description": "St. Mary Star of the Sea is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8ab28cac-aae5-4ede-8c7e-dc9b6e5bbffd",
+    "name": "Calvert Vaux Park",
+    "latitude": 40.5843671,
+    "longitude": -73.9952563,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Calvert Vaux Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a046bca0-138e-47ad-b21b-89a14b949706",
+    "name": "Microscope Gallery",
+    "latitude": 40.706314,
+    "longitude": -73.921075,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Microscope Gallery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "99381dee-3c42-4114-a586-965399a38258",
+    "name": "Lions Roar Karaoke",
+    "latitude": 40.708338,
+    "longitude": -73.941333,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lions Roar Karaoke is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "163133ed-17ce-4345-b127-58940a2ada71",
+    "name": "Knickerbocker Field Club",
+    "latitude": 40.647842,
+    "longitude": -73.963455,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Knickerbocker Field Club is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "09c6d653-3a46-44a2-9c90-a8915d8ab60c",
+    "name": "National Bakery",
+    "latitude": 40.5771617,
+    "longitude": -73.9648664,
+    "icon": "default",
+    "imageURL": "",
+    "description": "National Bakery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "81639267-7897-439e-981c-b024c4ead5f3",
+    "name": "Peephole Cinema",
+    "latitude": 40.7016474,
+    "longitude": -73.9272448,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Peephole Cinema is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "11f93052-c3c6-4204-adb4-173ad007d2dc",
+    "name": "Fifth Avenue Bingo",
+    "latitude": 40.6701876,
+    "longitude": -73.9858765,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fifth Avenue Bingo is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3f2349db-7c86-437f-8288-d78eae1ee442",
+    "name": "Sorted Library",
+    "latitude": 40.7042318,
+    "longitude": -73.9870246,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sorted Library is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4133b3d9-b81b-4079-a306-959e31bd984a",
+    "name": "Bensonhurst statue house",
+    "latitude": 40.6042365,
+    "longitude": -73.9963288,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bensonhurst statue house is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7236dff9-ee8e-40a1-a3c6-6686410ae718",
+    "name": "Gotham Greens",
+    "latitude": 40.6750448,
+    "longitude": -73.9886778,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gotham Greens is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "23a0304c-1f16-44ea-a289-68946d967146",
+    "name": "Naval Cemetery Landscape",
+    "latitude": 40.6992601,
+    "longitude": -73.9630928,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Naval Cemetery Landscape is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "cc864d45-3018-4a32-8bfe-798c0c0d9243",
+    "name": "Shirley Chisholm State Park",
+    "latitude": 40.6430089,
+    "longitude": -73.8754301,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Shirley Chisholm State Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bbcac260-22fa-4b16-94bf-8182b0df92e8",
+    "name": "Brooklyn Waterfront Artists",
+    "latitude": 40.6727944,
+    "longitude": -74.0176183,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Waterfront Artists is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8edf6859-a791-4919-ada9-a99e22043a72",
+    "name": "Carmelite Monastery",
+    "latitude": 40.684426,
+    "longitude": -73.890315,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Carmelite Monastery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4d1e1088-a29d-4e8f-9020-1e3cd120cf27",
+    "name": "Wendy\u2019s Subway",
+    "latitude": 40.70384,
+    "longitude": -73.9379809,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Wendy\u2019s Subway is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ac72d2c7-287e-4a19-a5aa-84dae7e97393",
+    "name": "The Hoxton, Williamsburg",
+    "latitude": 40.7208251,
+    "longitude": -73.9587909,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Hoxton, Williamsburg is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "49d269b3-5d0d-4f52-a98d-f7fcd36dc953",
+    "name": "Brooklyn Grange Sunset Park",
+    "latitude": 40.6594154,
+    "longitude": -74.0044891,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Grange Sunset Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "03fd66fd-9fe5-499b-bb36-16cdde8b2554",
+    "name": "Friends of Refugees of Eastern Europe",
+    "latitude": 40.6679726,
+    "longitude": -73.943198,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Friends of Refugees of Eastern Europe is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c6bfb09c-36fd-44ab-a497-01c5b05cb77b",
+    "name": "mansions of president street",
+    "latitude": 40.6676959,
+    "longitude": -73.9435885,
+    "icon": "default",
+    "imageURL": "",
+    "description": "mansions of president street is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2017c638-a99c-4554-979c-dd62559293fc",
+    "name": "Blue: The Tatter Textile Library",
+    "latitude": 40.6770318,
+    "longitude": -73.985069,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Blue: The Tatter Textile Library is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7abe7588-063d-4f38-a167-2d006561dfe6",
+    "name": "Most Holy Trinity Cemetery",
+    "latitude": 40.6886665,
+    "longitude": -73.9028772,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Most Holy Trinity Cemetery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0d32e263-f18a-4aa5-9a75-4f643233c4be",
+    "name": "Berl's Brooklyn Poetry Shop",
+    "latitude": 40.7025762,
+    "longitude": -73.9874484,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Berl's Brooklyn Poetry Shop is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "faab5d81-eb11-4e8f-8406-6ee9cec2231f",
+    "name": "Fresh Creek Nature Preserve",
+    "latitude": 40.6443269,
+    "longitude": -73.8855623,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fresh Creek Nature Preserve is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d2c3d112-3840-4617-ae1a-06aaf2e1501a",
+    "name": "Endale Arch",
+    "latitude": 40.6710577,
+    "longitude": -73.9690506,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Endale Arch is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "44c69ca2-98c2-4a51-a961-b177be31b6ee",
+    "name": "Recess",
+    "latitude": 40.6973722,
+    "longitude": -73.9679774,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Recess is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c82304b3-1ef6-4040-9495-2b43697c07ee",
+    "name": "Hadas Gallery",
+    "latitude": 40.6939265,
+    "longitude": -73.9626766,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hadas Gallery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "56789782-9e0f-4f27-8b55-3419bf89ff06",
+    "name": "Plumb Beach (Gateway National Recreation Area)",
+    "latitude": 40.583293,
+    "longitude": -73.9209991,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Plumb Beach (Gateway National Recreation Area) is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b758ecee-9112-452d-bf64-a3065cf598cd",
+    "name": "Marine Park Salt Marsh Nature Center",
+    "latitude": 40.6040464,
+    "longitude": -73.9306319,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Marine Park Salt Marsh Nature Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7606f4e7-5bd6-4783-b2de-2954c626d13a",
+    "name": "Hudson Avenue",
+    "latitude": 40.7030725,
+    "longitude": -73.9811206,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hudson Avenue is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "94554a0b-7bd7-4d2f-8ca3-f0d6122d66e4",
+    "name": "1440 Albemarle Rd",
+    "latitude": 40.6463726,
+    "longitude": -73.9656929,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1440 Albemarle Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "920ade0a-b008-4ba4-881b-7aa1f663ae6f",
+    "name": "1510 Albemarle Rd",
+    "latitude": 40.6464586,
+    "longitude": -73.965073,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1510 Albemarle Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "46c1fb7e-ed59-4fae-a01d-594d3e1f182a",
+    "name": "1306 Albemarle Rd",
+    "latitude": 40.6462459,
+    "longitude": -73.9669786,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1306 Albemarle Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "95ebeb00-f195-41f0-8afe-92dbc4132414",
+    "name": "125 Buckingham Rd",
+    "latitude": 40.6474062,
+    "longitude": -73.9646778,
+    "icon": "default",
+    "imageURL": "",
+    "description": "125 Buckingham Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f36d120a-af5f-4b30-8568-ecbfb3e7b65c",
+    "name": "85 Buckingham Rd",
+    "latitude": 40.6482838,
+    "longitude": -73.9644851,
+    "icon": "default",
+    "imageURL": "",
+    "description": "85 Buckingham Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d72181d5-fbc8-4e5d-9415-c3b29bca40fa",
+    "name": "317 Rugby Rd",
+    "latitude": 40.6420382,
+    "longitude": -73.9652572,
+    "icon": "default",
+    "imageURL": "",
+    "description": "317 Rugby Rd is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "05a28766-fa9c-49f6-adc2-4b9b5cef2f50",
+    "name": "The Jackie Robinson House",
+    "latitude": 40.6481035,
+    "longitude": -73.927264,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Jackie Robinson House is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "cb1f8cdb-3515-48fd-883d-6c9bebead548",
+    "name": "Enrico Caruso Museum of America",
+    "latitude": 40.6028756,
+    "longitude": -73.9535492,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Enrico Caruso Museum of America is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "41c338f2-87cc-43ca-a92c-a47edb427b7b",
+    "name": "Gingerbread House",
+    "latitude": 40.6278614,
+    "longitude": -74.0383897,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gingerbread House is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bdb5878e-61c2-4ce5-9434-7e3bd1f9799a",
+    "name": "Smack Mellon",
+    "latitude": 40.7037407,
+    "longitude": -73.9897595,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Smack Mellon is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "cd9c3380-9944-498a-8a50-904b6e077bee",
+    "name": "Wonderville",
+    "latitude": 40.6923719,
+    "longitude": -73.9274634,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Wonderville is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "aec0e4c9-64d1-466d-9402-7b2cb1bf512a",
+    "name": "MINUS SPACE",
+    "latitude": 40.7033588,
+    "longitude": -73.9908596,
+    "icon": "default",
+    "imageURL": "",
+    "description": "MINUS SPACE is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c27dfafa-df14-43b8-9d68-425d8545d244",
+    "name": "Shtetl Art Gallery",
+    "latitude": 40.6974469,
+    "longitude": -73.9589178,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Shtetl Art Gallery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d761b085-5663-4fd1-a292-22068f2ca9ba",
+    "name": "Greenpoint Library",
+    "latitude": 40.7259813,
+    "longitude": -73.9506651,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Greenpoint Library is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f905f7b6-e055-4f03-8935-5434a63a30e0",
+    "name": "82 Degraw St",
+    "latitude": 40.6859643,
+    "longitude": -74.0037775,
+    "icon": "default",
+    "imageURL": "",
+    "description": "82 Degraw St is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "00467f09-dee8-42ba-8c0a-598d6ad4496f",
+    "name": "Film Noir Cinema",
+    "latitude": 40.7273005,
+    "longitude": -73.9515454,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Film Noir Cinema is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "19e3a124-3649-4989-a863-77f47d7c3a3b",
+    "name": "BJ's Park and Rest Area",
+    "latitude": 40.5913495,
+    "longitude": -73.9999153,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BJ's Park and Rest Area is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ac673e05-bb3b-48dd-b95a-39cf0d9ddc24",
+    "name": "North Williamsburg",
+    "latitude": 40.720844,
+    "longitude": -73.9649124,
+    "icon": "default",
+    "imageURL": "",
+    "description": "North Williamsburg is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "597d332e-da48-46ce-8b6a-a960975d838a",
+    "name": "Underhill Walls",
+    "latitude": 40.6742795,
+    "longitude": -73.9672186,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Underhill Walls is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8424cf10-2214-4cc2-b829-bc184b79ae09",
+    "name": "Harold and Maude Vintage",
+    "latitude": 40.6897711,
+    "longitude": -73.9510959,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Harold and Maude Vintage is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e51a6bb7-4200-4a55-a683-729cf0ca1def",
+    "name": "Herbert Von King Park",
+    "latitude": 40.689612,
+    "longitude": -73.946732,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Herbert Von King Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "70b2e9fe-a948-43d5-bd6b-f5cdc7121f2f",
+    "name": "Star Perfumes & Gift Co",
+    "latitude": 40.6809646,
+    "longitude": -73.9532796,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Star Perfumes & Gift Co is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "47f5b1ff-816e-4ffa-bf8a-6808dfcc4da2",
+    "name": "Ocean Avenue Pedestrian Bridge",
+    "latitude": 40.5822162,
+    "longitude": -73.949363,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ocean Avenue Pedestrian Bridge is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ce9fc376-e25b-46c5-8675-eb994295263d",
+    "name": "Holocaust Memorial Park",
+    "latitude": 40.5824506,
+    "longitude": -73.953694,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Holocaust Memorial Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "86c9c595-be7b-4b36-a0d0-eebaf92a739a",
+    "name": "Cherry Hill Gourmet Inc",
+    "latitude": 40.5838861,
+    "longitude": -73.9487833,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Cherry Hill Gourmet Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2de9a9b8-4241-4ed4-a018-69b2b1f35816",
+    "name": "Syndicated Bar Theater Kitchen",
+    "latitude": 40.7048388,
+    "longitude": -73.9330082,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Syndicated Bar Theater Kitchen is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "409eff69-5a93-445b-9e02-fad3040f2955",
+    "name": "Leroy's Place BROOKLYN",
+    "latitude": 40.6660201,
+    "longitude": -73.9820273,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Leroy's Place BROOKLYN is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "cf95434c-825c-4e05-a184-5b90ad8a7811",
+    "name": "Webster Place",
+    "latitude": 40.663437,
+    "longitude": -73.986655,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Webster Place is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b17625be-430b-47f2-b882-784c24e8d394",
+    "name": "Williamsburg Music Center",
+    "latitude": 40.711305,
+    "longitude": -73.963079,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Williamsburg Music Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "060dcb0f-f863-464f-bef2-3b9abf227b8f",
+    "name": "Archestratus Books + Foods",
+    "latitude": 40.732808,
+    "longitude": -73.955144,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Archestratus Books + Foods is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "806d9ac5-889b-4fb7-a23f-0592f654cca9",
+    "name": "Swivel Gallery",
+    "latitude": 40.6871329,
+    "longitude": -73.9508047,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Swivel Gallery is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "348c5122-25bf-46e2-be14-30924cd20261",
+    "name": "Alhambra Apartments",
+    "latitude": 40.6813792,
+    "longitude": -73.9500051,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Alhambra Apartments is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "028f7075-1eb7-41c4-a942-21e2111ff64c",
+    "name": "488 Nostrand Ave.",
+    "latitude": 40.6821433,
+    "longitude": -73.9500973,
+    "icon": "default",
+    "imageURL": "",
+    "description": "488 Nostrand Ave. is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "9fae4cca-6d95-4a8b-bd55-613559731461",
+    "name": "480 Nostrand Ave.",
+    "latitude": 40.6822935,
+    "longitude": -73.9501148,
+    "icon": "default",
+    "imageURL": "",
+    "description": "480 Nostrand Ave. is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3f6938f6-979d-4070-8e76-2847bb56da4a",
+    "name": "Sunset Play Center",
+    "latitude": 40.6469924,
+    "longitude": -74.0021546,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sunset Play Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "5ef959ab-2c0f-47e6-84f2-fd0b6790b9ce",
+    "name": "Eastern Parkway Pedestrian Mall",
+    "latitude": 40.6695466,
+    "longitude": -73.9421846,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Eastern Parkway Pedestrian Mall is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1ebc2e26-3e36-4e77-a2b4-3422dd8f0ec6",
+    "name": "Ocean Parkway",
+    "latitude": 40.6137386,
+    "longitude": -73.9684303,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ocean Parkway is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "448df033-e10c-48c0-aadc-f9a4b920cb60",
+    "name": "Manhattan Beach Park",
+    "latitude": 40.5768049,
+    "longitude": -73.942583,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Manhattan Beach Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "76f6eb97-8878-4a50-81bb-fe2e4de10768",
+    "name": "Sheepshead Bay Piers",
+    "latitude": 40.5839556,
+    "longitude": -73.9459804,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sheepshead Bay Piers is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a8eff85c-b185-42bb-b547-40aac99eab8c",
+    "name": "Kingsborough Community College",
+    "latitude": 40.5786707,
+    "longitude": -73.9351016,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kingsborough Community College is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ffb4d589-8e7c-4c16-87f0-535f07b1ea87",
+    "name": "Brooklyn Public Library - Gerritsen Beach Branch",
+    "latitude": 40.5913977,
+    "longitude": -73.9239955,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Public Library - Gerritsen Beach Branch is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "039e6868-5361-47c2-ae48-a17aa9a3d3a7",
+    "name": "Tamaqua Bar & Marina",
+    "latitude": 40.594344,
+    "longitude": -73.929953,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Tamaqua Bar & Marina is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1a3f3935-5003-4719-b844-897a7919b720",
+    "name": "Bush Terminal Piers Park",
+    "latitude": 40.6534111,
+    "longitude": -74.0201023,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bush Terminal Piers Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "cc688aab-e6ac-4c36-9571-1dcb4d83a5ef",
+    "name": "Russian Books & Gifts Store | St-Petersburg",
+    "latitude": 40.5763877,
+    "longitude": -73.9661344,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Russian Books & Gifts Store | St-Petersburg is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f8c5ad9a-08f0-4e78-b8b7-c12fbde7df6a",
+    "name": "Master Theater",
+    "latitude": 40.5784015,
+    "longitude": -73.958527,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Master Theater is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "008513fa-d022-45a4-bffa-98b78a87c5d6",
+    "name": "American United Mosque",
+    "latitude": 40.6356299,
+    "longitude": -74.0091926,
+    "icon": "default",
+    "imageURL": "",
+    "description": "American United Mosque is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e8b30354-2a0e-49f3-976d-ccd1a80247c2",
+    "name": "Hurricane Point",
+    "latitude": 40.7232805,
+    "longitude": -73.962625,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hurricane Point is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a8405966-90f9-4a7d-a773-24efc8c4ce29",
+    "name": "Alliance of Resident Theatres",
+    "latitude": 40.6851473,
+    "longitude": -73.9735043,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Alliance of Resident Theatres is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "be0dd166-e3d9-45e8-9151-51423594193c",
+    "name": "JACK",
+    "latitude": 40.6826399,
+    "longitude": -73.9608721,
+    "icon": "default",
+    "imageURL": "",
+    "description": "JACK is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "02aa6746-acdb-4565-93d7-0f58dee51a01",
+    "name": "Asia Art Archive in America",
+    "latitude": 40.700149,
+    "longitude": -73.9942743,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Asia Art Archive in America is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "806f349a-ed79-40c2-8021-cf3a25e88cf3",
+    "name": "Elsewhere",
+    "latitude": 40.709411,
+    "longitude": -73.923169,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Elsewhere is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "432036f7-2a64-4342-8a2b-783c683956a7",
+    "name": "El Museo de Los Sures",
+    "latitude": 40.7140289,
+    "longitude": -73.9626,
+    "icon": "default",
+    "imageURL": "",
+    "description": "El Museo de Los Sures is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f1a59217-81b8-450d-adfe-dd8e7bfe51a1",
+    "name": "The Morbid Anatomy Library and Gift Shop",
+    "latitude": 40.6560789,
+    "longitude": -74.0078174,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Morbid Anatomy Library and Gift Shop is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ae08b0b4-4791-450f-8600-7a6f14d99e3d",
+    "name": "Museum of Women's Resistance",
+    "latitude": 40.6640557,
+    "longitude": -73.9528642,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Museum of Women's Resistance is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4165e536-bf55-4cfa-b969-6851db65ccf4",
+    "name": "Clive Davis Institute of Recorded Music",
+    "latitude": 40.6929116,
+    "longitude": -73.9874613,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Clive Davis Institute of Recorded Music is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b976279c-b742-4fd9-86bf-418221beeac2",
+    "name": "BrownstoneJAZZ",
+    "latitude": 40.6815763,
+    "longitude": -73.9469889,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BrownstoneJAZZ is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "dcfd3a90-d2f7-4186-8d8c-375a5fbb6742",
+    "name": "Ornithology Jazz Club",
+    "latitude": 40.6955888,
+    "longitude": -73.9319823,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ornithology Jazz Club is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "656e3f46-f4f3-4374-bd3e-75946f39d304",
+    "name": "WORTHLESSSTUDIOS",
+    "latitude": 40.7076408,
+    "longitude": -73.9313437,
+    "icon": "default",
+    "imageURL": "",
+    "description": "WORTHLESSSTUDIOS is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "21c192cc-9a8b-4f6b-86b0-dec752d88381",
+    "name": "Anopoli",
+    "latitude": 40.6352778,
+    "longitude": -74.0263889,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Anopoli is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "678a8308-6826-4a4f-88a4-e3bc4d8917c4",
+    "name": "Amant",
+    "latitude": 40.7123133,
+    "longitude": -73.9370549,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Amant is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7d1d2d00-3ab8-4344-a475-115dcf8b55f9",
+    "name": "BioBAT, Inc.",
+    "latitude": 40.6455096,
+    "longitude": -74.0238947,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BioBAT, Inc. is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "909a65db-c9a6-45aa-8c87-73cbfcabcb20",
+    "name": "Ryan Visitor Center - Floyd Bennett Field",
+    "latitude": 40.5881603,
+    "longitude": -73.8969745,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ryan Visitor Center - Floyd Bennett Field is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "24ff85f8-1251-4519-978d-39886d20f27e",
+    "name": "Gowanus Dredgers Canoe Club Boathouse",
+    "latitude": 40.6769483,
+    "longitude": -73.990036,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gowanus Dredgers Canoe Club Boathouse is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4f4d6051-dd65-493e-b21c-dbab00de9849",
+    "name": "Adams Street Library",
+    "latitude": 40.7040753,
+    "longitude": -73.9883644,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Adams Street Library is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2a1bc8f2-2c44-41e2-b3f8-75f6f5d89362",
+    "name": "Flatbush Central Caribbean Marketplace",
+    "latitude": 40.6529867,
+    "longitude": -73.959495,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Flatbush Central Caribbean Marketplace is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "52ebed1f-1b8c-45d3-a6c0-dd327cfef115",
+    "name": "Genspace",
+    "latitude": 40.6565705,
+    "longitude": -74.0026065,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Genspace is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "07cf4004-31b1-42f7-9c09-687e72f683ad",
+    "name": "Prison Ship Martyrs Monument",
+    "latitude": 40.6917937,
+    "longitude": -73.9755288,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Prison Ship Martyrs Monument is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "303db30c-8310-45bf-8dba-d3402d2a17be",
+    "name": "Stuffed Animal Tree of Bergen Beach",
+    "latitude": 40.6217157,
+    "longitude": -73.9111125,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Stuffed Animal Tree of Bergen Beach is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "49ebc4de-c395-489c-8511-e4df880e75d7",
+    "name": "martense lane rock",
+    "latitude": 40.6529966,
+    "longitude": -74.0017339,
+    "icon": "default",
+    "imageURL": "",
+    "description": "martense lane rock is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "638de4be-a394-440a-a41c-50c33aa2aae9",
+    "name": "Faurschou New York",
+    "latitude": 40.7335909,
+    "longitude": -73.9556203,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Faurschou New York is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4add2985-7c5e-4e01-bd84-2269c5ad7be4",
+    "name": "Delight Factory",
+    "latitude": 40.6753336,
+    "longitude": -73.9163716,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Delight Factory is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "40db450f-1263-4e0e-a8f4-396825f75faa",
+    "name": "Dumbo - Manhattan Bridge View",
+    "latitude": 40.7033165,
+    "longitude": -73.9895698,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dumbo - Manhattan Bridge View is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "38b879a5-55da-471c-a61b-b84ea57c1bcc",
+    "name": "Farm.One",
+    "latitude": 40.679678,
+    "longitude": -73.9689121,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Farm.One is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7be77415-8973-4fc1-8ecf-3358cb865c74",
+    "name": "Janet Borden Inc",
+    "latitude": 40.7033589,
+    "longitude": -73.9909737,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Janet Borden Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "23f8d182-02b3-4959-838e-052b81acba91",
+    "name": "e-flux",
+    "latitude": 40.6945365,
+    "longitude": -73.9613927,
+    "icon": "default",
+    "imageURL": "",
+    "description": "e-flux is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "51c21b00-ade8-4ad9-8f13-be9bb8630a69",
+    "name": "SHOOTING GALLERY",
+    "latitude": 40.5753863,
+    "longitude": -73.9800341,
+    "icon": "default",
+    "imageURL": "",
+    "description": "SHOOTING GALLERY is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "048d7c12-def8-4c81-a76c-83b0274f9ca6",
+    "name": "Chemistry Creative",
+    "latitude": 40.711596,
+    "longitude": -73.9367976,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Chemistry Creative is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d0c34020-58a7-4f27-a3ef-79cab87cc750",
+    "name": "Brownsville Heritage House Inc",
+    "latitude": 40.6644738,
+    "longitude": -73.9051607,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brownsville Heritage House Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "acf4159f-006d-4554-954e-2864d7fa797b",
+    "name": "Brooklyn Seltzer Museum",
+    "latitude": 40.6777958,
+    "longitude": -73.8699776,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Seltzer Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3e8e92af-0e4c-4539-9edf-10310d69a334",
+    "name": "Powerhouse Arts",
+    "latitude": 40.6764243,
+    "longitude": -73.9885252,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Powerhouse Arts is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e661ffa5-e97b-40b5-b943-4537f7e715fd",
+    "name": "Fallkill Falls",
+    "latitude": 40.6618385,
+    "longitude": -73.9714751,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fallkill Falls is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ec0c5833-3c01-497c-9103-6c32a77552f2",
+    "name": "Dead Letter No. 9",
+    "latitude": 40.716096,
+    "longitude": -73.964839,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dead Letter No. 9 is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "0d2c3997-74ae-4658-89d8-b21b231f7248",
+    "name": "FENG SWAY",
+    "latitude": 40.7248752,
+    "longitude": -73.9539942,
+    "icon": "default",
+    "imageURL": "",
+    "description": "FENG SWAY is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "408e0bd1-3753-4a9f-a698-794f8d5af437",
+    "name": "Mother of Junk",
+    "latitude": 40.7166347,
+    "longitude": -73.9566778,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Mother of Junk is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "99ca2516-a239-4b05-8f92-a3ca87602d04",
+    "name": "The Brooklyn Trust Company Building",
+    "latitude": 40.6945075,
+    "longitude": -73.9921493,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Brooklyn Trust Company Building is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d0c2ad34-9c91-406e-a66a-e877568b95f6",
+    "name": "9 Dekalb Ave",
+    "latitude": 40.6903851,
+    "longitude": -73.9825343,
+    "icon": "default",
+    "imageURL": "",
+    "description": "9 Dekalb Ave is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "309fc64e-e3c6-41b6-8b7f-98e2246306a0",
+    "name": "175 Broadway",
+    "latitude": 40.7103067,
+    "longitude": -73.9625705,
+    "icon": "default",
+    "imageURL": "",
+    "description": "175 Broadway is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2a867f3d-cd9e-43a7-bb2d-2d5bed2d854f",
+    "name": "1 Hanson Pl",
+    "latitude": 40.6854025,
+    "longitude": -73.9776761,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1 Hanson Pl is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e731ea76-aa9d-4ecf-8ef2-b8a9949aa071",
+    "name": "Fiske Terrace-Midwood Park Historic District",
+    "latitude": 40.6325863,
+    "longitude": -73.9599629,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fiske Terrace-Midwood Park Historic District is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "c098878a-de41-4c81-b2a8-3afdcd12929c",
+    "name": "Senator Street Historic District",
+    "latitude": 40.63645,
+    "longitude": -74.0243556,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Senator Street Historic District is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "29005c32-4665-4031-81a9-445f19883067",
+    "name": "The Ripped Bodice",
+    "latitude": 40.6760881,
+    "longitude": -73.9810057,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Ripped Bodice is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "4f0d0896-efc1-42bd-9d50-5423669e7257",
+    "name": "Big Night",
+    "latitude": 40.7303866,
+    "longitude": -73.9574593,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Big Night is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b262570b-b560-4615-95df-6265ac01cba9",
+    "name": "A.I.R.",
+    "latitude": 40.7038431,
+    "longitude": -73.9870756,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A.I.R. is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "dd5b3b38-3982-40cb-b9f2-a95e6aa31702",
+    "name": "Pratt Institute Sculpture Park",
+    "latitude": 40.6907367,
+    "longitude": -73.9639907,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Pratt Institute Sculpture Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "95c681b6-9400-4525-a697-38c13b695acb",
+    "name": "The Bone Museum",
+    "latitude": 40.705891,
+    "longitude": -73.9371786,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Bone Museum is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bf758567-0313-4d11-bf91-224ed570cdc0",
+    "name": "770 Eastern Pkwy",
+    "latitude": 40.6690693,
+    "longitude": -73.9428047,
+    "icon": "default",
+    "imageURL": "",
+    "description": "770 Eastern Pkwy is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2a0fa5f2-4119-4e96-836c-58e095a113fd",
+    "name": "Studebaker Building",
+    "latitude": 40.6729195,
+    "longitude": -73.9539377,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Studebaker Building is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "72a9f2a9-af80-4e12-aead-ef6398ecba20",
+    "name": "Amersfort Park",
+    "latitude": 40.6285772,
+    "longitude": -73.9390065,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Amersfort Park is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ea81d719-d6d4-4c6b-84f3-872c7d979da8",
+    "name": "Lindsay of rMayor Sign",
+    "latitude": 40.638668,
+    "longitude": -73.954328,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lindsay of rMayor Sign is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ec690492-23e7-42f1-8dda-7dc59fce41d0",
+    "name": "Newkirk Plaza Mural and Mosaic",
+    "latitude": 40.63507,
+    "longitude": -73.963024,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Newkirk Plaza Mural and Mosaic is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "6ccd1c60-58a7-4f04-986a-e962bab935e4",
+    "name": "Avenue H",
+    "latitude": 40.6297251,
+    "longitude": -73.9616534,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Avenue H is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "7b668116-18b7-40b2-9c39-75cc2a2eae20",
+    "name": "Grave of DeWitt Clinton",
+    "latitude": 40.6565885,
+    "longitude": -73.9930782,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grave of DeWitt Clinton is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ace81e50-2b64-4b53-8234-267f6bc84887",
+    "name": "Tomb of Secrets on Bay Grove Hill",
+    "latitude": 40.6565942,
+    "longitude": -73.9939001,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Tomb of Secrets on Bay Grove Hill is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e821e283-03fc-4658-81e4-d6aaf2ff6028",
+    "name": "The Brooklyn Clay Retort and Fire Brick Works Storehouse",
+    "latitude": 40.6750614,
+    "longitude": -74.0133986,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Brooklyn Clay Retort and Fire Brick Works Storehouse is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "76b91cc8-db5b-4bde-a3ea-caedcff70541",
+    "name": "Sunny's",
+    "latitude": 40.6756944,
+    "longitude": -74.0168722,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sunny's is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "6ce00ef9-3e26-4ad9-9681-64b0e52174dd",
+    "name": "Dream Fishing Tackle",
+    "latitude": 40.7250985,
+    "longitude": -73.9534561,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dream Fishing Tackle is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "79d33eb2-7376-4e0b-abcb-636aabd131ce",
+    "name": "Awesome Brooklyn",
+    "latitude": 40.658313,
+    "longitude": -73.96013,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Awesome Brooklyn is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "345ad13b-9392-4066-a95b-8e6256a8747f",
+    "name": "Awesome Home",
+    "latitude": 40.6574803,
+    "longitude": -73.9599302,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Awesome Home is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f32d6d6b-318e-4b3c-96db-727d3d618f1c",
+    "name": "peace & RIOT",
+    "latitude": 40.6837278,
+    "longitude": -73.9438436,
+    "icon": "default",
+    "imageURL": "",
+    "description": "peace & RIOT is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "3693a462-dec5-4260-9c87-60cb8668e341",
+    "name": "Woods Grove",
+    "latitude": 40.6839471,
+    "longitude": -73.9953942,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Woods Grove is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ff1b4b7d-f7dc-45ae-b25b-6ecd7645d382",
+    "name": "Yesterday's News Antiques and Collectibles",
+    "latitude": 40.6792892,
+    "longitude": -73.9975798,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Yesterday's News Antiques and Collectibles is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "64ff82b9-290d-44ae-b4f8-738598a0a3cc",
+    "name": "Eugene J. Candy Co.",
+    "latitude": 40.7032172,
+    "longitude": -73.9305453,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Eugene J. Candy Co. is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "8f606fe7-8a9b-4292-938e-ba9ea962c7bb",
+    "name": "Kato Sake Works",
+    "latitude": 40.70597,
+    "longitude": -73.9237799,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kato Sake Works is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "2b1a57ce-4547-4740-a547-79e3bf6f0fa3",
+    "name": "Skinny Dennis",
+    "latitude": 40.7159083,
+    "longitude": -73.9621222,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Skinny Dennis is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ba8239a8-602a-4bc5-a5d3-48b491aeca74",
+    "name": "Allison Eden Studios",
+    "latitude": 40.70263,
+    "longitude": -73.93644,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Allison Eden Studios is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "1a4526f2-04ff-45ce-99cc-07fcbf163f92",
+    "name": "Carroll Hall",
+    "latitude": 40.7049755,
+    "longitude": -73.930684,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Carroll Hall is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "656a8d28-1a5e-4791-9263-086dc5856ca7",
+    "name": "Noble Signs Inc",
+    "latitude": 40.6762022,
+    "longitude": -73.903304,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Noble Signs Inc is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "94eca493-5f88-4e48-bad2-eb2f20de208a",
+    "name": "Roulette Intermedium",
+    "latitude": 40.6856169,
+    "longitude": -73.9807735,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Roulette Intermedium is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "b6b0435a-dc3b-48ce-82ad-fee55b9f8df6",
+    "name": "Balcones Recycling",
+    "latitude": 40.661688,
+    "longitude": -74.0090809,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Balcones Recycling is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d27df33b-750f-45cf-8955-bd07f945c786",
+    "name": "Williamsburg Biannual",
+    "latitude": 40.7131513,
+    "longitude": -73.9673616,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Williamsburg Biannual is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "fbf9b3b0-99cb-4e25-adf9-cfcb64a6c7f0",
+    "name": "Picture Room",
+    "latitude": 40.690952,
+    "longitude": -73.9963734,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Picture Room is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "e9e650b4-609e-4dc0-872e-8f582432e442",
+    "name": "ShapeShifter Lab",
+    "latitude": 40.674967,
+    "longitude": -73.9760077,
+    "icon": "default",
+    "imageURL": "",
+    "description": "ShapeShifter Lab is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "27cd2a35-a91c-4b57-8cac-2159d540e902",
+    "name": "St. Cecilia's Roman Catholic Church",
+    "latitude": 40.7201233,
+    "longitude": -73.9421695,
+    "icon": "default",
+    "imageURL": "",
+    "description": "St. Cecilia's Roman Catholic Church is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "bb38066a-23e2-4207-a10a-a66b7321960f",
+    "name": "brooklynONE productions",
+    "latitude": 40.6571343,
+    "longitude": -74.007193,
+    "icon": "default",
+    "imageURL": "",
+    "description": "brooklynONE productions is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "ba126602-0620-424b-b572-838ae75292a8",
+    "name": "Secret Riso Club",
+    "latitude": 40.699888,
+    "longitude": -73.9286902,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Secret Riso Club is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "6c84f3ae-30bf-40bb-89ed-6193cb5d90a6",
+    "name": "Environmental Study Center",
+    "latitude": 40.6221663,
+    "longitude": -73.9084746,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Environmental Study Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "286d57ca-2ffa-420b-b7ec-f50a17a87435",
+    "name": "Brooklyn Art Haus",
+    "latitude": 40.7134273,
+    "longitude": -73.9549377,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Art Haus is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "d24b0503-0bdf-4071-baa9-573f5fce4811",
+    "name": "NOoSPHERE Arts",
+    "latitude": 40.7348283,
+    "longitude": -73.943611,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NOoSPHERE Arts is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "03cd4adc-cd63-484a-b4e8-5f574dfd6d23",
+    "name": "L10 Arts & Cultural Center",
+    "latitude": 40.686236,
+    "longitude": -73.9783039,
+    "icon": "default",
+    "imageURL": "",
+    "description": "L10 Arts & Cultural Center is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "a99e336d-0bb9-44e4-837d-404c90a719bc",
+    "name": "Brooklyn Art Cave",
+    "latitude": 40.6980702,
+    "longitude": -73.936791,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Art Cave is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "abd76f5f-acc1-4acb-8ad0-454b7038b8b8",
+    "name": "Balady Halal Foods",
+    "latitude": 40.6320636,
+    "longitude": -74.0219045,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Balady Halal Foods is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "fc9f5b7c-fb35-42a4-b705-1929d34fc486",
+    "name": "Night Owl Video",
+    "latitude": 40.712958,
+    "longitude": -73.9577536,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Night Owl Video is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  },
+  {
+    "id": "f6cb6a85-8110-4f3c-baab-88b7d09f16da",
+    "name": "The Gecko Gallery NYC",
+    "latitude": 40.7058871,
+    "longitude": -73.9374341,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Gecko Gallery NYC is a local landmark worth visiting.",
+    "info": "Open daily. Check website or signage for hours."
+  }
+]
