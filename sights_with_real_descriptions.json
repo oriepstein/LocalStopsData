@@ -1,0 +1,3842 @@
+[
+  {
+    "id": "527a9029-644b-4ac4-81e8-d851b29d9796",
+    "name": "Melville House Publishing and Bookstore",
+    "latitude": 40.7043658,
+    "longitude": -73.98619,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Melville House Publishing and Bookstore is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "90099d12-2c68-4ef9-877e-889d4bc25874",
+    "name": "Empire Stores",
+    "latitude": 40.7035539,
+    "longitude": -73.9916217,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Empire Stores is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d8ef31ff-16ad-418c-97f6-81dad125ebc3",
+    "name": "POWERHOUSE Arena",
+    "latitude": 40.7029566,
+    "longitude": -73.9888366,
+    "icon": "default",
+    "imageURL": "",
+    "description": "POWERHOUSE Arena is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "aa296201-5bf1-4d59-85ad-ba7aeefb0e96",
+    "name": "Plymouth Church",
+    "latitude": 40.6991711,
+    "longitude": -73.9931456,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NHL church with piece of plymouth rock; underground railroad stop. guided tours sundays at 130",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "20a3a30b-c0ee-4d65-87c7-17ada5ef7315",
+    "name": "Brooklyn Women's Exchange Inc",
+    "latitude": 40.6959876,
+    "longitude": -73.9950959,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Women's Exchange Inc is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d3662c55-09b7-49fd-98ac-562e5d13ab76",
+    "name": "58 Joralemon St",
+    "latitude": 40.6934007,
+    "longitude": -73.9974105,
+    "icon": "default",
+    "imageURL": "",
+    "description": "fake house hiding subway ventilator",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "355707ab-74c0-4076-88d1-0e677a67c497",
+    "name": "Urban Folk Art",
+    "latitude": 40.6882642,
+    "longitude": -73.9892243,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Urban Folk Art is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dd9ec2c8-8deb-455b-b8b9-ba26086dc4e8",
+    "name": "Autonomedia",
+    "latitude": 40.7077721,
+    "longitude": -73.966749,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Autonomedia is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c0b962dd-ef20-4c1e-9a14-be04b5d87a61",
+    "name": "Saint Vitus Bar",
+    "latitude": 40.7367758,
+    "longitude": -73.9551337,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Saint Vitus Bar is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "97821b1e-1c24-4ab6-9841-ed09de29d08a",
+    "name": "Flavor Paper",
+    "latitude": 40.6887464,
+    "longitude": -73.9920688,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Flavor Paper is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "99360849-7edc-4e7b-98d6-c70a762255b6",
+    "name": "Gowanus Souvenir Shop",
+    "latitude": 40.6789851,
+    "longitude": -73.9866028,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gowanus Souvenir Shop is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f1872c05-a153-4821-95bb-d588df808e28",
+    "name": "keur djembe African Drums Shop",
+    "latitude": 40.6781264,
+    "longitude": -73.9852363,
+    "icon": "default",
+    "imageURL": "",
+    "description": "keur djembe African Drums Shop is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d94e8330-686e-43f7-bc44-150b4599b7da",
+    "name": "Jalopy Theatre and School of Music",
+    "latitude": 40.6813194,
+    "longitude": -74.0042257,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Jalopy Theatre and School of Music is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5c3e4064-e305-4062-b648-63870c1db4f7",
+    "name": "Sistas' Place",
+    "latitude": 40.6833508,
+    "longitude": -73.9503228,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sistas' Place is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7cc3420c-ec6e-4db6-bba6-0af8a739c0e1",
+    "name": "Arlington Place",
+    "latitude": 40.6809175,
+    "longitude": -73.9511572,
+    "icon": "default",
+    "imageURL": "",
+    "description": "where crooklyn was filmed, one of the prettiest blocks in the neighborhood",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c28902f3-d9a6-464d-900b-59c9ba1272a5",
+    "name": "Five Myles",
+    "latitude": 40.672629,
+    "longitude": -73.959636,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Five Myles is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "617cf621-e4a7-460d-bf55-0357662c427a",
+    "name": "The Betzalel Gallery & Picture Framing",
+    "latitude": 40.664259,
+    "longitude": -73.9434144,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Betzalel Gallery & Picture Framing is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "58c0afd3-857e-4df5-b99a-d2665ded1c30",
+    "name": "Micro Museum",
+    "latitude": 40.687607,
+    "longitude": -73.9897317,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Micro Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7be2fae2-ad52-4c14-b887-c172a116356a",
+    "name": "108 Wyckoff St",
+    "latitude": 40.6854419,
+    "longitude": -73.9896727,
+    "icon": "default",
+    "imageURL": "",
+    "description": "mosaic house",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b365d940-f797-4428-8569-a41eff2d6e82",
+    "name": "The Boiler | Pierogi",
+    "latitude": 40.7229231,
+    "longitude": -73.955229,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Boiler | Pierogi is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8ba29ba9-42c6-4856-93a1-86751045b338",
+    "name": "WNYC Transmitter Park",
+    "latitude": 40.7298447,
+    "longitude": -73.9607685,
+    "icon": "default",
+    "imageURL": "",
+    "description": "WNYC Transmitter Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1734dfb1-825d-4978-a111-3ea3fee34487",
+    "name": "Newtown Creek Wastewater Treatment Plant",
+    "latitude": 40.7315714,
+    "longitude": -73.9469037,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Newtown Creek Wastewater Treatment Plant is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ed87fd15-f3bb-4d3f-bc4c-4c6142fa75e6",
+    "name": "Newtown Creek Nature Walk",
+    "latitude": 40.736267,
+    "longitude": -73.948846,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Newtown Creek Nature Walk is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ad690cde-f072-4d95-ab6c-96f8b0cf31f7",
+    "name": "Light Industry",
+    "latitude": 40.734637,
+    "longitude": -73.955648,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Light Industry is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4569b048-ba50-4bd6-bc81-b1f6cfee3c5c",
+    "name": "The Thing",
+    "latitude": 40.733263,
+    "longitude": -73.9550435,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Thing is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "fce3bb7a-a573-4af6-beec-57940ae3d08e",
+    "name": "Green Farms Super Market",
+    "latitude": 40.7307422,
+    "longitude": -73.9542059,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Green Farms Super Market is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b2377d98-059f-44ef-b3f5-051cbf5ba62f",
+    "name": "Sunshine Laundromat",
+    "latitude": 40.7293483,
+    "longitude": -73.9535391,
+    "icon": "default",
+    "imageURL": "",
+    "description": "laundromat with pinball bar hidden within",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "df081e30-0e85-48c5-8abe-f8c39154c806",
+    "name": "The Bushwick Collective",
+    "latitude": 40.7076388,
+    "longitude": -73.9218185,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Bushwick Collective is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "3e5c3137-84b0-499e-847c-27b9fe19d46e",
+    "name": "Green Village Used Clothing",
+    "latitude": 40.706795,
+    "longitude": -73.9212834,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Green Village Used Clothing is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4c322fdb-05e5-47bc-807c-dd73c4009eb7",
+    "name": "House of Yes",
+    "latitude": 40.7068169,
+    "longitude": -73.9236004,
+    "icon": "default",
+    "imageURL": "",
+    "description": "House of Yes is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "83632c0d-7509-4283-a19b-56d06702ec00",
+    "name": "Human Relations",
+    "latitude": 40.7045416,
+    "longitude": -73.92967,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Human Relations is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9d1b3c94-f24a-4180-a39d-1bcb9b6ab5df",
+    "name": "The Paper Box",
+    "latitude": 40.710973,
+    "longitude": -73.9363036,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Paper Box is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4f517410-c9ef-4d7a-bc76-b155fcb495c0",
+    "name": "Moore Street Market",
+    "latitude": 40.7038146,
+    "longitude": -73.9410897,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Moore Street Market is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ac707afc-96d6-40c2-8cc5-515ecb5f511b",
+    "name": "Bushwick Inlet Park",
+    "latitude": 40.7223295,
+    "longitude": -73.9613074,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bushwick Inlet Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "714952f3-3556-4afe-961c-26d1522fc45d",
+    "name": "State of New York- East River State Park",
+    "latitude": 40.7214081,
+    "longitude": -73.9620691,
+    "icon": "default",
+    "imageURL": "",
+    "description": "State of New York- East River State Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "748bc285-c32f-40ec-bfe7-ba0c3064f90b",
+    "name": "Grand Ferry Park",
+    "latitude": 40.716365,
+    "longitude": -73.966639,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grand Ferry Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "93d3bb54-275e-4c3d-8bd6-32603060be22",
+    "name": "indieScreen",
+    "latitude": 40.7149544,
+    "longitude": -73.966198,
+    "icon": "default",
+    "imageURL": "",
+    "description": "indieScreen is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "52636383-4b99-40d1-9857-3860415fbeff",
+    "name": "Whisk",
+    "latitude": 40.7159891,
+    "longitude": -73.9594278,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Whisk is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0e8e1757-31ba-4c41-a362-f7b49c3d5847",
+    "name": "Brooklyn Reclamation",
+    "latitude": 40.7143193,
+    "longitude": -73.9594944,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Reclamation is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "fe9c2a00-919d-497f-a681-54c10bffcc10",
+    "name": "Book Thug Nation",
+    "latitude": 40.7165843,
+    "longitude": -73.9619363,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Book Thug Nation is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6d4ab915-56e4-40cb-ae48-6720b1983c81",
+    "name": "Brooklyn Art Library",
+    "latitude": 40.717305,
+    "longitude": -73.9510093,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Art Library is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a714c900-e54b-4660-a1f3-e79c54964665",
+    "name": "The City Reliquary Museum",
+    "latitude": 40.713963,
+    "longitude": -73.955746,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The City Reliquary Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b29560e8-74dc-4a6e-a048-45564b7b570f",
+    "name": "The Arm Letterpress",
+    "latitude": 40.715273,
+    "longitude": -73.953158,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Arm Letterpress is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "aeefaccf-709a-4b26-832d-427420b5a405",
+    "name": "Museum of Food and Drink (MOFAD) Lab",
+    "latitude": 40.718844,
+    "longitude": -73.9495801,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Museum of Food and Drink (MOFAD) Lab is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a747b194-f520-4f18-9eee-f0d57ab4bc1a",
+    "name": "Spectacle",
+    "latitude": 40.7125413,
+    "longitude": -73.9628444,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Spectacle is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2f212527-a9e7-486f-b50f-daedb82c2008",
+    "name": "The Living Gallery",
+    "latitude": 40.6941285,
+    "longitude": -73.9306532,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Living Gallery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "02978956-82fe-42bb-9658-832f27252545",
+    "name": "Do The Right Thing Way",
+    "latitude": 40.6893275,
+    "longitude": -73.933321,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Spike Lee's provocative film is officially honored right where it was made, the first time a work of art was used as a secondary street name.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "80b6eb57-df7f-4119-b8a8-bd5985dcea90",
+    "name": "Molasses Books",
+    "latitude": 40.7006193,
+    "longitude": -73.9237572,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Molasses Books is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c9a2f2bd-e3dc-463f-b0cc-be96bc9c64db",
+    "name": "Silent Barn",
+    "latitude": 40.69863,
+    "longitude": -73.934307,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Silent Barn is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f5bbda28-369d-4543-8f93-7cc0985fd87e",
+    "name": "Woodhull Medical Center",
+    "latitude": 40.7008259,
+    "longitude": -73.9424803,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Woodhull Medical Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f88119ff-5145-4035-91f7-011d76e3c70a",
+    "name": "Brooklyn Table Tennis Club",
+    "latitude": 40.6306627,
+    "longitude": -73.9665767,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Table Tennis Club is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e2397c20-c78e-4e09-a483-9a94e25e91c7",
+    "name": "Brooklyn College",
+    "latitude": 40.6314406,
+    "longitude": -73.9544488,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn College is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2ac1944a-2127-43f6-9a07-372e9d5cb73f",
+    "name": "Living Torah Museum",
+    "latitude": 40.635547,
+    "longitude": -73.9805466,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Living Torah Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "67a49fac-0947-41bf-8a45-17984652a66e",
+    "name": "Brancaccio's Food Shop",
+    "latitude": 40.6485601,
+    "longitude": -73.978833,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brancaccio's Food Shop is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ab926a9e-a910-4db4-8d3d-4faf0983ff80",
+    "name": "Buzz-A-Rama",
+    "latitude": 40.6424018,
+    "longitude": -73.9807003,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Buzz-A-Rama is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5b208fb6-dc25-4fcf-946c-221994160611",
+    "name": "Brooklyn ARTery",
+    "latitude": 40.6395941,
+    "longitude": -73.9684007,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn ARTery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2c414aec-0b41-42a7-b23c-aa3a65a28962",
+    "name": "Sacred Vibes Apothecary",
+    "latitude": 40.6400252,
+    "longitude": -73.9662255,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sacred Vibes Apothecary is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9756f545-f5c3-4e74-9e31-6d7913272c7c",
+    "name": "Erasmus Hall High School",
+    "latitude": 40.6495813,
+    "longitude": -73.9581967,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Erasmus Hall High School is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5b34fe71-f212-432c-a0c1-eb7518324a76",
+    "name": "Albemarle Terrace",
+    "latitude": 40.6485612,
+    "longitude": -73.959662,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Albemarle Terrace is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f9f4c1ce-38a8-46a0-bb04-e0ce3c86d0af",
+    "name": "Kenmore Terrace",
+    "latitude": 40.6491736,
+    "longitude": -73.9594277,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kenmore Terrace is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1f5a49aa-297c-4512-80b8-a160da78ee26",
+    "name": "Harbor Defense Museum",
+    "latitude": 40.609084,
+    "longitude": -74.032499,
+    "icon": "default",
+    "imageURL": "",
+    "description": "bring passport!",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5492727d-ab77-4a8c-a7ed-85aa654581fc",
+    "name": "Narrows Botanical Gardens",
+    "latitude": 40.6372374,
+    "longitude": -74.0367631,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Narrows Botanical Gardens is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7fb0a48a-52ac-4216-bc26-01cf1ef97358",
+    "name": "Owl's Head Park",
+    "latitude": 40.6401377,
+    "longitude": -74.0322522,
+    "icon": "default",
+    "imageURL": "",
+    "description": "site of never-finished tunnel to Staten Island",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e8f33e50-f929-427d-9749-755993104419",
+    "name": "American Veterans Memorial Pier",
+    "latitude": 40.6393213,
+    "longitude": -74.0376877,
+    "icon": "default",
+    "imageURL": "",
+    "description": "American Veterans Memorial Pier is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "485c91e6-bc6f-476b-866e-e1678fba1bd4",
+    "name": "Weeksville Heritage Center",
+    "latitude": 40.6739761,
+    "longitude": -73.9253119,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Weeksville Heritage Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8d85cdbc-ea59-4fbd-8304-98ac65d6b4aa",
+    "name": "Dead Horse Bay",
+    "latitude": 40.584376,
+    "longitude": -73.8999741,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dead Horse Bay is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6fdc78a5-430e-4fc9-bffd-765d40d51454",
+    "name": "CB I Hate Perfume - Olfactory Art Gallery",
+    "latitude": 40.712045,
+    "longitude": -73.936328,
+    "icon": "default",
+    "imageURL": "",
+    "description": "CB I Hate Perfume - Olfactory Art Gallery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6ecffe11-2cda-4a71-8d2e-91544521bb8c",
+    "name": "Big Sky Works",
+    "latitude": 40.7230252,
+    "longitude": -73.9562924,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Big Sky Works is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "311c779f-1a7d-4f90-ae1b-8039d2a1e905",
+    "name": "NURTUREart Non-Profit Inc",
+    "latitude": 40.7058963,
+    "longitude": -73.9332806,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NURTUREart Non-Profit Inc is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "21e05ce0-548f-438f-aae4-da377e534014",
+    "name": "Vandervoort Place",
+    "latitude": 40.704465,
+    "longitude": -73.9304578,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Vandervoort Place is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "bf42db6c-d771-4e1e-8da9-a9446d168f9f",
+    "name": "Angel's Fruit Market",
+    "latitude": 40.702043,
+    "longitude": -73.9245569,
+    "icon": "default",
+    "imageURL": "",
+    "description": "not your average bodega - carries an impressively diverse & large selection of obscure Latin American & European ingredients",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "64a9d10f-a362-411e-a581-f48b7a498124",
+    "name": "Norte Maar",
+    "latitude": 40.684419,
+    "longitude": -73.873741,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Norte Maar is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8963135f-9d2f-4c0e-b789-d1aecc42590f",
+    "name": "Luhring Augustine Gallery",
+    "latitude": 40.707305,
+    "longitude": -73.931251,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Luhring Augustine Gallery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "983a6907-70eb-4610-83fd-415936543884",
+    "name": "56 Bogart St",
+    "latitude": 40.7057243,
+    "longitude": -73.9331652,
+    "icon": "default",
+    "imageURL": "",
+    "description": "building full of art galleries",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7a719d3a-6aca-41da-abe7-a94325f8906d",
+    "name": "The Bushwick Starr",
+    "latitude": 40.705089,
+    "longitude": -73.9234806,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Bushwick Starr is an award-winning nonprofit theater that has been a home for artists, community and bold new work since 2007. In September 2024, The Bushwick Starr unveiled our new 5,000 sq ft theater\u2014a fully accessible LEED-certified state of the art facility and permanent cultural space for our community, designed by award-winning architectural firm Bureau V Architecture (the studio behind the design of Brooklyn\u2019s non-profit music venue National Sawdust). At the new Starr, audiences will enjoy an expanded venue with improved access and comfort, while artists will benefit from larger, functional spaces on-site that support all the ways they work.<br><br>The new lobby brings the Starr\u2019s mission to the streets of Brooklyn by welcoming passersby to freely enter throughout the day to an accessible space of community gathering. This space offers a new model for what a lobby space can be: a classroom, screening room, lively gathering space, quiet meeting space\u2014a place where people always feel welcome to meet, mix, connect, and get inspired. Building tours with The Bushwick Starr Co-Founders, Noel Allain and Sue Kessler will be offered on a rolling basis.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9ab62529-f2f3-4bc8-adcd-dfe8687e7427",
+    "name": "Low Brow Artique",
+    "latitude": 40.6996921,
+    "longitude": -73.927463,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Low Brow Artique is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4bb4b45c-ee10-46ea-890d-e3748b750bd3",
+    "name": "Museum of Contemporary African Diasporan Arts",
+    "latitude": 40.6851993,
+    "longitude": -73.974308,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Museum of Contemporary African Diasporan Arts is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "809b12ca-49cf-4e9e-b85a-9b02736f7978",
+    "name": "Lafayette Avenue Presbyterian Church",
+    "latitude": 40.6870381,
+    "longitude": -73.9732706,
+    "icon": "default",
+    "imageURL": "",
+    "description": "murals; abolitionist church - displays \"Lincoln Shovel\" which Lincoln sent for their groundbreaking",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9c0b1146-7de6-4088-b0c9-1b7d91e4f857",
+    "name": "Irondale Center",
+    "latitude": 40.6870381,
+    "longitude": -73.9732706,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Irondale Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "bda6fc53-50c3-4812-9a0d-20c3cb051d3d",
+    "name": "BRIC",
+    "latitude": 40.6886419,
+    "longitude": -73.9791298,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BRIC is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c99a5495-642d-4bac-bbd7-31abb9507388",
+    "name": "Brown Memorial Baptist Church",
+    "latitude": 40.684223,
+    "longitude": -73.965559,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Tiffany (?) stained glass windows",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1d3b3ea4-ec20-4470-a8b0-c454abe34296",
+    "name": "Brooklyn Army Terminal",
+    "latitude": 40.6441587,
+    "longitude": -74.0249671,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Army Terminal is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a00a4a20-db13-46d0-b096-25a12fc7b131",
+    "name": "The Wyckoff House Museum",
+    "latitude": 40.6443368,
+    "longitude": -73.9207731,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Wyckoff House Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4e3716c7-cafa-49e3-8b87-93a08426950f",
+    "name": "Salt Marsh Nature Center",
+    "latitude": 40.6040464,
+    "longitude": -73.9306319,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Salt Marsh Nature Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ea6adad3-2404-41fe-a108-1e05267fc5bc",
+    "name": "7901 Ridge Blvd",
+    "latitude": 40.628993,
+    "longitude": -74.0314,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Greek immigrant George Kortsolakis created a topographical map of Crete from found objects",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "38fa3f74-a94f-4cfa-b096-bbd3b717160e",
+    "name": "The Coney Island Museum",
+    "latitude": 40.5753293,
+    "longitude": -73.979783,
+    "icon": "default",
+    "imageURL": "",
+    "description": "ask to see Topsy's electrocution",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c3f85e3f-e2c0-463e-a917-7b426f38bc5f",
+    "name": "Sideshows by the Seashore",
+    "latitude": 40.5752703,
+    "longitude": -73.9797856,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sideshows by the Seashore is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a677084d-f082-445e-a5c4-bb29dcf4eaef",
+    "name": "Hendrick I. Lott House",
+    "latitude": 40.6103011,
+    "longitude": -73.9325837,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hendrick I. Lott House is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1da4bc92-183e-491a-8fcd-c91a716cd459",
+    "name": "Waterfront Museum",
+    "latitude": 40.675219,
+    "longitude": -74.0183687,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lehigh Valley barge No. 79 still gets tugged along - but now it houses a museum and unusual performances.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1607d0a7-0c97-40db-b744-11d537d1261b",
+    "name": "Carroll Street Bridge",
+    "latitude": 40.6781878,
+    "longitude": -73.989156,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Carroll Street Bridge is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "11aacac5-a9a1-4646-9cc6-5c3944827aee",
+    "name": "Gridspace",
+    "latitude": 40.67288,
+    "longitude": -73.9532399,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gridspace is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c9da25a6-b04d-4073-992f-43c461e6529e",
+    "name": "St. Ann's Warehouse",
+    "latitude": 40.703789,
+    "longitude": -73.9928,
+    "icon": "default",
+    "imageURL": "",
+    "description": "St. Ann's Warehouse is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5a4bed87-e923-4e83-b774-e001e5bd2055",
+    "name": "Lefferts Historic House",
+    "latitude": 40.6643449,
+    "longitude": -73.9637644,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lefferts Historic House is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a5343e54-fb48-4c32-b8e1-ab30d34d8a2e",
+    "name": "Old Stone House & Washington Park",
+    "latitude": 40.6729885,
+    "longitude": -73.9846023,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Old Stone House & Washington Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8ccdc35c-2039-43c6-8240-fceebff7a573",
+    "name": "Brick Theatre",
+    "latitude": 40.714288,
+    "longitude": -73.9497617,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brick Theatre is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d75055f1-2169-4942-a556-fa7da797b050",
+    "name": "Melody Lanes Bowling Center",
+    "latitude": 40.652779,
+    "longitude": -74.002944,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Melody Lanes Bowling Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c90d2c3c-d694-4519-8fe7-3602ae37e655",
+    "name": "The Billie Holiday Theatre",
+    "latitude": 40.6799694,
+    "longitude": -73.9456848,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Billie Holiday Theatre is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c0b77434-7032-4cb0-88d6-cdd99279c1ed",
+    "name": "The Invisible Dog Art Center",
+    "latitude": 40.687245,
+    "longitude": -73.9911963,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Invisible Dog Art Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "efe749af-1a07-4900-9af2-e735969c97bb",
+    "name": "ISSUE Project Room",
+    "latitude": 40.6908467,
+    "longitude": -73.9897215,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Originally built in 1926 as the headquarters for the Benevolent & Protective Order of the Elks, the theater features a limestone and terra cotta facade, with Renaissance-revival style features including balustrades, egg-and- dart ornamentation, Corinthian columns, and 40-foot vaulted ceilings. This McKim, Mead & White designed 4,800 square foot theater space provides unique acoustics. In 2008, ISSUE was awarded a long-term lease on a theater space in the historic 110 Livingston Street building in Downtown Brooklyn. Offering a centralized location and an audience capacity more than double that of any previous space ISSUE had occupied, the new theater has helped facilitate a degree of publicity and awareness unique for our community of under-recognized artists.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e627a50f-bfdd-42c4-9875-8012e30e8d34",
+    "name": "Bargemusic",
+    "latitude": 40.7031305,
+    "longitude": -73.9952668,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bargemusic is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5d09056d-c97c-4aaa-a9ed-4da993726efd",
+    "name": "Brooklyn Historical Society",
+    "latitude": 40.6947959,
+    "longitude": -73.9924082,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Historical Society is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6f741868-d37d-4446-a438-4285dabe5da8",
+    "name": "Grace Court Alley",
+    "latitude": 40.6940583,
+    "longitude": -73.9964117,
+    "icon": "default",
+    "imageURL": "",
+    "description": "charming former stable alley",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "608b7893-cb87-452d-a1f1-d48ee4c945ac",
+    "name": "Warsaw",
+    "latitude": 40.7224421,
+    "longitude": -73.9485191,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Warsaw is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c33db93c-0f4a-4d2c-a9ce-8d3a09ce9fa7",
+    "name": "The Brooklyn Kitchen",
+    "latitude": 40.717634,
+    "longitude": -73.947659,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Brooklyn Kitchen is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8390659a-10d8-472e-9666-a140b993f234",
+    "name": "Acme Smoked Fish Corporation",
+    "latitude": 40.7254473,
+    "longitude": -73.956479,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Acme Smoked Fish Corporation is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b0bd95c0-e9ff-40b3-9ccb-503cc4fb60a7",
+    "name": "Coral & Tusk",
+    "latitude": 40.6562028,
+    "longitude": -74.0073766,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Coral & Tusk is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "29cfa2d3-e21e-405b-b7e1-62b3c96673c2",
+    "name": "Brighton Bazaar",
+    "latitude": 40.5782174,
+    "longitude": -73.9592266,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brighton Bazaar is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d602ed6e-1607-446f-a3da-0bdce8cffb02",
+    "name": "MARY A. WHALEN",
+    "latitude": 40.6804785,
+    "longitude": -74.0124708,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The MARY A. WHALEN, last-of-her-kind coastal oil tanker, is home to the nonprofit PortSide NewYork, and is the only oil tanker in the world repurposed for public education and culture. Listed on the National Register of Historic Places, the MARY was built for the Red Hook, Brooklyn-based company Ira S. Bushey & Sons in 1938.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0a942195-8f50-4015-bc70-f8c1c51bfb17",
+    "name": "National Sawdust",
+    "latitude": 40.7189016,
+    "longitude": -73.9613395,
+    "icon": "default",
+    "imageURL": "",
+    "description": "a nonprofit venue in Brooklyn that commissions, produces, and presents programming rooted in sound. Founded in 2015 by composer Paola Prestini, it offers a community for individuals to discover new and varied music. National Sawdust has a long-term partnership with Meyer Sound, which provides one of the best sound systems in the city. The spatial sound technology allows a rehearsal room to have acoustics comparable to a symphony hall.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a2eb0835-3024-4854-9620-55043f6a771c",
+    "name": "Gotham Archery",
+    "latitude": 40.6824532,
+    "longitude": -73.986126,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gotham Archery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9c9ec40a-79fc-4a85-84ba-48b3ac42a81d",
+    "name": "Williamsburg Art & Historical Center",
+    "latitude": 40.7105986,
+    "longitude": -73.9635467,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Williamsburg Art & Historical Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b8477764-6999-4614-8f50-cf624139e095",
+    "name": "Interference Archive",
+    "latitude": 40.670388,
+    "longitude": -73.985844,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Interference Archive is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6b29c64b-c2d0-4578-aa3b-cd5c047675c3",
+    "name": "Books Are Magic",
+    "latitude": 40.6839938,
+    "longitude": -73.9920653,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Books Are Magic is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "13b2fc3f-072d-4dde-b763-0bf3d7e3c02f",
+    "name": "Former site of Ebbets Field",
+    "latitude": 40.6645909,
+    "longitude": -73.9577832,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Former site of Ebbets Field is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a391bb6e-d586-4906-83b2-5d5e0344db83",
+    "name": "Lite Brite Neon Studio LLC",
+    "latitude": 40.6746019,
+    "longitude": -73.9880992,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lite Brite Neon Studio LLC is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ad756d63-cc3e-4ee9-b77c-7732fb23be1e",
+    "name": "House of Wax",
+    "latitude": 40.6908759,
+    "longitude": -73.9828655,
+    "icon": "default",
+    "imageURL": "",
+    "description": "House of Wax is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "bce04d6d-be97-4d56-9093-e8884b02850d",
+    "name": "The THNK1994 Museum",
+    "latitude": 40.6779777,
+    "longitude": -73.9445838,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The THNK1994 Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4c6adc4e-ba9c-4733-be00-ff4db6000bf4",
+    "name": "Sebago Canoe Club Inc",
+    "latitude": 40.6271391,
+    "longitude": -73.9040646,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sebago Canoe Club Inc is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a9ceff91-8d35-49ac-852d-baad194f9319",
+    "name": "American Veterans Memorial Pier",
+    "latitude": 40.6393213,
+    "longitude": -74.0376877,
+    "icon": "default",
+    "imageURL": "",
+    "description": "American Veterans Memorial Pier is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4ed74b19-759e-43f8-8a2b-ca9318fdfee7",
+    "name": "Louis Valentino, Jr. Park and Pier",
+    "latitude": 40.6784075,
+    "longitude": -74.0181413,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Take in a rare, face-to-face glimpse of Lady Liberty at this tucked away Red Hook park.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "579a1eed-1055-4a41-a05e-1e452ad76ab4",
+    "name": "Brooklyn Glass",
+    "latitude": 40.6691314,
+    "longitude": -73.9939402,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Glass is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0afe4be9-926b-4792-88e9-d1337c95e203",
+    "name": "Saint Nicholas Antiochian Orthodox Cathedral",
+    "latitude": 40.6878252,
+    "longitude": -73.9847697,
+    "icon": "default",
+    "imageURL": "",
+    "description": "serving Middle Eastern Christians; every surface covered in iconography",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a3a18b24-f14b-4d23-bae0-ffa6360f178e",
+    "name": "The City Foundry",
+    "latitude": 40.6572748,
+    "longitude": -74.0075161,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The City Foundry is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a438233d-05f3-4ede-9a1d-99c3ed6e6639",
+    "name": "A/D/O",
+    "latitude": 40.7246841,
+    "longitude": -73.9548224,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A/D/O is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f76585ff-e05b-40f0-a3fd-806fc363a1be",
+    "name": "Church of St. Luke & St. Matthew",
+    "latitude": 40.682702,
+    "longitude": -73.9672458,
+    "icon": "default",
+    "imageURL": "",
+    "description": "\"The Church of St. Luke and St. Matthew is the largest Episcopal Church building in the Diocese of Long Island. Architect John Welch was commissioned to design the church after a fire in 1887 destroyed much of the structure. Welch drew inspiration from churches built during the Italian Renaissance, particularly those in Modena and Verona. Many of the windows were commissioned for the church from the Tiffany Studio. The wheel or rose window was given by the children of the Sunday school at the time of the rebuilding in 1890. It is 28 feet in diameter and is one of the larger windows of this type in Brooklyn. In 1981 the New York City Landmarks Preservation Commission designated the Church of St. Luke and St. Matthew as a landmark.<br><br>Funded through a NYCDEP Green Infrastructure Grant, the new green infrastructure network for the Church captures, stores, and recycles on-site stormwater to protect the foundation of the historic building from flooding, while sustaining new public gardens and walkways.\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "708d9d3a-de6f-4e1e-9709-41959a4fe016",
+    "name": "Church of the Annunciation",
+    "latitude": 40.714349,
+    "longitude": -73.9547487,
+    "icon": "default",
+    "imageURL": "",
+    "description": "church was designed in the Lombard Romanesque style, including a 110 foot belltower. Annunciation's impressive \"Opus 288\" pipe organ was built by the Austin Organ Company in 1912. The church's unique high altar is composed of hand carved wood, gilded with gold and silver leaf accents, containing statues dating back to 1870",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f4c93e4c-733b-4c91-8b6e-c9bed95a59c6",
+    "name": "The Evergreens Cemetery",
+    "latitude": 40.68389,
+    "longitude": -73.9011979,
+    "icon": "default",
+    "imageURL": "",
+    "description": "historic cemetery in the 'rural' style, was incorporated in 1849 and covers 225 acres. Over 500,000 people are buried here, including notables such as tap legend Bill \"Bojangles\" Robinson, jazz musician Lester Young, and painter Martin Heade",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f6e4af88-dc88-473e-aef7-81960f28d8a8",
+    "name": "Five Boroughs Brewing Co.",
+    "latitude": 40.650597,
+    "longitude": -74.014486,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Five Boroughs Brewing Co. is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2f6b0720-a413-4139-9b44-48da646a881f",
+    "name": "Kings County Distillery",
+    "latitude": 40.6995644,
+    "longitude": -73.9801965,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kings County Distillery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "565456f0-4bf7-470c-8b5b-483138a8aee8",
+    "name": "Kingsland Wildflowers Green Roof & Community Engagement Center",
+    "latitude": 40.7345393,
+    "longitude": -73.9432776,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kingsland Wildflowers Green Roof & Community Engagement Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c9c3ac75-e0f8-4ce6-a556-72fc89cafd28",
+    "name": "Urban Post-Disaster Housing Prototype",
+    "latitude": 40.6996055,
+    "longitude": -73.9895276,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tours by appointment only and for groups only",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e7a379ea-756c-474a-90f0-5da8a15ee88f",
+    "name": "Fool's Gold Records",
+    "latitude": 40.7149298,
+    "longitude": -73.9619704,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fool's Gold Records is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b7718d78-9247-457a-8ffd-5a7e61a85e62",
+    "name": "Jane Bailey Memorial Garden",
+    "latitude": 40.6877751,
+    "longitude": -73.9582771,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Jane Bailey Memorial Garden is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a3950369-209a-46ad-b5c8-cead3bc49d52",
+    "name": "Co-Cathedral of St. Joseph",
+    "latitude": 40.6806183,
+    "longitude": -73.966431,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Co-Cathedral of St. Joseph is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5c4a3479-645e-4cc7-9721-db75cbb418cd",
+    "name": "Cloud City",
+    "latitude": 40.716174,
+    "longitude": -73.9633205,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Cloud City is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "538912dd-a305-4918-95b8-3cb7422e2b24",
+    "name": "Secret Project Robot",
+    "latitude": 40.6923023,
+    "longitude": -73.9274769,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Secret Project Robot is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b2846154-ee77-471e-9965-26b207c5133a",
+    "name": "The Gowanus Ballroom",
+    "latitude": 40.6740825,
+    "longitude": -73.9960189,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Gowanus Ballroom is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9d5c9719-a084-468c-99d6-2797ebe9c3a6",
+    "name": "Etsy",
+    "latitude": 40.7005824,
+    "longitude": -73.9881456,
+    "icon": "default",
+    "imageURL": "",
+    "description": "free etsy gallery in lobby",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "788e062a-5810-4ba6-bd0a-a1fbf55e5fde",
+    "name": "Cadman Plaza Park",
+    "latitude": 40.6984759,
+    "longitude": -73.9904687,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Cadman Plaza Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ea3a8999-3658-4e97-972b-98e8974c238a",
+    "name": "679 Lafayette Ave",
+    "latitude": 40.6905805,
+    "longitude": -73.9468209,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Magnolia grandiflora - only tree that is a NYC landmark",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a8638953-c54f-4824-a78d-da8a7dde4ab9",
+    "name": "Our Lady of Lebanon Maronite Catholic Cathedral",
+    "latitude": 40.6942202,
+    "longitude": -73.9941115,
+    "icon": "default",
+    "imageURL": "",
+    "description": "doors from SS Normandie, French liner that sunk in 1942",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "414434c7-22e4-4583-8117-02a6673cdfde",
+    "name": "Rooftop Reds",
+    "latitude": 40.6984774,
+    "longitude": -73.977732,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Rooftop Reds is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "42b5281d-09a9-4c5a-87c0-9511560f25ff",
+    "name": "Brooklyn Visitation Monastery",
+    "latitude": 40.6219355,
+    "longitude": -74.0346561,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Visitation Monastery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "644228e1-7f9d-4cdc-a592-41be96a5c21b",
+    "name": "The Barkaloo Cemetery",
+    "latitude": 40.6368074,
+    "longitude": -74.0345172,
+    "icon": "default",
+    "imageURL": "",
+    "description": "smallest cemetery in brooklyn - only 2 people",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "19f8f813-1ccc-4167-b02c-2e2feb12a98d",
+    "name": "Prospect Park - Ravine",
+    "latitude": 40.6638721,
+    "longitude": -73.968746,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Prospect Park - Ravine is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8bb67209-927b-44bf-811f-cb9da6eaeb2b",
+    "name": "Lookout Hill",
+    "latitude": 40.6577778,
+    "longitude": -73.9719444,
+    "icon": "default",
+    "imageURL": "",
+    "description": "\"In Prospect Park at the base of Lookout Hill there\u2019s a monument that commemorates the valiant stand, in 1776, of the Maryland 400. They delayed an overwhelming British advance, allowing the Americans, led by Washington, to retreat, saving the Army. Up the hill, in winter, it\u2019s possible to see Coney Island. But it really comes to life in April and May, when thousands of migrating birds adorn every tree and bush: sparrows, tanagers, flycatchers, hummingbirds. You can see 100 species in one day\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e7ae0c39-42bf-4cfd-a7e2-75fdaf65b3d8",
+    "name": "New York Transit Museum",
+    "latitude": 40.6905275,
+    "longitude": -73.9898178,
+    "icon": "default",
+    "imageURL": "",
+    "description": "New York Transit Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0ad89b88-3f3f-4832-81ea-82687d0e9782",
+    "name": "372 Fulton St",
+    "latitude": 40.691317,
+    "longitude": -73.987861,
+    "icon": "default",
+    "imageURL": "",
+    "description": "former Gage & Tollner",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0a079126-7592-4f7f-afcd-cbe8ac9e53b8",
+    "name": "Prospect Park Boathouse + Audubon Center",
+    "latitude": 40.6608215,
+    "longitude": -73.9652444,
+    "icon": "default",
+    "imageURL": "",
+    "description": "inspired by 16th century Venetian Library of St Mark",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "668c3193-68c0-42f5-bd5e-970318459137",
+    "name": "Pacifier Tree",
+    "latitude": 40.6334879,
+    "longitude": -73.9882162,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Pacifier Tree is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e1abaa66-9de8-4a90-aabb-3d0a2da1aa2c",
+    "name": "Gleason's Gym",
+    "latitude": 40.7029749,
+    "longitude": -73.9889864,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gleason's Gym is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0a04f98e-0aa8-4342-b872-186071d70023",
+    "name": "Quaker Cemetery",
+    "latitude": 40.6593127,
+    "longitude": -73.9726639,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Inside Prospect Park, there are 2,000 gravestones and buried bodies, many older than the park itself. The 10-acre cemetery is the only private property in the park, owned by the Religious Society of Friends, more commonly known as Quakers. Established in 1849, though it is believed there are graves that date to the 1820s. It\u2019s one of the many secrets of New York City to be found inside Prospect Park alone.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7cc24ee0-f97d-45d9-a3d8-7deb23ec6396",
+    "name": "TRAINWORLD",
+    "latitude": 40.6359665,
+    "longitude": -73.9778183,
+    "icon": "default",
+    "imageURL": "",
+    "description": "TRAINWORLD is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b16a5d64-cf15-4ee0-953e-3dff1889104c",
+    "name": "Grand Prospect Hall",
+    "latitude": 40.6638097,
+    "longitude": -73.9895988,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grand Prospect Hall is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a7212008-ce28-4c58-af2d-86baf75dcead",
+    "name": "International Studio & Curatorial Program",
+    "latitude": 40.714231,
+    "longitude": -73.9346977,
+    "icon": "default",
+    "imageURL": "",
+    "description": "International Studio & Curatorial Program is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7f65be71-731b-43ed-9ff7-e3e7a7399af0",
+    "name": "Erie Basin Park",
+    "latitude": 40.6711264,
+    "longitude": -74.012936,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Erie Basin Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1cb65a65-310e-4d7e-a56c-d85801333805",
+    "name": "Ample Hills Factory and Museum",
+    "latitude": 40.6748299,
+    "longitude": -74.0156844,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ample Hills Factory and Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "15ffcea6-0593-48e4-8e14-812b56201194",
+    "name": "Mellow Pages Library",
+    "latitude": 40.6986516,
+    "longitude": -73.9342599,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Mellow Pages Library is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d91f5134-03a1-4c91-bd45-adf95e2bb51b",
+    "name": "Our Lady of Perpetual Help Church",
+    "latitude": 40.6396319,
+    "longitude": -74.0154736,
+    "icon": "default",
+    "imageURL": "",
+    "description": "one of 60 basilicas in the US",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a1cf81f5-b381-4fcb-ae32-1b91683ab298",
+    "name": "Dennet Place",
+    "latitude": 40.6765256,
+    "longitude": -73.9975637,
+    "icon": "default",
+    "imageURL": "",
+    "description": "street with \"hobbit doors\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "56f1095b-0cc8-48f3-801a-fa84ca44f74d",
+    "name": "GBX Gowanus Bay Terminal",
+    "latitude": 40.6692899,
+    "longitude": -74.0076108,
+    "icon": "default",
+    "imageURL": "",
+    "description": "GBX Gowanus Bay Terminal is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "be2d786e-33c8-477a-b730-63c030b6810c",
+    "name": "Amorphic Robot Works",
+    "latitude": 40.678311,
+    "longitude": -74.0105985,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This former Norwegian sailor's church is slowly being taken over by ramshackle robot musicians.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "68b7909c-9cee-43fb-83ef-76c662b5ec7b",
+    "name": "Warren Place",
+    "latitude": 40.6879362,
+    "longitude": -73.9984861,
+    "icon": "default",
+    "imageURL": "",
+    "description": "much photographed street - originally built in 19th century as affordable housing",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "21d61253-aa84-4bcc-8541-2b809b9ca277",
+    "name": "Torah Animal World",
+    "latitude": 40.6354863,
+    "longitude": -73.9804474,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Torah Animal World is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ed1ac941-3087-4f17-a9e5-2d75f12a00d7",
+    "name": "Wyckoff-Bennet Homestead",
+    "latitude": 40.6108391,
+    "longitude": -73.9513319,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NHL",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "52ebde15-32c3-4df6-8eb2-76c62beafc9e",
+    "name": "St. Ann & the Holy Trinity Church",
+    "latitude": 40.6945037,
+    "longitude": -73.9924631,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NHL - \"Site of first figural stained-glass windows in U.S.\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dddba4de-5740-4579-b9b5-a6cb2bfe9d1c",
+    "name": "Commandant's House",
+    "latitude": 40.7023868,
+    "longitude": -73.980335,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NHL\u00a0 - \"Home to Matthew Perry at the time of his opening of Japan\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a642c0ad-76ab-4b71-ad0b-0a5600f74da6",
+    "name": "500 25th St",
+    "latitude": 40.6580779,
+    "longitude": -73.9948493,
+    "icon": "default",
+    "imageURL": "",
+    "description": "500 25th St is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a13209a5-b7c6-4d38-814d-d96e601323c7",
+    "name": "Weir J Ebb & Co Inc",
+    "latitude": 40.659115,
+    "longitude": -73.996076,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Weir J Ebb & Co Inc is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "34152de0-1393-4857-a9a1-cda6d3fad0dc",
+    "name": "Minerva Statue",
+    "latitude": 40.6570104,
+    "longitude": -73.9897067,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Minerva Statue is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "74df3fc9-1923-442c-b078-4e935da1b148",
+    "name": "Ridgewood Reservoir",
+    "latitude": 40.6889501,
+    "longitude": -73.8864839,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NYC H20 provides tours",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9823b15f-a9ef-4e5f-989e-dc3104f5a3e5",
+    "name": "2840 Atlantic Ave",
+    "latitude": 40.676488,
+    "longitude": -73.888919,
+    "icon": "default",
+    "imageURL": "",
+    "description": "2840 Atlantic Ave is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b8a08cc0-70f4-46ab-b88a-36aaa975150f",
+    "name": "Floyd Bennett Field",
+    "latitude": 40.5910174,
+    "longitude": -73.8906091,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Floyd Bennett Field is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5730bbcc-47a6-4b3a-9df2-200d25465562",
+    "name": "John Paul Jones Park",
+    "latitude": 40.6108083,
+    "longitude": -74.0340919,
+    "icon": "default",
+    "imageURL": "",
+    "description": "great view of verrazano & the narrows; gazebo!",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "af0db84c-c81d-43af-a842-1241a0c42897",
+    "name": "Outside Space NYC Landscape and Garden Design",
+    "latitude": 40.693169,
+    "longitude": -73.961144,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Outside Space NYC Landscape and Garden Design is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "937c810a-e4d6-433f-af8d-cdc1c2b8218f",
+    "name": "FINE & RAW Chocolate",
+    "latitude": 40.705377,
+    "longitude": -73.933755,
+    "icon": "default",
+    "imageURL": "",
+    "description": "chocolate store/factory",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e3172ef4-0b54-4d44-8578-66c4c78ff0af",
+    "name": "Brooklyn Terminal Market Merchants Association",
+    "latitude": 40.6431954,
+    "longitude": -73.9153159,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Terminal Market Merchants Association is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5f53c889-466a-480f-bd63-d23e44dd7644",
+    "name": "The Muse",
+    "latitude": 40.6914551,
+    "longitude": -73.9024229,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Muse is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ba6832ce-d98a-4d40-8779-b3dad39e8ca1",
+    "name": "North Brooklyn Boat Club",
+    "latitude": 40.7384101,
+    "longitude": -73.9531242,
+    "icon": "default",
+    "imageURL": "",
+    "description": "North Brooklyn Boat Club is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "57919e20-5f25-4988-94f3-e4f3dfe27eb1",
+    "name": "Pioneer Works",
+    "latitude": 40.6792081,
+    "longitude": -74.0121513,
+    "icon": "default",
+    "imageURL": "",
+    "description": "An unconventional space for art and science housed in a massive old warehouse.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1344ba75-01b7-4501-b416-757b179d1cb1",
+    "name": "Drummer's Grove",
+    "latitude": 40.6558582,
+    "longitude": -73.9625246,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Drummer's Grove is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b289a020-6cdb-4129-947e-a048f6707b1f",
+    "name": "The Center for Fiction",
+    "latitude": 40.6868022,
+    "longitude": -73.9785744,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Center for Fiction is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9b39877d-6565-4d99-80c9-5d0838282b6b",
+    "name": "High Valley Books",
+    "latitude": 40.7229747,
+    "longitude": -73.9511741,
+    "icon": "default",
+    "imageURL": "",
+    "description": "High Valley Books is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "3951dcba-793c-4d98-b19e-7b263935acd2",
+    "name": "Stuart Cinema & Cafe",
+    "latitude": 40.7292358,
+    "longitude": -73.9592967,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Stuart Cinema & Cafe is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0a8bf318-9225-4a45-8501-3c71681d484b",
+    "name": "Staubitz Market",
+    "latitude": 40.6864565,
+    "longitude": -73.9940737,
+    "icon": "default",
+    "imageURL": "",
+    "description": "oldest butcher in nyc",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "fbbf8bbd-dd5b-43b9-878c-f9bdf028a818",
+    "name": "Metropolitan Rod & Gun Club",
+    "latitude": 40.68924,
+    "longitude": -73.994332,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Metropolitan Rod & Gun Club is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5f4c47e1-cab6-47c2-9a86-704cf78cd51e",
+    "name": "Barb\u00e8s",
+    "latitude": 40.6677603,
+    "longitude": -73.9838642,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Barb\u00e8s is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "085eaebe-65de-4948-8d31-c5a487ac94eb",
+    "name": "Niblo Mausoleum",
+    "latitude": 40.6491593,
+    "longitude": -73.9938053,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Nestled into the hills surrounding Crescent Water lake at Green-Wood Cemetery you\u2019ll find the mausoleum of William Niblo, guarded by two rather perturbed looking lions. The Niblo Mausoleum is undoubtedly one of the prettiest sights at Green-Wood. But the Niblo Mausoleum was once host to one of the most scandalous parties in Brooklyn.<br><br>William Niblo was a theater impresario, the owner of Niblo\u2019s Garden, a \u201cpleasure theater\u201d that opened in 1828 at the corner of Broadway and Prince Street in Manhattan. The Garden would feature dancers, fireworks, music, and more. As a prominent New Yorker, Niblo purchased and built his mausoleum at Green-Wood well before his earthly demise in 1878. Recognizing its potential as an event space, he would throw wild parties on the lawn of the mausoleum, much to the chagrin of the cemetery management at the time. Today, Green-Wood has embraced Niblo\u2019s legacy and thrown their own parties inspired by Niblo\u2019s Garden.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ebcd7281-ac6a-4be1-a49d-0f9ad8fcc129",
+    "name": "van ness mausoleum",
+    "latitude": 40.6580779,
+    "longitude": -73.9948493,
+    "icon": "default",
+    "imageURL": "",
+    "description": "It\u2019s hard to miss the Van Ness Parsons mausoleum at Green-Wood Cemetery because the mausoleum is a legitimate pyramid. Though the Egyptian influence was a big part of Art Deco design in the early 1900s, the Van Ness Parsons mausoleum is a fascinating hybrid of Egyptian Revival and Christian symbolism. Greeting you at the front of the pyramid, you\u2019ll see Jesus Christ, holding a lamb, and the Virgin Mary, holding the infant version of Jesus just next to him. There\u2019s another female figure to the left, probably Pharaoh\u2019s wife discovering baby Moses. But just adjacent to Mary is a friendly sphinx, and there are Egyptian vulture wings that adorn the mausoleum\u2019s doorframe. It\u2019s a beautifully bizarre convergence of cultures.<br><br>The mausoleum belongs to Alfred Ross Parsons, a celebrated pianist and music teacher who died in 1933. Parsons was also an Egyptologist and author of New Light from the Great Pyramid, on the geographical discoveries of the Egyptians. So it\u2019s unsurprising that Parsons rests in a literal pyramid, alongside his wife, Alice Schuyler Van Ness, who predeceased him in 1931.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ecc196fd-f97d-487a-8deb-cba0e44f5502",
+    "name": "Grave of Charlotte Canda",
+    "latitude": 40.6553671,
+    "longitude": -73.9918226,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Debutante Charlotte Canda was coming home from her \u201ccoming out\u201d party on the evening of her seventeenth birthday in 1845 when the horse pulling her carriage down Fifth Avenue was spooked by a thunderclap. Charlotte was thrown from the carriage and died in her father\u2019s arms. She had been hard at work on designs for the tomb of her aunt, who had recently died. Those designs went into her own grave as Charlotte\u2019s grieving father immediately began plans for an elaborate memorial to his daughter at Green-Wood.<br><br>The resulting tomb became one of Green-Wood\u2019s most popular tourist attractions once it was completed in 1848. By the 1860s, people knew \u201cMiss Canda\u201d from poems and songs about her grave at Green-Wood. The gorgeous, Gothic style memorial is filled with symbolism: it is seventeen feet wide and seventeen feet long, for each year of Charlotte\u2019s brief life. A statue of Charlotte stands underneath a canopy of stars, decorated with roses, which symbolize the loss of a young woman. Charlotte\u2019s fiance, a young man named Charles Albert Jarrett de la Marie, consumed with grief, committed suicide a year after her death. At the time, suicides weren\u2019t allowed to be buried in consecrated ground, so he rests just adjacent to Charlotte\u2019s epic memorial at Green-Wood.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c3722ecf-9365-4264-b9a6-9b669ca06b94",
+    "name": "Better Than Jam's STORE & STUDIO",
+    "latitude": 40.705467,
+    "longitude": -73.932367,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Better Than Jam's STORE & STUDIO is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "01a1379e-c393-4eff-af98-a9e45281f759",
+    "name": "Brooklyn Bridge Park Boathouse, Pier 2",
+    "latitude": 40.6998833,
+    "longitude": -73.9987987,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Bridge Park Boathouse, Pier 2 is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dfa47ee1-f450-4b8c-9caa-7ec6c33e9b4a",
+    "name": "Brooklyn Cyclones at MCU Park",
+    "latitude": 40.5748057,
+    "longitude": -73.9844943,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Cyclones at MCU Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "28871691-08c7-4732-b1b1-3312cfddfa9d",
+    "name": "Glass Bottle Beach",
+    "latitude": 40.5815181,
+    "longitude": -73.8961059,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Glass Bottle Beach is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ea726432-2a24-4d88-a579-42ae63db0a97",
+    "name": "She-Weld",
+    "latitude": 40.6741953,
+    "longitude": -74.011412,
+    "icon": "default",
+    "imageURL": "",
+    "description": "She-Weld is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c41f5395-42b1-4559-b9f2-10ee7103857c",
+    "name": "Bushwick Community Darkroom",
+    "latitude": 40.699218,
+    "longitude": -73.929546,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bushwick Community Darkroom is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "240099fa-b272-4e53-a79f-518bdc4512d8",
+    "name": "Brooklyn Film Camera",
+    "latitude": 40.707737,
+    "longitude": -73.9247634,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Film Camera is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7069cb63-996a-4fe1-a91a-bab415b7f92c",
+    "name": "Lullwater Bridge",
+    "latitude": 40.660643,
+    "longitude": -73.9658835,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lullwater Bridge is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "292cd3a8-22cb-4a50-897f-2a4ce95928c3",
+    "name": "Camperdown Elm",
+    "latitude": 40.6604439,
+    "longitude": -73.9650484,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Camperdown Elm is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5db36f6e-7a54-482f-8f90-4d3746c37e5c",
+    "name": "Brooklyn Plantology by Lapide",
+    "latitude": 40.643811,
+    "longitude": -73.915038,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Plantology by Lapide is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8d2712cd-0450-4abe-b3ab-2a533571210a",
+    "name": "Textile Arts Center",
+    "latitude": 40.6768345,
+    "longitude": -73.985221,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Textile Arts Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "75c1c355-d09d-4d09-a4f6-8d0d0522b9fa",
+    "name": "Marine Park Cricket Field",
+    "latitude": 40.606658,
+    "longitude": -73.9357984,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Marine Park Cricket Field is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1de7befb-bb3a-4953-90d4-c75a810c8d95",
+    "name": "Canarsie Park Cricket Ground 1",
+    "latitude": 40.6257282,
+    "longitude": -73.8993055,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Canarsie Park Cricket Ground 1 is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8348c625-00b2-4ea5-adc6-74db436abe2b",
+    "name": "Crown Finish Caves",
+    "latitude": 40.6771821,
+    "longitude": -73.9566243,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Crown Finish Caves is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "971a596e-bc39-4e53-a066-a60557693a46",
+    "name": "Espo's Art World",
+    "latitude": 40.6824672,
+    "longitude": -73.9798588,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Espo's Art World is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a0ee9b0f-541a-44c7-9f45-2c7ea5320ae0",
+    "name": "Flatbush Reformed Church",
+    "latitude": 40.6501539,
+    "longitude": -73.9589433,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Flatbush Reformed Church is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "70655e18-cd95-4b4c-b27f-8529dddbc6a7",
+    "name": "Kick Axe Throwing BROOKLYN",
+    "latitude": 40.6791092,
+    "longitude": -73.9836161,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kick Axe Throwing BROOKLYN is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f25de6bd-d542-40c3-9de5-dbb97503ffbc",
+    "name": "Lesbian Herstory Archives",
+    "latitude": 40.6618645,
+    "longitude": -73.9803428,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lesbian Herstory Archives is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7d7c31f2-b792-4c94-a8fc-83550d6614f3",
+    "name": "Coney Island History Project",
+    "latitude": 40.573839,
+    "longitude": -73.979541,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Coney Island History Project is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7d01de49-6d6a-4b2c-9c21-f93feed719da",
+    "name": "Eastern Parkway Brooklyn Museum Station",
+    "latitude": 40.6719938,
+    "longitude": -73.9642065,
+    "icon": "default",
+    "imageURL": "",
+    "description": "78 pieces foraged from old buildings in the station's mezzanine",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "cebd110b-0acf-4cef-8b4e-fc74221f9a5a",
+    "name": "131 Buckingham Rd",
+    "latitude": 40.6473457,
+    "longitude": -73.9645954,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ditmas Victorian \"japanese house\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ee281e23-47f0-4041-afd3-d36a0a0f4c8b",
+    "name": "101 Rugby Rd",
+    "latitude": 40.6473788,
+    "longitude": -73.9662439,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ditmas Victorian<br>Sophie's Choice house",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "62c0c23c-376a-4bd1-9aed-cb489c815994",
+    "name": "100 Rugby Rd",
+    "latitude": 40.6472798,
+    "longitude": -73.9667719,
+    "icon": "default",
+    "imageURL": "",
+    "description": "100 Rugby Rd is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ea55027e-649c-43cd-94de-2610e7f1e9b9",
+    "name": "1320 Ditmas Ave",
+    "latitude": 40.636427,
+    "longitude": -73.964653,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1320 Ditmas Ave is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "3e69179a-8ea4-452f-97c9-8b827c4afc39",
+    "name": "Van Brunt Stillhouse",
+    "latitude": 40.6734904,
+    "longitude": -74.0100937,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Van Brunt Stillhouse is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "75c2e5ab-5b8a-460a-be9d-b1fe8fb9b9c1",
+    "name": "Miss Brooklyn & Miss Manhattan",
+    "latitude": 40.6961538,
+    "longitude": -73.9847737,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Miss Brooklyn & Miss Manhattan is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5670f586-81ff-4dc2-800e-a7efd85d8675",
+    "name": "Then She Fell",
+    "latitude": 40.7111031,
+    "longitude": -73.9429092,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Then She Fell is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "46b466da-e769-4a68-996a-100cddda3463",
+    "name": "Park Slope Plane Crash site",
+    "latitude": 40.6777249,
+    "longitude": -73.9732782,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Park Slope Plane Crash site is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2fbdf57c-8d13-4631-8f12-b56d6a247534",
+    "name": "Widow Jane Distillery",
+    "latitude": 40.6773529,
+    "longitude": -74.0153869,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Widow Jane Distillery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9a9d8b73-717c-4d5d-a72b-8e61c0758e9e",
+    "name": "Raaka Chocolate",
+    "latitude": 40.6814367,
+    "longitude": -74.0071505,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Raaka Chocolate is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7f22f95e-b141-44ec-b741-3369b6a38169",
+    "name": "Red Hook Community Farms",
+    "latitude": 40.6725717,
+    "longitude": -74.0087895,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Red Hook Community Farms is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "23e1e1e5-a15a-4749-9eb4-4b2041b5c92a",
+    "name": "St. Mary Star of the Sea",
+    "latitude": 40.6768146,
+    "longitude": -73.9983507,
+    "icon": "default",
+    "imageURL": "",
+    "description": "St. Mary Star of the Sea is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "94d1bd42-05bd-47d8-be46-b92d037ccc8e",
+    "name": "Calvert Vaux Park",
+    "latitude": 40.5843671,
+    "longitude": -73.9952563,
+    "icon": "default",
+    "imageURL": "",
+    "description": "In 2007, as part of a PlaNYC initiative to create regional destination parks in all five boroughs, the comprehensive master plan design for the 72-acre Calvert Vaux Park was unveiled. Central to this plan was the construction of a Park Pavilion and Maintenance Facility, designed by 1100 Architect. The concept was developed based on the requirement that five distinct programs (athletic storage, public restroom, staff office, work area, and vehicle storage) be located within one site.<br><br>One of the design challenges was to build a single facility that worked both as a hospitable environment for park visitors, but also as a durable facility for the heavy use of park vehicles and maintenance equipment. To cohesively serve those two very different user groups, the design creates an innovative footprint that merges three connected wings. The building doubles as a gateway to the park, providing a sense of arrival. On track for LEED Silver Certification, the design also includes an array of measures for sustainability and energy efficiency.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0fec3783-aff7-4cd8-8370-04fe0163f906",
+    "name": "Microscope Gallery",
+    "latitude": 40.706314,
+    "longitude": -73.921075,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Microscope Gallery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "514deb97-ec29-4281-aab9-d60b907fce68",
+    "name": "Lions Roar Karaoke",
+    "latitude": 40.708338,
+    "longitude": -73.941333,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Lions Roar Karaoke is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a8cc3d66-52fd-4bc3-a394-21d75be423e3",
+    "name": "Knickerbocker Field Club",
+    "latitude": 40.647842,
+    "longitude": -73.963455,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Knickerbocker Field Club is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "efd66bbd-7aae-4743-a816-c1803109acf3",
+    "name": "National Bakery",
+    "latitude": 40.5771617,
+    "longitude": -73.9648664,
+    "icon": "default",
+    "imageURL": "",
+    "description": "National Bakery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d2a7b4d6-2fc9-4dd2-8630-b49d8a8fb3ca",
+    "name": "Peephole Cinema",
+    "latitude": 40.7016474,
+    "longitude": -73.9272448,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Peephole Cinema is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "fbb2dff9-1156-4da6-bbc6-81b2511da9dc",
+    "name": "Fifth Avenue Bingo",
+    "latitude": 40.6701876,
+    "longitude": -73.9858765,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fifth Avenue Bingo is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b0396da7-81b8-4686-ba7b-4b28c24251cc",
+    "name": "Sorted Library",
+    "latitude": 40.7042318,
+    "longitude": -73.9870246,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sorted Library is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "56b583a2-9e0c-4dd4-9ce2-2ea1d2ae259c",
+    "name": "Bensonhurst statue house",
+    "latitude": 40.6042365,
+    "longitude": -73.9963288,
+    "icon": "default",
+    "imageURL": "",
+    "description": "One Brooklyn man's collection of life-size fiberglass statues has taken over his entire yard.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8f6724e2-0cb3-42c9-b38b-50a29b546216",
+    "name": "Gotham Greens",
+    "latitude": 40.6750448,
+    "longitude": -73.9886778,
+    "icon": "default",
+    "imageURL": "",
+    "description": "offers free weekly tours",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f8ad2e11-2715-4270-8194-ea3755e96fa8",
+    "name": "Naval Cemetery Landscape",
+    "latitude": 40.6992601,
+    "longitude": -73.9630928,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Naval Cemetery Landscape is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4714d024-ee1a-419f-a0d6-9e314ccb8d81",
+    "name": "Shirley Chisholm State Park",
+    "latitude": 40.6430089,
+    "longitude": -73.8754301,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Shirley Chisholm State Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "05aa2a00-6553-4708-aef1-c35826c1959e",
+    "name": "Brooklyn Waterfront Artists",
+    "latitude": 40.6727944,
+    "longitude": -74.0176183,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Waterfront Artists is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "da7e8b77-20cd-4e84-9e73-bdd75c3d26d3",
+    "name": "Carmelite Monastery",
+    "latitude": 40.684426,
+    "longitude": -73.890315,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Carmelite Monastery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "668fe33f-8b94-4029-b896-c9c6947ffaed",
+    "name": "Wendy\u2019s Subway",
+    "latitude": 40.70384,
+    "longitude": -73.9379809,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Wendy\u2019s Subway is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c9c34c78-1e5b-432b-9f10-4b7ab35f16ed",
+    "name": "The Hoxton, Williamsburg",
+    "latitude": 40.7208251,
+    "longitude": -73.9587909,
+    "icon": "default",
+    "imageURL": "",
+    "description": "world's smallest cinema off of lobby",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "25b37a44-fb95-46be-bc88-3471c8040444",
+    "name": "Brooklyn Grange Sunset Park",
+    "latitude": 40.6594154,
+    "longitude": -74.0044891,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Grange Sunset Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0da8ffe5-a1fe-46db-8940-1dde59e021e8",
+    "name": "Friends of Refugees of Eastern Europe",
+    "latitude": 40.6679726,
+    "longitude": -73.943198,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Friends of Refugees of Eastern Europe is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "37fd03df-cdfa-4f04-a4af-86787ba7680e",
+    "name": "mansions of president street",
+    "latitude": 40.6676959,
+    "longitude": -73.9435885,
+    "icon": "default",
+    "imageURL": "",
+    "description": "mansions of president street is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2cbba44c-a0cd-42c5-93b6-7bd1e7835be4",
+    "name": "Blue: The Tatter Textile Library",
+    "latitude": 40.6770318,
+    "longitude": -73.985069,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Blue: The Tatter Textile Library is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0acd5d08-db28-4814-8838-7712bba4db32",
+    "name": "Most Holy Trinity Cemetery",
+    "latitude": 40.6886665,
+    "longitude": -73.9028772,
+    "icon": "default",
+    "imageURL": "",
+    "description": "nearly every grave marker is made of tin or copper",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dcc5c6e7-5a78-416d-be40-d4e31d2e04aa",
+    "name": "Berl's Brooklyn Poetry Shop",
+    "latitude": 40.7025762,
+    "longitude": -73.9874484,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Berl's Brooklyn Poetry Shop is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ffc96014-ae13-432e-b460-6e178989b659",
+    "name": "Fresh Creek Nature Preserve",
+    "latitude": 40.6443269,
+    "longitude": -73.8855623,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fresh Creek Nature Preserve is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "fc37c077-1800-4c50-81ac-812a1eb2054c",
+    "name": "Endale Arch",
+    "latitude": 40.6710577,
+    "longitude": -73.9690506,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Endale Arch is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4e245f54-dea8-4ca8-97c9-59b9bc3abc15",
+    "name": "Recess",
+    "latitude": 40.6973722,
+    "longitude": -73.9679774,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Recess is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c3a5aff9-a340-40ee-9200-f4cc64aad697",
+    "name": "Hadas Gallery",
+    "latitude": 40.6939265,
+    "longitude": -73.9626766,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hadas Gallery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "47c563c2-07c9-4c2e-a435-53632dc48c35",
+    "name": "Plumb Beach (Gateway National Recreation Area)",
+    "latitude": 40.583293,
+    "longitude": -73.9209991,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Plumb Beach (Gateway National Recreation Area) is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9944bef1-8e9b-4a77-a89c-5e1259e912c6",
+    "name": "Marine Park Salt Marsh Nature Center",
+    "latitude": 40.6040464,
+    "longitude": -73.9306319,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Marine Park Salt Marsh Nature Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "513c78fe-0520-4f39-a393-d203f8a04ed5",
+    "name": "Hudson Avenue",
+    "latitude": 40.7030725,
+    "longitude": -73.9811206,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hudson Avenue is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "84e0b7b6-f8df-4d55-bb65-9621b3b15b7b",
+    "name": "1440 Albemarle Rd",
+    "latitude": 40.6463726,
+    "longitude": -73.9656929,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1440 Albemarle Rd is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9ab7d1cd-1556-4948-a653-24d92cec627f",
+    "name": "1510 Albemarle Rd",
+    "latitude": 40.6464586,
+    "longitude": -73.965073,
+    "icon": "default",
+    "imageURL": "",
+    "description": "1510 Albemarle Rd is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "54320090-0df2-4d58-8495-cf747d97aafb",
+    "name": "1306 Albemarle Rd",
+    "latitude": 40.6462459,
+    "longitude": -73.9669786,
+    "icon": "default",
+    "imageURL": "",
+    "description": "best halloween decorations",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4210aece-51e4-44b4-adc4-e88712653e30",
+    "name": "125 Buckingham Rd",
+    "latitude": 40.6474062,
+    "longitude": -73.9646778,
+    "icon": "default",
+    "imageURL": "",
+    "description": "125 Buckingham Rd is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "bd283339-9489-4f46-b2c8-70c773b542f1",
+    "name": "85 Buckingham Rd",
+    "latitude": 40.6482838,
+    "longitude": -73.9644851,
+    "icon": "default",
+    "imageURL": "",
+    "description": "85 Buckingham Rd is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4ab10085-3681-4909-91e7-034f213c1c81",
+    "name": "317 Rugby Rd",
+    "latitude": 40.6420382,
+    "longitude": -73.9652572,
+    "icon": "default",
+    "imageURL": "",
+    "description": "317 Rugby Rd is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2f88c1d0-c723-4a1b-b334-0368c9d7bcb4",
+    "name": "The Jackie Robinson House",
+    "latitude": 40.6481035,
+    "longitude": -73.927264,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NHL",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6e71ea99-9b99-40e3-acc7-2066c1c3a102",
+    "name": "Enrico Caruso Museum of America",
+    "latitude": 40.6028756,
+    "longitude": -73.9535492,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Enrico Caruso Museum of America is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "33420596-8116-49a8-b26b-891dd93071fa",
+    "name": "Gingerbread House",
+    "latitude": 40.6278614,
+    "longitude": -74.0383897,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gingerbread House is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7d458a19-18a3-480e-bcd9-887581089dec",
+    "name": "Smack Mellon",
+    "latitude": 40.7037407,
+    "longitude": -73.9897595,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Smack Mellon is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "bd2462c8-7bf4-4f32-ab24-07a264f4aad6",
+    "name": "Wonderville",
+    "latitude": 40.6923719,
+    "longitude": -73.9274634,
+    "icon": "default",
+    "imageURL": "",
+    "description": "home for independently made arcade games",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1465962c-2f39-41f3-afc1-ee459cf5e494",
+    "name": "MINUS SPACE",
+    "latitude": 40.7033588,
+    "longitude": -73.9908596,
+    "icon": "default",
+    "imageURL": "",
+    "description": "MINUS SPACE is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "49eb2ed6-7e2e-4202-9591-bdf9f95ff0dd",
+    "name": "Shtetl Art Gallery",
+    "latitude": 40.6974469,
+    "longitude": -73.9589178,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Shtetl Art Gallery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1e2c6163-dab7-4e2d-8f23-2ea08b7ba583",
+    "name": "Greenpoint Library",
+    "latitude": 40.7259813,
+    "longitude": -73.9506651,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Greenpoint Library and Environmental Education Center is a 15,000-square-foot community library and hub for environmental awareness, activism, and education in the Brooklyn Public Library system. Program elements include reading rooms, dry/wet eco-labs, community event space and meeting rooms, staff spaces, and an extensive outdoor space. Landscapes are integrated into the building on three levels \u2013 bioswale and rock outcroppings at the street, a reading garden on the second, and a green roof on the third.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "58de7d49-d0ba-482a-b04c-9250c6259720",
+    "name": "82 Degraw St",
+    "latitude": 40.6859643,
+    "longitude": -74.0037775,
+    "icon": "default",
+    "imageURL": "",
+    "description": "quirky sculpture garden (private)",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "42a5d3a4-3f63-47b0-b0b3-a1ccf0f1b7d3",
+    "name": "Film Noir Cinema",
+    "latitude": 40.7273005,
+    "longitude": -73.9515454,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Film Noir Cinema is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "557d451f-633f-436b-94c0-7c7a9ba6ac0f",
+    "name": "BJ's Park and Rest Area",
+    "latitude": 40.5913495,
+    "longitude": -73.9999153,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BJ's Park and Rest Area is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "701f1673-69d8-4d39-a94d-beec2b6892df",
+    "name": "North Williamsburg",
+    "latitude": 40.720844,
+    "longitude": -73.9649124,
+    "icon": "default",
+    "imageURL": "",
+    "description": "North Williamsburg is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "918fb17c-4344-4f0f-a815-684274b84c2f",
+    "name": "Underhill Walls",
+    "latitude": 40.6742795,
+    "longitude": -73.9672186,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Underhill Walls is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "cd4cd1dc-7f65-4ac0-a1cb-652984139f6c",
+    "name": "Harold and Maude Vintage",
+    "latitude": 40.6897711,
+    "longitude": -73.9510959,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Harold and Maude Vintage is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "341c6537-bc93-4a66-8977-1f0af1aecfd7",
+    "name": "Herbert Von King Park",
+    "latitude": 40.689612,
+    "longitude": -73.946732,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Herbert Von King Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "790d6cfd-f76f-4917-b7ff-ea2171ed32c2",
+    "name": "Star Perfumes & Gift Co",
+    "latitude": 40.6809646,
+    "longitude": -73.9532796,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Star Perfumes & Gift Co is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f90f4107-70b8-4784-aad5-0e6eaf1875cc",
+    "name": "Ocean Avenue Pedestrian Bridge",
+    "latitude": 40.5822162,
+    "longitude": -73.949363,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ocean Avenue Pedestrian Bridge is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f74f615b-5e5a-4431-8a63-e6f828992fa3",
+    "name": "Holocaust Memorial Park",
+    "latitude": 40.5824506,
+    "longitude": -73.953694,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Holocaust Memorial Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "35becf40-2b33-46f1-b608-ba6b663e4ced",
+    "name": "Cherry Hill Gourmet Inc",
+    "latitude": 40.5838861,
+    "longitude": -73.9487833,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Cherry Hill Gourmet Inc is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "eba423b8-83b6-4753-8b88-06d856ba9a18",
+    "name": "Syndicated Bar Theater Kitchen",
+    "latitude": 40.7048388,
+    "longitude": -73.9330082,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Syndicated Bar Theater Kitchen is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "08b7c44f-8090-4e89-bbd4-b696d19730bf",
+    "name": "Leroy's Place BROOKLYN",
+    "latitude": 40.6660201,
+    "longitude": -73.9820273,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Leroy's Place BROOKLYN is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5597916b-493e-4d92-af04-77967ac63dcc",
+    "name": "Webster Place",
+    "latitude": 40.663437,
+    "longitude": -73.986655,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Webster Place is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d5fa7ede-15ba-4379-9aeb-8cc2d6adebea",
+    "name": "Williamsburg Music Center",
+    "latitude": 40.711305,
+    "longitude": -73.963079,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Williamsburg Music Center is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f058c5ba-8e03-4ab1-add7-48bac15b19bf",
+    "name": "Archestratus Books + Foods",
+    "latitude": 40.732808,
+    "longitude": -73.955144,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Archestratus Books + Foods is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0d288dfc-f50f-493d-8273-8549eb97e7bf",
+    "name": "Swivel Gallery",
+    "latitude": 40.6871329,
+    "longitude": -73.9508047,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Swivel Gallery is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7a55bba6-5843-4dd8-ac4e-9c0d465a76a5",
+    "name": "Alhambra Apartments",
+    "latitude": 40.6813792,
+    "longitude": -73.9500051,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Alhambra Apartments is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ba038b07-5e44-4676-9b1a-37664da3c06a",
+    "name": "488 Nostrand Ave.",
+    "latitude": 40.6821433,
+    "longitude": -73.9500973,
+    "icon": "default",
+    "imageURL": "",
+    "description": "488 Nostrand Ave. is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "fa246677-8e8c-4295-af0f-6fbbd9e10aad",
+    "name": "480 Nostrand Ave.",
+    "latitude": 40.6822935,
+    "longitude": -73.9501148,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NYC Landmark",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "026d6271-73e9-422e-9ef4-851a0fac8edd",
+    "name": "Sunset Play Center",
+    "latitude": 40.6469924,
+    "longitude": -74.0021546,
+    "icon": "default",
+    "imageURL": "",
+    "description": "NYC Landmark; landmarked interior",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c1c45ab1-8c1a-4f32-bc39-4e7855c7f0e0",
+    "name": "Eastern Parkway Pedestrian Mall",
+    "latitude": 40.6695466,
+    "longitude": -73.9421846,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Eastern Parkway Pedestrian Mall is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d276e81b-7d82-4689-8b29-fd22f2f80e72",
+    "name": "Ocean Parkway",
+    "latitude": 40.6137386,
+    "longitude": -73.9684303,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ocean Parkway is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dde348dd-fb17-4e4b-9926-4778c27aa1ed",
+    "name": "Manhattan Beach Park",
+    "latitude": 40.5768049,
+    "longitude": -73.942583,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Manhattan Beach Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "217c3cf8-7f90-4e23-a870-931a072a18e5",
+    "name": "Sheepshead Bay Piers",
+    "latitude": 40.5839556,
+    "longitude": -73.9459804,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sheepshead Bay Piers is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1a02c727-d669-4c51-ad13-24c78c53431d",
+    "name": "Kingsborough Community College",
+    "latitude": 40.5786707,
+    "longitude": -73.9351016,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kingsborough Community College is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b1725464-8027-43ce-a0a7-645352eb12c1",
+    "name": "Brooklyn Public Library - Gerritsen Beach Branch",
+    "latitude": 40.5913977,
+    "longitude": -73.9239955,
+    "icon": "default",
+    "imageURL": "",
+    "description": "go in back for views of the canal through the windows",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c68a824d-6422-4bd6-a671-ef651e2f90c4",
+    "name": "Tamaqua Bar & Marina",
+    "latitude": 40.594344,
+    "longitude": -73.929953,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Tamaqua Bar & Marina is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d7d6dd60-b8a9-4352-9f68-bfc1e163beed",
+    "name": "Bush Terminal Piers Park",
+    "latitude": 40.6534111,
+    "longitude": -74.0201023,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Bush Terminal Piers Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c15ea714-2838-44a6-88c9-8a6c5e3217ef",
+    "name": "Russian Books & Gifts Store | St-Petersburg",
+    "latitude": 40.5763877,
+    "longitude": -73.9661344,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Russian Books & Gifts Store | St-Petersburg is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2eb8c1b5-86a3-4519-b6b0-79fdbcb8cf49",
+    "name": "Master Theater",
+    "latitude": 40.5784015,
+    "longitude": -73.958527,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Master Theater is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0b950648-3dff-4525-a64c-38353b4be97d",
+    "name": "American United Mosque",
+    "latitude": 40.6356299,
+    "longitude": -74.0091926,
+    "icon": "default",
+    "imageURL": "",
+    "description": "American United Mosque is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d78985c7-6e85-4e13-acc1-59e67899e861",
+    "name": "Hurricane Point",
+    "latitude": 40.7232805,
+    "longitude": -73.962625,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Hurricane Point is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d095f664-6fc5-4930-9a84-e9198a964819",
+    "name": "Alliance of Resident Theatres",
+    "latitude": 40.6851473,
+    "longitude": -73.9735043,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Alliance of Resident Theatres is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "45e269c1-6726-4155-926f-b6ed197108d1",
+    "name": "JACK",
+    "latitude": 40.6826399,
+    "longitude": -73.9608721,
+    "icon": "default",
+    "imageURL": "",
+    "description": "JACK is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4567cd3e-28f7-4769-8877-1650cbfb8682",
+    "name": "Asia Art Archive in America",
+    "latitude": 40.700149,
+    "longitude": -73.9942743,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Asia Art Archive in America is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c2d68d69-b81b-42cb-a357-52802307a951",
+    "name": "Elsewhere",
+    "latitude": 40.709411,
+    "longitude": -73.923169,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Elsewhere is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "078250fc-fd05-45ae-88e0-adefb1c504b4",
+    "name": "El Museo de Los Sures",
+    "latitude": 40.7140289,
+    "longitude": -73.9626,
+    "icon": "default",
+    "imageURL": "",
+    "description": "El Museo de Los Sures is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c1a20c18-694e-48df-9a79-790fe9e44d45",
+    "name": "The Morbid Anatomy Library and Gift Shop",
+    "latitude": 40.6560789,
+    "longitude": -74.0078174,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Morbid Anatomy Library and Gift Shop is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2cce545a-a3ea-4cef-93ea-a9588cdf1788",
+    "name": "Museum of Women's Resistance",
+    "latitude": 40.6640557,
+    "longitude": -73.9528642,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Museum of Women's Resistance is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "1e005339-a2b2-4e0d-b864-2f9ffe744f2e",
+    "name": "Clive Davis Institute of Recorded Music",
+    "latitude": 40.6929116,
+    "longitude": -73.9874613,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Clive Davis Institute of Recorded Music is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e4a400a8-9f9e-42c3-a732-9d9a450afc9a",
+    "name": "BrownstoneJAZZ",
+    "latitude": 40.6815763,
+    "longitude": -73.9469889,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BrownstoneJAZZ is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d300ed16-5899-46db-acef-38a2f1a12256",
+    "name": "Ornithology Jazz Club",
+    "latitude": 40.6955888,
+    "longitude": -73.9319823,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Ornithology Jazz Club is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "cddb20b1-c74a-49cd-a95c-592e8c62a6c4",
+    "name": "WORTHLESSSTUDIOS",
+    "latitude": 40.7076408,
+    "longitude": -73.9313437,
+    "icon": "default",
+    "imageURL": "",
+    "description": "WORTHLESSSTUDIOS is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "cf7ef242-14cc-45f0-b532-94b0ba1a1c6e",
+    "name": "Anopoli",
+    "latitude": 40.6352778,
+    "longitude": -74.0263889,
+    "icon": "default",
+    "imageURL": "",
+    "description": "century old soda fountain",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6590b125-81b9-42e8-ab4d-eac473ed1dda",
+    "name": "Amant",
+    "latitude": 40.7123133,
+    "longitude": -73.9370549,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Founded in 2019, Amant is a non-collecting contemporary art institution that fosters artistic research, experimentation, and dialogue through exhibitions, live programs, publications, and artist residencies in Brooklyn, NY, and Siena, Italy. The core of Amant\u2019s mission is to advance the presentation of contemporary art with an emphasis on innovative formats and ideas.<br><br>Amant\u2019s 21,000-square-foot, four-building campus, designed by SO-IL, includes a multipurpose screening and performance space, a caf\u00e9, and a bookshop. The organization supports both established and mid-career international and local artists who work across diverse creative fields, and is committed to building cultural partnerships with like-minded organizations in the U.S. and abroad while activating new and ongoing conversations with local communities.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c9c37ecb-30fd-4822-9096-dbe9b0cb9c08",
+    "name": "BioBAT, Inc.",
+    "latitude": 40.6455096,
+    "longitude": -74.0238947,
+    "icon": "default",
+    "imageURL": "",
+    "description": "BioBAT Art Space is a non-profit gallery dedicated to the intersection of art and science. The gallery features cutting-edge bio-art, where artists and scientists create works that push the boundaries of both fields. Exhibitions explore themes like sustainability, ecology, and the intricate workings of life, providing visitors with a thought-provoking experience",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "463f4b09-ff3a-4fce-bc91-4dfa9f7fecca",
+    "name": "Ryan Visitor Center - Floyd Bennett Field",
+    "latitude": 40.5881603,
+    "longitude": -73.8969745,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The home of aviation trailblazers, in a remote corner of the big city.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "40fd29b0-1d30-425e-b546-0f3bdd7e294f",
+    "name": "Gowanus Dredgers Canoe Club Boathouse",
+    "latitude": 40.6769483,
+    "longitude": -73.990036,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Gowanus Dredgers Canoe Club Boathouse is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4ac186b6-5615-421d-97cd-623476b866af",
+    "name": "Adams Street Library",
+    "latitude": 40.7040753,
+    "longitude": -73.9883644,
+    "icon": "default",
+    "imageURL": "",
+    "description": "he first new library built in Brooklyn since 1983. Designed by WORK Architecture Company (\u201cWORKac\u201d), and built by Shawmut Design & Construction, the modern, playful interior provides the perfect place to read, work, and gather with neighbors. Fronting Brooklyn Bridge Park, Adams Street Library offers stunning views of the Brooklyn and Manhattan Bridges and downtown Manhattan from 15-foot windows. The new library includes designated spaces for children and teens, flexible meeting rooms, and programming space with modern technology.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2da119a3-7c19-4f29-9d6c-16438882eae8",
+    "name": "Flatbush Central Caribbean Marketplace",
+    "latitude": 40.6529867,
+    "longitude": -73.959495,
+    "icon": "default",
+    "imageURL": "",
+    "description": "For over 20 years, the Flatbush Caton Market has served as the bustling center of a vibrant Caribbean community, connecting residents with local vendors and products from all over the globe. A five-year renovation and expansion project is now complete and the market has returned with a new name: the Flatbush Central Caribbean Marketplace!",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "aa1d2ce6-ff3c-463f-8409-2daacb597476",
+    "name": "Genspace",
+    "latitude": 40.6565705,
+    "longitude": -74.0026065,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Genspace is the world\u2019s first community biology lab \u2014 a place where people of all backgrounds and identities can learn, create, and grow with the life sciences.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6ad37cfd-e714-4d57-949c-4ed118addd21",
+    "name": "Prison Ship Martyrs Monument",
+    "latitude": 40.6917937,
+    "longitude": -73.9755288,
+    "icon": "default",
+    "imageURL": "",
+    "description": "a war memorial at Fort Greene Park that commemorates more than 11,500 American prisoners of war who died in captivity aboard British prison ships during the American Revolutionary War. The remains of a small fraction of those who died on the ships are interred in a crypt beneath its base",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7ee76a7d-a4d3-472d-9d05-268ffd9e91e4",
+    "name": "Stuffed Animal Tree of Bergen Beach",
+    "latitude": 40.6217157,
+    "longitude": -73.9111125,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Stuffed Animal Tree of Bergen Beach is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "8420719b-cc0c-4279-8597-6e2ba019fa9a",
+    "name": "martense lane rock",
+    "latitude": 40.6529966,
+    "longitude": -74.0017339,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This seemingly unremarkable boulder is said to bear the hoofprint of the devil himself.\u00a0The rock can be viewed from 5th Avenue and 36th Street through the fence of the cemetery or you can enter the cemetery from 4th Avenue and follow Maple Avenue under the bridge. Once on the other side of the bridge turn right off the path and climb the hill; the rock is partially obscured by bushes.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "33668501-9f76-4e62-9643-1e096b725050",
+    "name": "Faurschou New York",
+    "latitude": 40.7335909,
+    "longitude": -73.9556203,
+    "icon": "default",
+    "imageURL": "",
+    "description": "warehouse housing private art collection",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "86699f6e-9409-4ddd-8949-bc186ac3530f",
+    "name": "Delight Factory",
+    "latitude": 40.6753336,
+    "longitude": -73.9163716,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Delight Factory is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4982139b-7990-4195-9bad-0b4434b5c330",
+    "name": "Dumbo - Manhattan Bridge View",
+    "latitude": 40.7033165,
+    "longitude": -73.9895698,
+    "icon": "default",
+    "imageURL": "",
+    "description": "most instagrammed spot in NYC",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c9d86882-91fc-4a31-8754-42d3969b5b7d",
+    "name": "Farm.One",
+    "latitude": 40.679678,
+    "longitude": -73.9689121,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Underneath the bustling city streets, a hydroponic farm grows unique herbs in an urban oasis.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "77ec386c-cbea-4c50-9643-08e0a72f5faf",
+    "name": "Janet Borden Inc",
+    "latitude": 40.7033589,
+    "longitude": -73.9909737,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Janet Borden Inc is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c05d7a13-4fae-4476-b3a8-5fdbd7314bcf",
+    "name": "e-flux",
+    "latitude": 40.6945365,
+    "longitude": -73.9613927,
+    "icon": "default",
+    "imageURL": "",
+    "description": "e-flux is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "b13a47ba-7742-41eb-a839-6a87f6cee414",
+    "name": "SHOOTING GALLERY",
+    "latitude": 40.5753863,
+    "longitude": -73.9800341,
+    "icon": "default",
+    "imageURL": "",
+    "description": "SHOOTING GALLERY is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ad167e3f-cb48-4094-9edc-6dd4a6a93fb2",
+    "name": "Chemistry Creative",
+    "latitude": 40.711596,
+    "longitude": -73.9367976,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Chemistry Creative is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "92b5d3d5-c5a5-43af-8033-7503ff1f30ab",
+    "name": "Brownsville Heritage House Inc",
+    "latitude": 40.6644738,
+    "longitude": -73.9051607,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brownsville Heritage House, Inc. (BHH), a hidden gem nestled on the second floor of the Brooklyn Public Library's Stone Avenue branch. BHH is an extension of the community, a place that provides a platform for the arts, entertainment, and culture and is a resource to enhance quality of life. BHH promotes Brownsville's historical significance, while aligning with today's technology to pave the way for future generations.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "70d07911-3dd9-4f0f-bcc4-758e013e8f12",
+    "name": "Brooklyn Seltzer Museum",
+    "latitude": 40.6777958,
+    "longitude": -73.8699776,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Seltzer Museum is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "c7faf59b-246e-47cc-b296-59c7776a0b42",
+    "name": "Powerhouse Arts",
+    "latitude": 40.6764243,
+    "longitude": -73.9885252,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Powerhouse Arts is a nonprofit organization committed to creative expression housed in a purpose-built facility that was once the Brooklyn Rapid Transit Company\u2019s central power station. Meet the extended network of art and fabrication professionals and educators who work together to co-create and share artistic practices vital to the well-being of artists and the communities to which they belong.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "3d9ea706-3445-4c8e-ab44-e1f4427b53c5",
+    "name": "Fallkill Falls",
+    "latitude": 40.6618385,
+    "longitude": -73.9714751,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fallkill Falls is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e88bd238-4c85-427b-8b61-7d92ce166a5c",
+    "name": "Dead Letter No. 9",
+    "latitude": 40.716096,
+    "longitude": -73.964839,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dead Letter No. 9 is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "afde15a2-fbee-4080-a73f-56dd49633cd0",
+    "name": "FENG SWAY",
+    "latitude": 40.7248752,
+    "longitude": -73.9539942,
+    "icon": "default",
+    "imageURL": "",
+    "description": "FENG SWAY is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "aeeee115-01d2-455a-8b27-a4ec06ef1caf",
+    "name": "Mother of Junk",
+    "latitude": 40.7166347,
+    "longitude": -73.9566778,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Mother of Junk is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dc19f291-5dae-4847-8ae7-3f32ad58817d",
+    "name": "The Brooklyn Trust Company Building",
+    "latitude": 40.6945075,
+    "longitude": -73.9921493,
+    "icon": "default",
+    "imageURL": "",
+    "description": "landmarked interior.\u00a0Also an exterior landmark and a National Registered Historic Place",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e5bd25cd-bec9-4da8-a1b9-24e5b23f82f7",
+    "name": "9 Dekalb Ave",
+    "latitude": 40.6903851,
+    "longitude": -73.9825343,
+    "icon": "default",
+    "imageURL": "",
+    "description": "landmarked interior",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "960557e8-48d2-48e6-ac39-f01c1f9c0c04",
+    "name": "175 Broadway",
+    "latitude": 40.7103067,
+    "longitude": -73.9625705,
+    "icon": "default",
+    "imageURL": "",
+    "description": "landmarked interior",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "105ff815-0eae-4445-9e3e-ace8128c6435",
+    "name": "1 Hanson Pl",
+    "latitude": 40.6854025,
+    "longitude": -73.9776761,
+    "icon": "default",
+    "imageURL": "",
+    "description": "landmarked interior",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "58b14d6d-8c7c-4f11-8d25-6d31e48c9ab0",
+    "name": "Fiske Terrace-Midwood Park Historic District",
+    "latitude": 40.6325863,
+    "longitude": -73.9599629,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fiske Terrace-Midwood Park Historic District is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "3dd0cee6-e2f2-448f-84ad-c039dea256f2",
+    "name": "Senator Street Historic District",
+    "latitude": 40.63645,
+    "longitude": -74.0243556,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Senator Street Historic District is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "62b8cce7-f44e-43bf-858c-9279c9553023",
+    "name": "The Ripped Bodice",
+    "latitude": 40.6760881,
+    "longitude": -73.9810057,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Ripped Bodice is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e6b00bc9-9177-4482-a936-08b5313fc5d1",
+    "name": "Big Night",
+    "latitude": 40.7303866,
+    "longitude": -73.9574593,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Big Night is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "237ecb62-a19e-453b-85aa-cb2346405a3d",
+    "name": "A.I.R.",
+    "latitude": 40.7038431,
+    "longitude": -73.9870756,
+    "icon": "default",
+    "imageURL": "",
+    "description": "founded in 1972 as the first cooperative art gallery featuring all female artists.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e120c6c7-288d-425c-92d7-00cb9ac0143f",
+    "name": "Pratt Institute Sculpture Park",
+    "latitude": 40.6907367,
+    "longitude": -73.9639907,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Pratt Institute Sculpture Park is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "937c6a00-a7fe-4929-bb7b-40017055c216",
+    "name": "The Bone Museum",
+    "latitude": 40.705891,
+    "longitude": -73.9371786,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This museum dedicated to the history of the medical bone trade and human osteology.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7ec4c053-edfc-47e0-abee-563bc6ca522a",
+    "name": "770 Eastern Pkwy",
+    "latitude": 40.6690693,
+    "longitude": -73.9428047,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Headquarters of the world's fourth largest Hasidic sect and the first of many \"770s\" around the world.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dcfbc52e-1b02-4b4c-8fb9-2db0fb6d499e",
+    "name": "Studebaker Building",
+    "latitude": 40.6729195,
+    "longitude": -73.9539377,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This neo-Gothic former auto showroom is one of the few remaining reminders of Brooklyn's \"Automobile Row.\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5a04e48e-e77f-4373-b27a-43a06c949f6f",
+    "name": "Amersfort Park",
+    "latitude": 40.6285772,
+    "longitude": -73.9390065,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A miniature version of a legendary Dutch boulder.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4f676ab7-9a2b-45c3-a99f-7322e91c1ebd",
+    "name": "Lindsay of rMayor Sign",
+    "latitude": 40.638668,
+    "longitude": -73.954328,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This recently uncovered ad for Lindsay's run at Mayor in 1965 had been hiding for decades underneath a billboard.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9a0fab37-3376-4c7c-9855-13253db1407b",
+    "name": "Newkirk Plaza Mural and Mosaic",
+    "latitude": 40.63507,
+    "longitude": -73.963024,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A mosaic made of materials gathered from this Brooklyn community adorns the walls of this tunnel.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f5832d54-de49-4dc5-9b26-66196126db7e",
+    "name": "Avenue H",
+    "latitude": 40.6297251,
+    "longitude": -73.9616534,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This unusual subway stop was originally a real estate office.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "77b1f2e0-be0e-43d6-b3b8-f373873f36ef",
+    "name": "Grave of DeWitt Clinton",
+    "latitude": 40.6565885,
+    "longitude": -73.9930782,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Father of the Erie Canal has a magnificent grave marker that redefines the term \"final resting place.\"",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e822d1bb-0a7a-4235-a584-b3625522a760",
+    "name": "Tomb of Secrets on Bay Grove Hill",
+    "latitude": 40.6565942,
+    "longitude": -73.9939001,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A way to take your secrets to someone else's grave.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "4c7210c8-7738-4760-a1aa-2fa98c8f8932",
+    "name": "The Brooklyn Clay Retort and Fire Brick Works Storehouse",
+    "latitude": 40.6750614,
+    "longitude": -74.0133986,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The factory that helped produce a dominant form of lighting before Thomas Edison. <br><br>The three-kiln factory, which began producing clay retorts and fire bricks in 1859, continued production until the early 1930s. It was later bought and restored by Greg O\u2019Connell, a Red Hook developer. The space now houses the Carvart Glass Company, which creates architectural glass products for noteworthy New York City buildings.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "40c02b11-9c0a-408d-8587-9fa91bd585e6",
+    "name": "Sunny's",
+    "latitude": 40.6756944,
+    "longitude": -74.0168722,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Once a popular watering hole among longshoremen and shipyard workers, this neighborhood treasure spans more than 100 years of Red Hook history.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "545fde82-11d7-48d2-ab38-39fdde2cdb58",
+    "name": "Dream Fishing Tackle",
+    "latitude": 40.7250985,
+    "longitude": -73.9534561,
+    "icon": "default",
+    "imageURL": "",
+    "description": "As the name suggests, Dream Fishing Tackle was a place for anglers to buy new rods and bait when Robert Piskorsa opened the Greenpoint shop in 1994. And while the original awning remains the same, over the past three decades Piskorsa\u2019s daughter Barbara has transformed the inside into an overflowing (some admirers say \u201coverwhelming\u201d) supply of Art Deco and postmodern furniture \u2014 along with plenty of records, vintage posters, and chandeliers, too.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "2765fdcd-9b0a-4ae5-a6fc-dc55ff9ac980",
+    "name": "Awesome Brooklyn",
+    "latitude": 40.658313,
+    "longitude": -73.96013,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Awesome Brooklyn is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0f5de5ad-8e33-4b67-9bc3-a67774a46161",
+    "name": "Awesome Home",
+    "latitude": 40.6574803,
+    "longitude": -73.9599302,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Awesome Home is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "903bd47f-1e8e-4057-bad8-e82880ebd6dc",
+    "name": "peace & RIOT",
+    "latitude": 40.6837278,
+    "longitude": -73.9438436,
+    "icon": "default",
+    "imageURL": "",
+    "description": "peace & RIOT is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "6b04bafa-862d-4137-940c-0c7151208645",
+    "name": "Woods Grove",
+    "latitude": 40.6839471,
+    "longitude": -73.9953942,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Woods Grove is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "bb668da4-1110-427b-9255-5d6afaa38140",
+    "name": "Yesterday's News Antiques and Collectibles",
+    "latitude": 40.6792892,
+    "longitude": -73.9975798,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Yesterday's News Antiques and Collectibles is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "5ffec561-1489-4666-a9f7-f6563bfce95f",
+    "name": "Eugene J. Candy Co.",
+    "latitude": 40.7032172,
+    "longitude": -73.9305453,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Eugene J. Candy Co. is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0988083a-f90c-4784-932f-5058b5badbc8",
+    "name": "Kato Sake Works",
+    "latitude": 40.70597,
+    "longitude": -73.9237799,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Their Bushwick tasting room / bottle shop has vinyl nights and live music multiple nights a week, food pop-ups and more.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a2bd9ade-1073-42ca-81f7-c3994456437c",
+    "name": "Skinny Dennis",
+    "latitude": 40.7159083,
+    "longitude": -73.9621222,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Skinny Dennis is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "559e5ba1-5659-4cac-85e2-a2d59e736e01",
+    "name": "Allison Eden Studios",
+    "latitude": 40.70263,
+    "longitude": -73.93644,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Allison Eden Studios is a custom glass art house for all mosaic tile. This one- of-a-kind art studio, which has been manufacturing creative custom tile in NYC for over 30 years, makes some of the most intricate and beautiful tile and mosaic art on the market. The studio also serves as a kind of glass mosaic museum featuring the pop art culture of the city\u2019s past and present.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "abfb3b40-5b2b-4cfb-81ce-c36f8c836f1a",
+    "name": "Carroll Hall",
+    "latitude": 40.7049755,
+    "longitude": -73.930684,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Carroll Hall is a hidden botanical walled garden and series of buildings that explore material reuse of the site and ideas of time travel and ecology to create immersive, unlikely experiences. Visitors continually discover the unexpected within an architecture of crafted materials and unconventional construction techniques. The buildings breathe with automated windows and skylights to naturally ventilate. Handmade mosaic murals tell stories of underground creatures. There are moving walls and secret doors. The plants are an idealized woodland, dressed-up cousins of what might have grown along the edges of fields and farms past.<br><br>The wall that contains the garden is an artwork constructed of pieces from previous buildings on site\u2014from 16,000 years ago to today. It is a time machine. Designers reused over 11,000 salvaged bricks from the demolition of an existing warehouse to create a 200-foot long streetwall of reassembled bricks and stones, illustrating the material history of the site in an impressionistic tapestry.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "474e7dfd-3ebb-4999-8f72-227ba4a3680c",
+    "name": "Noble Signs Inc",
+    "latitude": 40.6762022,
+    "longitude": -73.903304,
+    "icon": "default",
+    "imageURL": "",
+    "description": "New York Sign Museum",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "9f0cef2d-7232-4b6f-9d49-03e7c5c0398c",
+    "name": "Roulette Intermedium",
+    "latitude": 40.6856169,
+    "longitude": -73.9807735,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Roulette Intermedium is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d43eac73-c8cb-48e8-bed9-a33dfc52fea6",
+    "name": "Balcones Recycling",
+    "latitude": 40.661688,
+    "longitude": -74.0090809,
+    "icon": "default",
+    "imageURL": "",
+    "description": "offers tours once a month",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "ed89b7d8-e9dc-4436-bfb1-3238a8d882de",
+    "name": "Williamsburg Biannual",
+    "latitude": 40.7131513,
+    "longitude": -73.9673616,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Williamsburg Biannual is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "20a5414f-dcbc-4c36-9ee7-4216cbf6384a",
+    "name": "Picture Room",
+    "latitude": 40.690952,
+    "longitude": -73.9963734,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Picture Room is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "7af2eea5-68d8-44f3-b6d7-2db3d595c04b",
+    "name": "ShapeShifter Lab",
+    "latitude": 40.674967,
+    "longitude": -73.9760077,
+    "icon": "default",
+    "imageURL": "",
+    "description": "ShapeShifter Lab is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d4f3f1a7-df8d-40df-881e-4254d419ccf1",
+    "name": "St. Cecilia's Roman Catholic Church",
+    "latitude": 40.7201233,
+    "longitude": -73.9421695,
+    "icon": "default",
+    "imageURL": "",
+    "description": "St. Cecilia's Roman Catholic Church is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "f51ae8e7-225c-4885-926b-953e111eb74a",
+    "name": "brooklynONE productions",
+    "latitude": 40.6571343,
+    "longitude": -74.007193,
+    "icon": "default",
+    "imageURL": "",
+    "description": "brooklynONE productions is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "dcba730f-d1a8-49fa-954d-f8a12032d138",
+    "name": "Secret Riso Club",
+    "latitude": 40.699888,
+    "longitude": -73.9286902,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Secret Riso Club is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "858629a5-7d23-45e5-9015-d7ab27567133",
+    "name": "Environmental Study Center",
+    "latitude": 40.6221663,
+    "longitude": -73.9084746,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This 7,000-square-foot learning center in Bergen Beach, Brooklyn, is home to over 200 living organisms, four learning labs, an outdoor learning space with a pond habitat and urban garden, and a greenhouse laboratory",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "893e5e6c-650a-4505-ae69-8934bee3c043",
+    "name": "Brooklyn Art Haus",
+    "latitude": 40.7134273,
+    "longitude": -73.9549377,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Art Haus is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "e249361d-4d96-4d36-ad5d-6423e29e9f32",
+    "name": "NOoSPHERE Arts",
+    "latitude": 40.7348283,
+    "longitude": -73.943611,
+    "icon": "default",
+    "imageURL": "",
+    "description": "a new cultural center in the heart of the industrial zone of Greenpoint, Brooklyn, that focuses on the intersection of art and ecology. Their mission is to produce and share experimental arts programming because NOoSPHERE believes art has the power to move people where lectures fall short. With a hub of talent that unites music, dance, visual arts, theater, film, poetry, and prose, their collaborative productions foster connections between migrant artists and locals.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "a5a3de07-9add-407c-94bb-b7e5a9114a06",
+    "name": "L10 Arts & Cultural Center",
+    "latitude": 40.686236,
+    "longitude": -73.9783039,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The newly-opened 65,000 square-foot space is a giant facility that houses space for multiple institutions: three new cinemas for BAM, the Brooklyn Public Library\u2019s first branch dedicated to arts and culture, a gallery, caf\u00e9, and performance space for the Museum of Contemporary African Diasporan Arts (MoCADA), and lastly, 651 ARTS\u2018 first performance space.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "3509dfeb-0b44-4810-a506-f1209cf68b99",
+    "name": "Brooklyn Art Cave",
+    "latitude": 40.6980702,
+    "longitude": -73.936791,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Brooklyn Art Cave is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "baaceb08-f012-4266-9e2e-ca57b7ec31f1",
+    "name": "Balady Halal Foods",
+    "latitude": 40.6320636,
+    "longitude": -74.0219045,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Balady Halal Foods is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "0e77d9e0-ef90-4541-a004-3c2983efb915",
+    "name": "Night Owl Video",
+    "latitude": 40.712958,
+    "longitude": -73.9577536,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Night Owl Video is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  },
+  {
+    "id": "d2068414-4b7a-48a5-ada0-a28262f5ffe3",
+    "name": "The Gecko Gallery NYC",
+    "latitude": 40.7058871,
+    "longitude": -73.9374341,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Gecko Gallery NYC is a Brooklyn landmark worth visiting.",
+    "info": "Open daily. Check signage or website for details."
+  }
+]
