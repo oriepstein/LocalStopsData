@@ -1,14 +1,2690 @@
 [
-    {
-        "id": "11111111-1111-1111-1111-111111111111",
-        "name": "Statue of Liberty",
-        "latitude": 40.6892,
-        "longitude": -74.0445
-    },
-    {
-        "id": "22222222-2222-2222-2222-222222222222",
-        "name": "Central Park",
-        "latitude": 40.7851,
-        "longitude": -73.9683
-    }
+  {
+    "id": "a6c710ea-8a8f-408a-a77f-62534687f83f",
+    "name": "Melville House Publishing and Bookstore",
+    "latitude": 40.7043658,
+    "longitude": -73.98619,
+    "icon": "default"
+  },
+  {
+    "id": "3fb86276-616f-4fdb-93eb-ed435916249c",
+    "name": "Empire Stores",
+    "latitude": 40.7035539,
+    "longitude": -73.9916217,
+    "icon": "default"
+  },
+  {
+    "id": "339fd7ed-1c54-432e-9896-9bfadd9fce49",
+    "name": "POWERHOUSE Arena",
+    "latitude": 40.7029566,
+    "longitude": -73.9888366,
+    "icon": "default"
+  },
+  {
+    "id": "9e2a92ac-8120-4a0f-a46d-d0dd45ce2db6",
+    "name": "Plymouth Church",
+    "latitude": 40.6991711,
+    "longitude": -73.9931456,
+    "icon": "default"
+  },
+  {
+    "id": "0494dd1d-600e-4d06-a34d-951632e76c08",
+    "name": "Brooklyn Women's Exchange Inc",
+    "latitude": 40.6959876,
+    "longitude": -73.9950959,
+    "icon": "default"
+  },
+  {
+    "id": "45f6cffe-bfb2-41a8-98c8-4e28bf750b30",
+    "name": "58 Joralemon St",
+    "latitude": 40.6934007,
+    "longitude": -73.9974105,
+    "icon": "default"
+  },
+  {
+    "id": "1e49d046-7955-46f6-a0b7-5c5926ddd559",
+    "name": "Urban Folk Art",
+    "latitude": 40.6882642,
+    "longitude": -73.9892243,
+    "icon": "default"
+  },
+  {
+    "id": "8c6dc7e1-2af9-4fbe-b52f-ce482a1b7b10",
+    "name": "Autonomedia",
+    "latitude": 40.7077721,
+    "longitude": -73.966749,
+    "icon": "default"
+  },
+  {
+    "id": "2f28c3ba-5959-42cf-ab28-c9333543aeb6",
+    "name": "Saint Vitus Bar",
+    "latitude": 40.7367758,
+    "longitude": -73.9551337,
+    "icon": "default"
+  },
+  {
+    "id": "d8f88c8b-dea9-458c-a4df-b2137da21582",
+    "name": "Flavor Paper",
+    "latitude": 40.6887464,
+    "longitude": -73.9920688,
+    "icon": "default"
+  },
+  {
+    "id": "9aa563b4-4320-40ea-b049-cdff92a1dc16",
+    "name": "Gowanus Souvenir Shop",
+    "latitude": 40.6789851,
+    "longitude": -73.9866028,
+    "icon": "default"
+  },
+  {
+    "id": "98c03b08-14e7-4243-8a4e-e5c05a53a4da",
+    "name": "keur djembe African Drums Shop",
+    "latitude": 40.6781264,
+    "longitude": -73.9852363,
+    "icon": "default"
+  },
+  {
+    "id": "2d8539f7-23a3-421d-8fff-acf282e1542a",
+    "name": "Jalopy Theatre and School of Music",
+    "latitude": 40.6813194,
+    "longitude": -74.0042257,
+    "icon": "default"
+  },
+  {
+    "id": "b921adad-e421-4642-9feb-e4c03c54f203",
+    "name": "Sistas' Place",
+    "latitude": 40.6833508,
+    "longitude": -73.9503228,
+    "icon": "default"
+  },
+  {
+    "id": "e6329665-7295-4011-90bb-f5ede17b3ea0",
+    "name": "Arlington Place",
+    "latitude": 40.6809175,
+    "longitude": -73.9511572,
+    "icon": "default"
+  },
+  {
+    "id": "fef76b44-01d4-4c93-9226-e6eef5a369fc",
+    "name": "Five Myles",
+    "latitude": 40.672629,
+    "longitude": -73.959636,
+    "icon": "default"
+  },
+  {
+    "id": "71eb6be0-7f0c-4ad5-a24a-7351630a9f31",
+    "name": "The Betzalel Gallery & Picture Framing",
+    "latitude": 40.664259,
+    "longitude": -73.9434144,
+    "icon": "default"
+  },
+  {
+    "id": "d1dbcf91-5870-4d0a-b0a2-e752ea49d995",
+    "name": "Micro Museum",
+    "latitude": 40.687607,
+    "longitude": -73.9897317,
+    "icon": "default"
+  },
+  {
+    "id": "2c8ac916-f289-4f3f-9a34-7cddc08c6045",
+    "name": "108 Wyckoff St",
+    "latitude": 40.6854419,
+    "longitude": -73.9896727,
+    "icon": "default"
+  },
+  {
+    "id": "eabc6e2b-66a6-477d-bdcd-33cae858b5db",
+    "name": "The Boiler | Pierogi",
+    "latitude": 40.7229231,
+    "longitude": -73.955229,
+    "icon": "default"
+  },
+  {
+    "id": "7b3e2294-3fe1-4658-bb06-cd48c297c416",
+    "name": "WNYC Transmitter Park",
+    "latitude": 40.7298447,
+    "longitude": -73.9607685,
+    "icon": "default"
+  },
+  {
+    "id": "2e84f817-4455-4c5d-8c8b-df8acae3e14d",
+    "name": "Newtown Creek Wastewater Treatment Plant",
+    "latitude": 40.7315714,
+    "longitude": -73.9469037,
+    "icon": "default"
+  },
+  {
+    "id": "35b5154b-8d02-4ab4-9a86-6993c16c2c62",
+    "name": "Newtown Creek Nature Walk",
+    "latitude": 40.736267,
+    "longitude": -73.948846,
+    "icon": "default"
+  },
+  {
+    "id": "dbe01fed-a8e7-4654-8e92-e600fb464670",
+    "name": "Light Industry",
+    "latitude": 40.734637,
+    "longitude": -73.955648,
+    "icon": "default"
+  },
+  {
+    "id": "70028c6d-4e00-4903-9511-a14e2402b678",
+    "name": "The Thing",
+    "latitude": 40.733263,
+    "longitude": -73.9550435,
+    "icon": "default"
+  },
+  {
+    "id": "7e536407-590e-4eec-8557-f0b240f00db4",
+    "name": "Green Farms Super Market",
+    "latitude": 40.7307422,
+    "longitude": -73.9542059,
+    "icon": "default"
+  },
+  {
+    "id": "b4d3e228-2532-4169-a077-84e3ea4863e7",
+    "name": "Sunshine Laundromat",
+    "latitude": 40.7293483,
+    "longitude": -73.9535391,
+    "icon": "default"
+  },
+  {
+    "id": "e8b5e47c-e3c5-40bc-9748-fe02db0bb6bd",
+    "name": "The Bushwick Collective",
+    "latitude": 40.7076388,
+    "longitude": -73.9218185,
+    "icon": "default"
+  },
+  {
+    "id": "611a4d1c-80f2-415a-ab3e-5fdac0458c3f",
+    "name": "Green Village Used Clothing",
+    "latitude": 40.706795,
+    "longitude": -73.9212834,
+    "icon": "default"
+  },
+  {
+    "id": "c6e45a95-aa18-4349-913d-6ea84c6cb933",
+    "name": "House of Yes",
+    "latitude": 40.7068169,
+    "longitude": -73.9236004,
+    "icon": "default"
+  },
+  {
+    "id": "7bc3524b-7dff-47af-8376-d2fb864bfd3f",
+    "name": "Human Relations",
+    "latitude": 40.7045416,
+    "longitude": -73.92967,
+    "icon": "default"
+  },
+  {
+    "id": "48c219bb-aa42-43ec-9977-2a32bcf1bf52",
+    "name": "The Paper Box",
+    "latitude": 40.710973,
+    "longitude": -73.9363036,
+    "icon": "default"
+  },
+  {
+    "id": "54bcb552-20dc-4f5a-b6ab-fd6f8be7e458",
+    "name": "Moore Street Market",
+    "latitude": 40.7038146,
+    "longitude": -73.9410897,
+    "icon": "default"
+  },
+  {
+    "id": "8d471fae-831c-4e91-a54a-f0e495a3e8e9",
+    "name": "Bushwick Inlet Park",
+    "latitude": 40.7223295,
+    "longitude": -73.9613074,
+    "icon": "default"
+  },
+  {
+    "id": "78aa381b-06d6-4e28-8f8c-c9f2dd7ffa37",
+    "name": "State of New York- East River State Park",
+    "latitude": 40.7214081,
+    "longitude": -73.9620691,
+    "icon": "default"
+  },
+  {
+    "id": "e4343ff8-22f8-4969-87b3-3f4b75f9c72b",
+    "name": "Grand Ferry Park",
+    "latitude": 40.716365,
+    "longitude": -73.966639,
+    "icon": "default"
+  },
+  {
+    "id": "24e98edf-a6dd-4dab-8f7e-000ee577da93",
+    "name": "indieScreen",
+    "latitude": 40.7149544,
+    "longitude": -73.966198,
+    "icon": "default"
+  },
+  {
+    "id": "d502087c-b284-41c4-b544-78959e0983bb",
+    "name": "Whisk",
+    "latitude": 40.7159891,
+    "longitude": -73.9594278,
+    "icon": "default"
+  },
+  {
+    "id": "babf6775-e485-4f62-8d36-21b05215060a",
+    "name": "Brooklyn Reclamation",
+    "latitude": 40.7143193,
+    "longitude": -73.9594944,
+    "icon": "default"
+  },
+  {
+    "id": "4eb7b32b-8c80-4c07-9c17-ff490d6d3666",
+    "name": "Book Thug Nation",
+    "latitude": 40.7165843,
+    "longitude": -73.9619363,
+    "icon": "default"
+  },
+  {
+    "id": "5d438cd8-e5eb-4582-bf4c-a4b2669360bf",
+    "name": "Brooklyn Art Library",
+    "latitude": 40.717305,
+    "longitude": -73.9510093,
+    "icon": "default"
+  },
+  {
+    "id": "8f77c687-41c3-478b-89b8-db768822494e",
+    "name": "The City Reliquary Museum",
+    "latitude": 40.713963,
+    "longitude": -73.955746,
+    "icon": "default"
+  },
+  {
+    "id": "f290b853-fda9-4fde-966e-0e347926e0d0",
+    "name": "The Arm Letterpress",
+    "latitude": 40.715273,
+    "longitude": -73.953158,
+    "icon": "default"
+  },
+  {
+    "id": "12d07236-f791-4933-8cae-f2ed800e043b",
+    "name": "Museum of Food and Drink (MOFAD) Lab",
+    "latitude": 40.718844,
+    "longitude": -73.9495801,
+    "icon": "default"
+  },
+  {
+    "id": "bae80b76-3c57-4f0b-9f9c-518ebf009623",
+    "name": "Spectacle",
+    "latitude": 40.7125413,
+    "longitude": -73.9628444,
+    "icon": "default"
+  },
+  {
+    "id": "42ffc470-235b-4de8-bcff-15f9b5d7d291",
+    "name": "The Living Gallery",
+    "latitude": 40.6941285,
+    "longitude": -73.9306532,
+    "icon": "default"
+  },
+  {
+    "id": "c1c1edc4-a781-4c9e-8eba-d280fe6b47af",
+    "name": "Do The Right Thing Way",
+    "latitude": 40.6893275,
+    "longitude": -73.933321,
+    "icon": "default"
+  },
+  {
+    "id": "1fff7bd7-e649-407a-810d-3e0410e1eab4",
+    "name": "Molasses Books",
+    "latitude": 40.7006193,
+    "longitude": -73.9237572,
+    "icon": "default"
+  },
+  {
+    "id": "605442bf-0630-44b2-a702-10c80b332521",
+    "name": "Silent Barn",
+    "latitude": 40.69863,
+    "longitude": -73.934307,
+    "icon": "default"
+  },
+  {
+    "id": "33ad5e2d-40bc-4722-8299-9175e3961dda",
+    "name": "Woodhull Medical Center",
+    "latitude": 40.7008259,
+    "longitude": -73.9424803,
+    "icon": "default"
+  },
+  {
+    "id": "52697b7f-48d3-4b41-90b1-0ef2a9107d84",
+    "name": "Brooklyn Table Tennis Club",
+    "latitude": 40.6306627,
+    "longitude": -73.9665767,
+    "icon": "default"
+  },
+  {
+    "id": "34a488d2-1d45-483e-9a58-a196d168a192",
+    "name": "Brooklyn College",
+    "latitude": 40.6314406,
+    "longitude": -73.9544488,
+    "icon": "default"
+  },
+  {
+    "id": "1293d58e-13be-427a-ac1e-9725ecf6dbaa",
+    "name": "Living Torah Museum",
+    "latitude": 40.635547,
+    "longitude": -73.9805466,
+    "icon": "default"
+  },
+  {
+    "id": "6ce60b90-56b8-4b25-a724-cbb2d458732c",
+    "name": "Brancaccio's Food Shop",
+    "latitude": 40.6485601,
+    "longitude": -73.978833,
+    "icon": "default"
+  },
+  {
+    "id": "0f18b7a4-4f1a-43bb-95bd-8c1d0eea68bf",
+    "name": "Buzz-A-Rama",
+    "latitude": 40.6424018,
+    "longitude": -73.9807003,
+    "icon": "default"
+  },
+  {
+    "id": "b1f7228e-e3e3-4fd5-9e4a-95478722a985",
+    "name": "Brooklyn ARTery",
+    "latitude": 40.6395941,
+    "longitude": -73.9684007,
+    "icon": "default"
+  },
+  {
+    "id": "b440b8c8-5655-49ac-bc5c-d828be9416d2",
+    "name": "Sacred Vibes Apothecary",
+    "latitude": 40.6400252,
+    "longitude": -73.9662255,
+    "icon": "default"
+  },
+  {
+    "id": "35ee94dd-e9c4-4e5b-8d63-23dc7f5c500a",
+    "name": "Erasmus Hall High School",
+    "latitude": 40.6495813,
+    "longitude": -73.9581967,
+    "icon": "default"
+  },
+  {
+    "id": "7aed5cf9-f6c3-4d76-a981-d87a7b051b73",
+    "name": "Albemarle Terrace",
+    "latitude": 40.6485612,
+    "longitude": -73.959662,
+    "icon": "default"
+  },
+  {
+    "id": "586467da-82d1-4612-bae7-d0a3c0ec1348",
+    "name": "Kenmore Terrace",
+    "latitude": 40.6491736,
+    "longitude": -73.9594277,
+    "icon": "default"
+  },
+  {
+    "id": "dc38d41a-adf0-4c79-8f6d-4a6e8f6ddd85",
+    "name": "Harbor Defense Museum",
+    "latitude": 40.609084,
+    "longitude": -74.032499,
+    "icon": "default"
+  },
+  {
+    "id": "b0c60db0-6d3e-4192-abd1-5fcaba248f8f",
+    "name": "Narrows Botanical Gardens",
+    "latitude": 40.6372374,
+    "longitude": -74.0367631,
+    "icon": "default"
+  },
+  {
+    "id": "839c5bce-471b-4515-b900-63e4c5fa8d85",
+    "name": "Owl's Head Park",
+    "latitude": 40.6401377,
+    "longitude": -74.0322522,
+    "icon": "default"
+  },
+  {
+    "id": "2e504188-db86-4269-90d4-ce1bad6599d8",
+    "name": "American Veterans Memorial Pier",
+    "latitude": 40.6393213,
+    "longitude": -74.0376877,
+    "icon": "default"
+  },
+  {
+    "id": "a049e403-033c-4f25-8bcc-7ae33e298780",
+    "name": "Weeksville Heritage Center",
+    "latitude": 40.6739761,
+    "longitude": -73.9253119,
+    "icon": "default"
+  },
+  {
+    "id": "f9fb90fd-b99e-4137-9d16-3c68ffaf335a",
+    "name": "Dead Horse Bay",
+    "latitude": 40.584376,
+    "longitude": -73.8999741,
+    "icon": "default"
+  },
+  {
+    "id": "fb433954-8236-4b32-8e79-c548ca296b4b",
+    "name": "CB I Hate Perfume - Olfactory Art Gallery",
+    "latitude": 40.712045,
+    "longitude": -73.936328,
+    "icon": "default"
+  },
+  {
+    "id": "b12ee57b-f1b7-467f-9eb8-2860888719b7",
+    "name": "Big Sky Works",
+    "latitude": 40.7230252,
+    "longitude": -73.9562924,
+    "icon": "default"
+  },
+  {
+    "id": "1a1964bb-6afe-42a7-ba31-ff52254a5ae5",
+    "name": "NURTUREart Non-Profit Inc",
+    "latitude": 40.7058963,
+    "longitude": -73.9332806,
+    "icon": "default"
+  },
+  {
+    "id": "e14f3be6-5a39-4726-bc06-c48fcccbe888",
+    "name": "Vandervoort Place",
+    "latitude": 40.704465,
+    "longitude": -73.9304578,
+    "icon": "default"
+  },
+  {
+    "id": "9a9b0a0a-6b8a-4987-9f7d-535db1e8f4c4",
+    "name": "Angel's Fruit Market",
+    "latitude": 40.702043,
+    "longitude": -73.9245569,
+    "icon": "default"
+  },
+  {
+    "id": "c7b15525-d64e-40f2-b3f9-0e47ef0323bd",
+    "name": "Norte Maar",
+    "latitude": 40.684419,
+    "longitude": -73.873741,
+    "icon": "default"
+  },
+  {
+    "id": "b853d546-abfd-4795-9eb2-05d3612f2401",
+    "name": "Luhring Augustine Gallery",
+    "latitude": 40.707305,
+    "longitude": -73.931251,
+    "icon": "default"
+  },
+  {
+    "id": "2b82be3e-7dde-4d3e-8820-a6a70def1406",
+    "name": "56 Bogart St",
+    "latitude": 40.7057243,
+    "longitude": -73.9331652,
+    "icon": "default"
+  },
+  {
+    "id": "5a8c3309-6bd0-409c-b837-195eea496a64",
+    "name": "The Bushwick Starr",
+    "latitude": 40.705089,
+    "longitude": -73.9234806,
+    "icon": "default"
+  },
+  {
+    "id": "3809f283-5b83-4968-bf11-ecedb6c5ab55",
+    "name": "Low Brow Artique",
+    "latitude": 40.6996921,
+    "longitude": -73.927463,
+    "icon": "default"
+  },
+  {
+    "id": "e3bd85e4-e282-4ee8-97ca-8cbe306c30f6",
+    "name": "Museum of Contemporary African Diasporan Arts",
+    "latitude": 40.6851993,
+    "longitude": -73.974308,
+    "icon": "default"
+  },
+  {
+    "id": "ddfd6765-2bd5-42fd-b846-631c8261871f",
+    "name": "Lafayette Avenue Presbyterian Church",
+    "latitude": 40.6870381,
+    "longitude": -73.9732706,
+    "icon": "default"
+  },
+  {
+    "id": "635cf1b5-7020-4897-a017-76f31ed0e766",
+    "name": "Irondale Center",
+    "latitude": 40.6870381,
+    "longitude": -73.9732706,
+    "icon": "default"
+  },
+  {
+    "id": "0ceda4fb-5f7e-41d5-bdc6-5c69e04b8dba",
+    "name": "BRIC",
+    "latitude": 40.6886419,
+    "longitude": -73.9791298,
+    "icon": "default"
+  },
+  {
+    "id": "c40e0eea-e576-4d9a-9f7c-735342707dca",
+    "name": "Brown Memorial Baptist Church",
+    "latitude": 40.684223,
+    "longitude": -73.965559,
+    "icon": "default"
+  },
+  {
+    "id": "8c9800d1-9539-488f-8b8b-ca0906546609",
+    "name": "Brooklyn Army Terminal",
+    "latitude": 40.6441587,
+    "longitude": -74.0249671,
+    "icon": "default"
+  },
+  {
+    "id": "2fcd27eb-acb8-4033-95a5-beabf86fe8a8",
+    "name": "The Wyckoff House Museum",
+    "latitude": 40.6443368,
+    "longitude": -73.9207731,
+    "icon": "default"
+  },
+  {
+    "id": "c29ca6ca-c9a1-45a5-97e8-6f0c06694e6c",
+    "name": "Salt Marsh Nature Center",
+    "latitude": 40.6040464,
+    "longitude": -73.9306319,
+    "icon": "default"
+  },
+  {
+    "id": "a577c4be-1fb1-40df-8ae6-b24af7ee81e8",
+    "name": "7901 Ridge Blvd",
+    "latitude": 40.628993,
+    "longitude": -74.0314,
+    "icon": "default"
+  },
+  {
+    "id": "988e1d22-236b-4ff7-9d8a-9eb71db8a0cc",
+    "name": "The Coney Island Museum",
+    "latitude": 40.5753293,
+    "longitude": -73.979783,
+    "icon": "default"
+  },
+  {
+    "id": "9dba13d1-9780-4b57-bfff-fdd7f23ba0af",
+    "name": "Sideshows by the Seashore",
+    "latitude": 40.5752703,
+    "longitude": -73.9797856,
+    "icon": "default"
+  },
+  {
+    "id": "e237d58a-618c-492f-ad7d-470bcfb7529a",
+    "name": "Hendrick I. Lott House",
+    "latitude": 40.6103011,
+    "longitude": -73.9325837,
+    "icon": "default"
+  },
+  {
+    "id": "9fb30352-1b2c-417d-aae8-828503d823bb",
+    "name": "Waterfront Museum",
+    "latitude": 40.675219,
+    "longitude": -74.0183687,
+    "icon": "default"
+  },
+  {
+    "id": "0a2e791c-303d-4443-a0f4-5f43dfa1b1b9",
+    "name": "Carroll Street Bridge",
+    "latitude": 40.6781878,
+    "longitude": -73.989156,
+    "icon": "default"
+  },
+  {
+    "id": "38da1c4d-8d4b-4d72-bca6-81812f167b3b",
+    "name": "Gridspace",
+    "latitude": 40.67288,
+    "longitude": -73.9532399,
+    "icon": "default"
+  },
+  {
+    "id": "0b2ae69b-1fc4-4336-8b03-8f036921407a",
+    "name": "St. Ann's Warehouse",
+    "latitude": 40.703789,
+    "longitude": -73.9928,
+    "icon": "default"
+  },
+  {
+    "id": "a29637c9-3ab2-44d8-907e-0327bf8c9205",
+    "name": "Lefferts Historic House",
+    "latitude": 40.6643449,
+    "longitude": -73.9637644,
+    "icon": "default"
+  },
+  {
+    "id": "96944459-cac2-4d1f-969c-01699594136a",
+    "name": "Old Stone House & Washington Park",
+    "latitude": 40.6729885,
+    "longitude": -73.9846023,
+    "icon": "default"
+  },
+  {
+    "id": "e97e02f9-fc4d-4553-beac-d7facb46e10c",
+    "name": "Brick Theatre",
+    "latitude": 40.714288,
+    "longitude": -73.9497617,
+    "icon": "default"
+  },
+  {
+    "id": "f210ad28-66ad-4ccc-bf9d-0ca6df56ab08",
+    "name": "Melody Lanes Bowling Center",
+    "latitude": 40.652779,
+    "longitude": -74.002944,
+    "icon": "default"
+  },
+  {
+    "id": "5019f9d5-5d72-40fb-848b-fc83d4391d1a",
+    "name": "The Billie Holiday Theatre",
+    "latitude": 40.6799694,
+    "longitude": -73.9456848,
+    "icon": "default"
+  },
+  {
+    "id": "0e9740ee-813e-497f-8d9f-3828c4a710fe",
+    "name": "The Invisible Dog Art Center",
+    "latitude": 40.687245,
+    "longitude": -73.9911963,
+    "icon": "default"
+  },
+  {
+    "id": "9ae35afe-c58f-4dc0-9aff-bbf09224c4e9",
+    "name": "ISSUE Project Room",
+    "latitude": 40.6908467,
+    "longitude": -73.9897215,
+    "icon": "default"
+  },
+  {
+    "id": "e45a58ec-f819-438f-a392-215df0864870",
+    "name": "Bargemusic",
+    "latitude": 40.7031305,
+    "longitude": -73.9952668,
+    "icon": "default"
+  },
+  {
+    "id": "08cf0d0d-c837-4a86-8abe-dad1d22d4f7d",
+    "name": "Brooklyn Historical Society",
+    "latitude": 40.6947959,
+    "longitude": -73.9924082,
+    "icon": "default"
+  },
+  {
+    "id": "01fbabe9-ebbd-480a-a78f-a5aacfe41878",
+    "name": "Grace Court Alley",
+    "latitude": 40.6940583,
+    "longitude": -73.9964117,
+    "icon": "default"
+  },
+  {
+    "id": "f433b71a-65c2-475f-aeb8-21857d82f005",
+    "name": "Warsaw",
+    "latitude": 40.7224421,
+    "longitude": -73.9485191,
+    "icon": "default"
+  },
+  {
+    "id": "8795059d-ac07-48b4-bc3c-faafaa54fa57",
+    "name": "The Brooklyn Kitchen",
+    "latitude": 40.717634,
+    "longitude": -73.947659,
+    "icon": "default"
+  },
+  {
+    "id": "ba52bd66-a435-46a7-bc72-db157e84ed98",
+    "name": "Acme Smoked Fish Corporation",
+    "latitude": 40.7254473,
+    "longitude": -73.956479,
+    "icon": "default"
+  },
+  {
+    "id": "ea16733c-8e0b-4ffc-a36d-22b0d0a8e8f3",
+    "name": "Coral & Tusk",
+    "latitude": 40.6562028,
+    "longitude": -74.0073766,
+    "icon": "default"
+  },
+  {
+    "id": "a5df9442-dc6b-45e2-95a4-55c5ceec5982",
+    "name": "Brighton Bazaar",
+    "latitude": 40.5782174,
+    "longitude": -73.9592266,
+    "icon": "default"
+  },
+  {
+    "id": "b7053931-4f3a-4491-8615-7965d226146a",
+    "name": "MARY A. WHALEN",
+    "latitude": 40.6804785,
+    "longitude": -74.0124708,
+    "icon": "default"
+  },
+  {
+    "id": "06b00a2a-f48f-43fc-9115-18c59e4361d6",
+    "name": "National Sawdust",
+    "latitude": 40.7189016,
+    "longitude": -73.9613395,
+    "icon": "default"
+  },
+  {
+    "id": "493b776a-34e9-4632-a8d6-0e83f46e9e00",
+    "name": "Gotham Archery",
+    "latitude": 40.6824532,
+    "longitude": -73.986126,
+    "icon": "default"
+  },
+  {
+    "id": "14d0537d-e352-4380-8857-98f13c61d37e",
+    "name": "Williamsburg Art & Historical Center",
+    "latitude": 40.7105986,
+    "longitude": -73.9635467,
+    "icon": "default"
+  },
+  {
+    "id": "dfefd2ff-27e3-41f3-af8c-dbcc2396d62e",
+    "name": "Interference Archive",
+    "latitude": 40.670388,
+    "longitude": -73.985844,
+    "icon": "default"
+  },
+  {
+    "id": "9582c3d5-df32-43b5-b370-19a7730daf5e",
+    "name": "Books Are Magic",
+    "latitude": 40.6839938,
+    "longitude": -73.9920653,
+    "icon": "default"
+  },
+  {
+    "id": "45650bd1-12b9-45c5-a891-f14c99ab0f20",
+    "name": "Former site of Ebbets Field",
+    "latitude": 40.6645909,
+    "longitude": -73.9577832,
+    "icon": "default"
+  },
+  {
+    "id": "ceb884b3-247e-4807-b990-49bc06c27140",
+    "name": "Lite Brite Neon Studio LLC",
+    "latitude": 40.6746019,
+    "longitude": -73.9880992,
+    "icon": "default"
+  },
+  {
+    "id": "01b2c7d7-40aa-43d8-8d66-0a6aaec26dd7",
+    "name": "House of Wax",
+    "latitude": 40.6908759,
+    "longitude": -73.9828655,
+    "icon": "default"
+  },
+  {
+    "id": "5b33203f-9ee4-4f56-923b-86d3a8236d91",
+    "name": "The THNK1994 Museum",
+    "latitude": 40.6779777,
+    "longitude": -73.9445838,
+    "icon": "default"
+  },
+  {
+    "id": "1d681e7d-9015-4465-a928-c9865e4aa50b",
+    "name": "Sebago Canoe Club Inc",
+    "latitude": 40.6271391,
+    "longitude": -73.9040646,
+    "icon": "default"
+  },
+  {
+    "id": "8dc45b70-a3c7-40bd-9e14-da198e9b2336",
+    "name": "American Veterans Memorial Pier",
+    "latitude": 40.6393213,
+    "longitude": -74.0376877,
+    "icon": "default"
+  },
+  {
+    "id": "85fbb9c1-df1b-4671-8d24-57dd3cc0da30",
+    "name": "Louis Valentino, Jr. Park and Pier",
+    "latitude": 40.6784075,
+    "longitude": -74.0181413,
+    "icon": "default"
+  },
+  {
+    "id": "b50851ea-5201-4027-84ee-b38a5c4532ad",
+    "name": "Brooklyn Glass",
+    "latitude": 40.6691314,
+    "longitude": -73.9939402,
+    "icon": "default"
+  },
+  {
+    "id": "bdc23a7f-b1d9-4e0d-abf8-36963d862f53",
+    "name": "Saint Nicholas Antiochian Orthodox Cathedral",
+    "latitude": 40.6878252,
+    "longitude": -73.9847697,
+    "icon": "default"
+  },
+  {
+    "id": "28f82437-a30b-45e4-9656-acbd3063e0f5",
+    "name": "The City Foundry",
+    "latitude": 40.6572748,
+    "longitude": -74.0075161,
+    "icon": "default"
+  },
+  {
+    "id": "644ac392-1be3-4039-8a5c-d0e31cc99a04",
+    "name": "A/D/O",
+    "latitude": 40.7246841,
+    "longitude": -73.9548224,
+    "icon": "default"
+  },
+  {
+    "id": "0d44ac4a-5b6a-461c-95a8-b600f4e5a9fa",
+    "name": "Church of St. Luke & St. Matthew",
+    "latitude": 40.682702,
+    "longitude": -73.9672458,
+    "icon": "default"
+  },
+  {
+    "id": "81cffd87-1ae7-4489-8088-1bb600003bf9",
+    "name": "Church of the Annunciation",
+    "latitude": 40.714349,
+    "longitude": -73.9547487,
+    "icon": "default"
+  },
+  {
+    "id": "2dd5d355-bc35-4a1e-b770-f7029324a538",
+    "name": "The Evergreens Cemetery",
+    "latitude": 40.68389,
+    "longitude": -73.9011979,
+    "icon": "default"
+  },
+  {
+    "id": "6ea5c98d-531d-48ea-bd1b-417d67f08631",
+    "name": "Five Boroughs Brewing Co.",
+    "latitude": 40.650597,
+    "longitude": -74.014486,
+    "icon": "default"
+  },
+  {
+    "id": "fa07d381-69bc-405a-b75b-a724522aba30",
+    "name": "Kings County Distillery",
+    "latitude": 40.6995644,
+    "longitude": -73.9801965,
+    "icon": "default"
+  },
+  {
+    "id": "00805edb-1632-4f9a-ab99-7034cf45406a",
+    "name": "Kingsland Wildflowers Green Roof & Community Engagement Center",
+    "latitude": 40.7345393,
+    "longitude": -73.9432776,
+    "icon": "default"
+  },
+  {
+    "id": "9d0bb032-65f6-4e50-9695-ca637ef40a7a",
+    "name": "Urban Post-Disaster Housing Prototype",
+    "latitude": 40.6996055,
+    "longitude": -73.9895276,
+    "icon": "default"
+  },
+  {
+    "id": "5d3bcab4-7dc7-4288-8d28-cf33e00d85f0",
+    "name": "Fool's Gold Records",
+    "latitude": 40.7149298,
+    "longitude": -73.9619704,
+    "icon": "default"
+  },
+  {
+    "id": "b4f95cbb-fb7e-49d3-b587-d43de6e5c7f3",
+    "name": "Jane Bailey Memorial Garden",
+    "latitude": 40.6877751,
+    "longitude": -73.9582771,
+    "icon": "default"
+  },
+  {
+    "id": "b1f77a13-da7f-4f29-ae5b-f45d92755bf1",
+    "name": "Co-Cathedral of St. Joseph",
+    "latitude": 40.6806183,
+    "longitude": -73.966431,
+    "icon": "default"
+  },
+  {
+    "id": "756c4eda-9133-42fe-ae09-458775d3b61f",
+    "name": "Cloud City",
+    "latitude": 40.716174,
+    "longitude": -73.9633205,
+    "icon": "default"
+  },
+  {
+    "id": "12d08468-19ff-43e4-8062-931dad19c531",
+    "name": "Secret Project Robot",
+    "latitude": 40.6923023,
+    "longitude": -73.9274769,
+    "icon": "default"
+  },
+  {
+    "id": "aa0758a1-10a6-4990-8d0e-68b73230848f",
+    "name": "The Gowanus Ballroom",
+    "latitude": 40.6740825,
+    "longitude": -73.9960189,
+    "icon": "default"
+  },
+  {
+    "id": "26ad1335-2f79-4ea6-a716-004615f0d925",
+    "name": "Etsy",
+    "latitude": 40.7005824,
+    "longitude": -73.9881456,
+    "icon": "default"
+  },
+  {
+    "id": "33e1563a-a72e-4bb9-9ffe-b504fc5bda63",
+    "name": "Cadman Plaza Park",
+    "latitude": 40.6984759,
+    "longitude": -73.9904687,
+    "icon": "default"
+  },
+  {
+    "id": "7309e74e-fbef-46cd-995f-c603b317518f",
+    "name": "679 Lafayette Ave",
+    "latitude": 40.6905805,
+    "longitude": -73.9468209,
+    "icon": "default"
+  },
+  {
+    "id": "1c9379be-47ab-4dd5-a4d8-c7c2822c072c",
+    "name": "Our Lady of Lebanon Maronite Catholic Cathedral",
+    "latitude": 40.6942202,
+    "longitude": -73.9941115,
+    "icon": "default"
+  },
+  {
+    "id": "2bf493f1-5823-4419-96bd-82c981c9d78e",
+    "name": "Rooftop Reds",
+    "latitude": 40.6984774,
+    "longitude": -73.977732,
+    "icon": "default"
+  },
+  {
+    "id": "b3a6df0d-91f1-497c-abaa-1282f53c46db",
+    "name": "Brooklyn Visitation Monastery",
+    "latitude": 40.6219355,
+    "longitude": -74.0346561,
+    "icon": "default"
+  },
+  {
+    "id": "b42c466a-b564-4d51-82a2-b5fd0a91c625",
+    "name": "The Barkaloo Cemetery",
+    "latitude": 40.6368074,
+    "longitude": -74.0345172,
+    "icon": "default"
+  },
+  {
+    "id": "998a84c7-0a9f-48da-9519-57ff9ee589ba",
+    "name": "Prospect Park - Ravine",
+    "latitude": 40.6638721,
+    "longitude": -73.968746,
+    "icon": "default"
+  },
+  {
+    "id": "35bbf53e-3e82-4807-9061-58b3a405623f",
+    "name": "Lookout Hill",
+    "latitude": 40.6577778,
+    "longitude": -73.9719444,
+    "icon": "default"
+  },
+  {
+    "id": "ee839c3f-99db-430a-ab05-8f67c413f41e",
+    "name": "New York Transit Museum",
+    "latitude": 40.6905275,
+    "longitude": -73.9898178,
+    "icon": "default"
+  },
+  {
+    "id": "4ae0a556-9622-4599-b95c-940a4c771127",
+    "name": "372 Fulton St",
+    "latitude": 40.691317,
+    "longitude": -73.987861,
+    "icon": "default"
+  },
+  {
+    "id": "b187ac81-890e-4392-a952-5e877b918a63",
+    "name": "Prospect Park Boathouse + Audubon Center",
+    "latitude": 40.6608215,
+    "longitude": -73.9652444,
+    "icon": "default"
+  },
+  {
+    "id": "1c90b94d-c987-47d3-8625-fbeb143f055a",
+    "name": "Pacifier Tree",
+    "latitude": 40.6334879,
+    "longitude": -73.9882162,
+    "icon": "default"
+  },
+  {
+    "id": "5325e9f4-b614-4df2-bba5-fe8871c314aa",
+    "name": "Gleason's Gym",
+    "latitude": 40.7029749,
+    "longitude": -73.9889864,
+    "icon": "default"
+  },
+  {
+    "id": "1cefa1af-f6fa-4051-bcd7-be09cba61965",
+    "name": "Quaker Cemetery",
+    "latitude": 40.6593127,
+    "longitude": -73.9726639,
+    "icon": "default"
+  },
+  {
+    "id": "4d25f940-114f-4543-b030-732a7a181d89",
+    "name": "TRAINWORLD",
+    "latitude": 40.6359665,
+    "longitude": -73.9778183,
+    "icon": "default"
+  },
+  {
+    "id": "aedfd83e-f3b9-4df5-8711-8b0ea9d32b8f",
+    "name": "Grand Prospect Hall",
+    "latitude": 40.6638097,
+    "longitude": -73.9895988,
+    "icon": "default"
+  },
+  {
+    "id": "dbf2261f-4997-45a7-9c4d-26dafbd95c30",
+    "name": "International Studio & Curatorial Program",
+    "latitude": 40.714231,
+    "longitude": -73.9346977,
+    "icon": "default"
+  },
+  {
+    "id": "03495c65-f99e-461c-8826-577a93fe157d",
+    "name": "Erie Basin Park",
+    "latitude": 40.6711264,
+    "longitude": -74.012936,
+    "icon": "default"
+  },
+  {
+    "id": "1c9b1e52-e8d5-499e-9e48-9d5b3dfa490f",
+    "name": "Ample Hills Factory and Museum",
+    "latitude": 40.6748299,
+    "longitude": -74.0156844,
+    "icon": "default"
+  },
+  {
+    "id": "5e4e8643-7072-4118-97a0-7b1982c23924",
+    "name": "Mellow Pages Library",
+    "latitude": 40.6986516,
+    "longitude": -73.9342599,
+    "icon": "default"
+  },
+  {
+    "id": "032d51e6-7a66-4e11-8b90-41e4de845d8c",
+    "name": "Our Lady of Perpetual Help Church",
+    "latitude": 40.6396319,
+    "longitude": -74.0154736,
+    "icon": "default"
+  },
+  {
+    "id": "a2ab56bb-40ae-48dd-bcc7-c10f9a5e13ae",
+    "name": "Dennet Place",
+    "latitude": 40.6765256,
+    "longitude": -73.9975637,
+    "icon": "default"
+  },
+  {
+    "id": "185cd01b-cc6a-406e-9684-e9cb7b0974a9",
+    "name": "GBX Gowanus Bay Terminal",
+    "latitude": 40.6692899,
+    "longitude": -74.0076108,
+    "icon": "default"
+  },
+  {
+    "id": "ab95dca7-2d9c-4c6a-bab0-a6913e4b8274",
+    "name": "Amorphic Robot Works",
+    "latitude": 40.678311,
+    "longitude": -74.0105985,
+    "icon": "default"
+  },
+  {
+    "id": "62b2778c-e95f-434e-98ec-734c2fbd2321",
+    "name": "Warren Place",
+    "latitude": 40.6879362,
+    "longitude": -73.9984861,
+    "icon": "default"
+  },
+  {
+    "id": "63e06848-acc3-4f3f-984b-c0d0d92c121e",
+    "name": "Torah Animal World",
+    "latitude": 40.6354863,
+    "longitude": -73.9804474,
+    "icon": "default"
+  },
+  {
+    "id": "3a9b07d8-ce05-4786-87f3-a1d94b44f42d",
+    "name": "Wyckoff-Bennet Homestead",
+    "latitude": 40.6108391,
+    "longitude": -73.9513319,
+    "icon": "default"
+  },
+  {
+    "id": "5e78ee6e-8afd-4577-9562-c307f382eb05",
+    "name": "St. Ann & the Holy Trinity Church",
+    "latitude": 40.6945037,
+    "longitude": -73.9924631,
+    "icon": "default"
+  },
+  {
+    "id": "4af6eb31-dd26-497e-b19c-ec2e6b8efb59",
+    "name": "Commandant's House",
+    "latitude": 40.7023868,
+    "longitude": -73.980335,
+    "icon": "default"
+  },
+  {
+    "id": "e8b9134f-60ec-4667-8403-be0d7375f182",
+    "name": "500 25th St",
+    "latitude": 40.6580779,
+    "longitude": -73.9948493,
+    "icon": "default"
+  },
+  {
+    "id": "acf116e7-bf4c-4cec-899b-e1016e14c843",
+    "name": "Weir J Ebb & Co Inc",
+    "latitude": 40.659115,
+    "longitude": -73.996076,
+    "icon": "default"
+  },
+  {
+    "id": "486c1bb6-cc21-4d34-b705-25fb202b0480",
+    "name": "Minerva Statue",
+    "latitude": 40.6570104,
+    "longitude": -73.9897067,
+    "icon": "default"
+  },
+  {
+    "id": "17963be7-5d64-4bfd-bc72-c8261b6cc1d6",
+    "name": "Ridgewood Reservoir",
+    "latitude": 40.6889501,
+    "longitude": -73.8864839,
+    "icon": "default"
+  },
+  {
+    "id": "1f828add-17a0-45ae-9f7d-035369d601c9",
+    "name": "2840 Atlantic Ave",
+    "latitude": 40.676488,
+    "longitude": -73.888919,
+    "icon": "default"
+  },
+  {
+    "id": "a8f61145-eabe-4b12-82bc-e6d1100af731",
+    "name": "Floyd Bennett Field",
+    "latitude": 40.5910174,
+    "longitude": -73.8906091,
+    "icon": "default"
+  },
+  {
+    "id": "62155489-191d-4a70-bd08-cfad4938b3fe",
+    "name": "John Paul Jones Park",
+    "latitude": 40.6108083,
+    "longitude": -74.0340919,
+    "icon": "default"
+  },
+  {
+    "id": "df4aecc1-b5a4-44e4-8a98-1e7b8696f037",
+    "name": "Outside Space NYC Landscape and Garden Design",
+    "latitude": 40.693169,
+    "longitude": -73.961144,
+    "icon": "default"
+  },
+  {
+    "id": "7f4ccd5a-7d16-4a8c-a6bd-17f6573dfc7a",
+    "name": "FINE & RAW Chocolate",
+    "latitude": 40.705377,
+    "longitude": -73.933755,
+    "icon": "default"
+  },
+  {
+    "id": "81ef6741-54c8-40e3-8845-b72254b649a0",
+    "name": "Brooklyn Terminal Market Merchants Association",
+    "latitude": 40.6431954,
+    "longitude": -73.9153159,
+    "icon": "default"
+  },
+  {
+    "id": "860cdaad-a58e-451b-ad9a-405fed925ab4",
+    "name": "The Muse",
+    "latitude": 40.6914551,
+    "longitude": -73.9024229,
+    "icon": "default"
+  },
+  {
+    "id": "4c937898-0b0c-4726-9d67-0afd1e9720ef",
+    "name": "North Brooklyn Boat Club",
+    "latitude": 40.7384101,
+    "longitude": -73.9531242,
+    "icon": "default"
+  },
+  {
+    "id": "034dd3fd-b8ae-45ce-85c2-015da72243ad",
+    "name": "Pioneer Works",
+    "latitude": 40.6792081,
+    "longitude": -74.0121513,
+    "icon": "default"
+  },
+  {
+    "id": "ddfc629b-25c3-48d8-a298-ffc34bac0533",
+    "name": "Drummer's Grove",
+    "latitude": 40.6558582,
+    "longitude": -73.9625246,
+    "icon": "default"
+  },
+  {
+    "id": "636fc4d4-23a8-42fb-a5e8-29b92f1c7714",
+    "name": "The Center for Fiction",
+    "latitude": 40.6868022,
+    "longitude": -73.9785744,
+    "icon": "default"
+  },
+  {
+    "id": "fa923c97-f62d-4d3e-affa-5375a26b8af4",
+    "name": "High Valley Books",
+    "latitude": 40.7229747,
+    "longitude": -73.9511741,
+    "icon": "default"
+  },
+  {
+    "id": "8283ca9a-79ac-4415-9960-2e306910f26f",
+    "name": "Stuart Cinema & Cafe",
+    "latitude": 40.7292358,
+    "longitude": -73.9592967,
+    "icon": "default"
+  },
+  {
+    "id": "e389e88c-b29d-4722-ab0f-f78dc541c6f5",
+    "name": "Staubitz Market",
+    "latitude": 40.6864565,
+    "longitude": -73.9940737,
+    "icon": "default"
+  },
+  {
+    "id": "f5c98717-bd43-45c7-be2b-9144b79471da",
+    "name": "Metropolitan Rod & Gun Club",
+    "latitude": 40.68924,
+    "longitude": -73.994332,
+    "icon": "default"
+  },
+  {
+    "id": "3f366a31-758b-44b9-bb76-ec243b68c2c0",
+    "name": "Barb\u00e8s",
+    "latitude": 40.6677603,
+    "longitude": -73.9838642,
+    "icon": "default"
+  },
+  {
+    "id": "bdf74f54-42da-4e40-b488-47842bff92c1",
+    "name": "Niblo Mausoleum",
+    "latitude": 40.6491593,
+    "longitude": -73.9938053,
+    "icon": "default"
+  },
+  {
+    "id": "7c18db26-0a91-45cd-b2c4-cfbc2b26b4cc",
+    "name": "van ness mausoleum",
+    "latitude": 40.6580779,
+    "longitude": -73.9948493,
+    "icon": "default"
+  },
+  {
+    "id": "a96dea6c-2821-4400-ac96-fc05912c0762",
+    "name": "Grave of Charlotte Canda",
+    "latitude": 40.6553671,
+    "longitude": -73.9918226,
+    "icon": "default"
+  },
+  {
+    "id": "686bbb8d-e2ad-4348-afae-a06dc5ab767d",
+    "name": "Better Than Jam's STORE & STUDIO",
+    "latitude": 40.705467,
+    "longitude": -73.932367,
+    "icon": "default"
+  },
+  {
+    "id": "c0a8e2a3-e6bc-469a-88ca-e34bd32e7bcf",
+    "name": "Brooklyn Bridge Park Boathouse, Pier 2",
+    "latitude": 40.6998833,
+    "longitude": -73.9987987,
+    "icon": "default"
+  },
+  {
+    "id": "8ee612c1-cc8c-49e3-8866-9e365d1961c7",
+    "name": "Brooklyn Cyclones at MCU Park",
+    "latitude": 40.5748057,
+    "longitude": -73.9844943,
+    "icon": "default"
+  },
+  {
+    "id": "46288d33-98df-4f0c-b195-08b0585751c2",
+    "name": "Glass Bottle Beach",
+    "latitude": 40.5815181,
+    "longitude": -73.8961059,
+    "icon": "default"
+  },
+  {
+    "id": "dddf76bd-2d29-41aa-ac77-a3a5e724d9df",
+    "name": "She-Weld",
+    "latitude": 40.6741953,
+    "longitude": -74.011412,
+    "icon": "default"
+  },
+  {
+    "id": "fe7cd010-97b7-4469-b172-2b957f00ff75",
+    "name": "Bushwick Community Darkroom",
+    "latitude": 40.699218,
+    "longitude": -73.929546,
+    "icon": "default"
+  },
+  {
+    "id": "faa66f3c-e3c6-4208-a027-f2e7869feaed",
+    "name": "Brooklyn Film Camera",
+    "latitude": 40.707737,
+    "longitude": -73.9247634,
+    "icon": "default"
+  },
+  {
+    "id": "d46f09e5-0ee1-40b3-af78-b6776cff8e66",
+    "name": "Lullwater Bridge",
+    "latitude": 40.660643,
+    "longitude": -73.9658835,
+    "icon": "default"
+  },
+  {
+    "id": "f4591b7a-6833-428b-acb5-26ea5664a831",
+    "name": "Camperdown Elm",
+    "latitude": 40.6604439,
+    "longitude": -73.9650484,
+    "icon": "default"
+  },
+  {
+    "id": "b004116f-d18b-4637-be39-b095a7a080b2",
+    "name": "Brooklyn Plantology by Lapide",
+    "latitude": 40.643811,
+    "longitude": -73.915038,
+    "icon": "default"
+  },
+  {
+    "id": "e8a62822-d1ab-4b3e-b45a-f8d74dc757b1",
+    "name": "Textile Arts Center",
+    "latitude": 40.6768345,
+    "longitude": -73.985221,
+    "icon": "default"
+  },
+  {
+    "id": "260f40c5-c84a-499a-af81-0138f2b06d43",
+    "name": "Marine Park Cricket Field",
+    "latitude": 40.606658,
+    "longitude": -73.9357984,
+    "icon": "default"
+  },
+  {
+    "id": "f596fce2-e1aa-4cab-a4ff-23b52a67e45e",
+    "name": "Canarsie Park Cricket Ground 1",
+    "latitude": 40.6257282,
+    "longitude": -73.8993055,
+    "icon": "default"
+  },
+  {
+    "id": "6ce64b90-9a9d-4f7f-af7c-3646d70b8cba",
+    "name": "Crown Finish Caves",
+    "latitude": 40.6771821,
+    "longitude": -73.9566243,
+    "icon": "default"
+  },
+  {
+    "id": "30b424b8-6077-418b-956e-3ce87ec47f08",
+    "name": "Espo's Art World",
+    "latitude": 40.6824672,
+    "longitude": -73.9798588,
+    "icon": "default"
+  },
+  {
+    "id": "85bbb186-abca-4ec0-8bd2-b2c5721ab867",
+    "name": "Flatbush Reformed Church",
+    "latitude": 40.6501539,
+    "longitude": -73.9589433,
+    "icon": "default"
+  },
+  {
+    "id": "1c58689f-82ff-4b1c-82ca-f23f9b812410",
+    "name": "Kick Axe Throwing BROOKLYN",
+    "latitude": 40.6791092,
+    "longitude": -73.9836161,
+    "icon": "default"
+  },
+  {
+    "id": "32609cc5-6fed-4159-8a96-a575895e0d3f",
+    "name": "Lesbian Herstory Archives",
+    "latitude": 40.6618645,
+    "longitude": -73.9803428,
+    "icon": "default"
+  },
+  {
+    "id": "b84f1d5a-9ab2-458b-910d-64f1b057554d",
+    "name": "Coney Island History Project",
+    "latitude": 40.573839,
+    "longitude": -73.979541,
+    "icon": "default"
+  },
+  {
+    "id": "f48b91af-80e3-4bba-8cc5-755d488b0d2e",
+    "name": "Eastern Parkway Brooklyn Museum Station",
+    "latitude": 40.6719938,
+    "longitude": -73.9642065,
+    "icon": "default"
+  },
+  {
+    "id": "a529ffad-9582-4ca7-bb28-15825e8b39f9",
+    "name": "131 Buckingham Rd",
+    "latitude": 40.6473457,
+    "longitude": -73.9645954,
+    "icon": "default"
+  },
+  {
+    "id": "a0a74ed5-85f3-442d-934c-47ab9671d14d",
+    "name": "101 Rugby Rd",
+    "latitude": 40.6473788,
+    "longitude": -73.9662439,
+    "icon": "default"
+  },
+  {
+    "id": "219f117b-c4cf-4cb2-b11a-c80e071d4e51",
+    "name": "100 Rugby Rd",
+    "latitude": 40.6472798,
+    "longitude": -73.9667719,
+    "icon": "default"
+  },
+  {
+    "id": "bc3431b0-257c-4573-8e0f-3016ca4775e6",
+    "name": "1320 Ditmas Ave",
+    "latitude": 40.636427,
+    "longitude": -73.964653,
+    "icon": "default"
+  },
+  {
+    "id": "b0fe2199-c1b9-4ae7-961c-a8ac4c95d283",
+    "name": "Van Brunt Stillhouse",
+    "latitude": 40.6734904,
+    "longitude": -74.0100937,
+    "icon": "default"
+  },
+  {
+    "id": "bd17f49b-9eec-418a-b318-ca0b2553e7e6",
+    "name": "Miss Brooklyn & Miss Manhattan",
+    "latitude": 40.6961538,
+    "longitude": -73.9847737,
+    "icon": "default"
+  },
+  {
+    "id": "09824e35-6d82-44e9-bae7-f1f0f906b163",
+    "name": "Then She Fell",
+    "latitude": 40.7111031,
+    "longitude": -73.9429092,
+    "icon": "default"
+  },
+  {
+    "id": "dd35fba3-3a21-4306-9ec1-37cd3365cfcc",
+    "name": "Park Slope Plane Crash site",
+    "latitude": 40.6777249,
+    "longitude": -73.9732782,
+    "icon": "default"
+  },
+  {
+    "id": "f0df26fb-f728-4cbc-bf53-8b8733e25b06",
+    "name": "Widow Jane Distillery",
+    "latitude": 40.6773529,
+    "longitude": -74.0153869,
+    "icon": "default"
+  },
+  {
+    "id": "a1f61129-8de7-491f-a5a9-7bf106ff4080",
+    "name": "Raaka Chocolate",
+    "latitude": 40.6814367,
+    "longitude": -74.0071505,
+    "icon": "default"
+  },
+  {
+    "id": "22fab88b-d277-41af-ba67-0a824c3cef26",
+    "name": "Red Hook Community Farms",
+    "latitude": 40.6725717,
+    "longitude": -74.0087895,
+    "icon": "default"
+  },
+  {
+    "id": "6dcb0b14-b600-4e68-8227-410162f97ade",
+    "name": "St. Mary Star of the Sea",
+    "latitude": 40.6768146,
+    "longitude": -73.9983507,
+    "icon": "default"
+  },
+  {
+    "id": "fe292daa-bc18-40ab-bf9f-b87df001da74",
+    "name": "Calvert Vaux Park",
+    "latitude": 40.5843671,
+    "longitude": -73.9952563,
+    "icon": "default"
+  },
+  {
+    "id": "c9d39d8d-780b-4536-837b-0caa4e06fcb6",
+    "name": "Microscope Gallery",
+    "latitude": 40.706314,
+    "longitude": -73.921075,
+    "icon": "default"
+  },
+  {
+    "id": "de427155-b3bd-4b31-9c27-d55cac69548b",
+    "name": "Lions Roar Karaoke",
+    "latitude": 40.708338,
+    "longitude": -73.941333,
+    "icon": "default"
+  },
+  {
+    "id": "e9bcfb47-937b-40d8-bf13-853117a4ac53",
+    "name": "Knickerbocker Field Club",
+    "latitude": 40.647842,
+    "longitude": -73.963455,
+    "icon": "default"
+  },
+  {
+    "id": "74596dfb-c876-445b-8662-3bb0368adeef",
+    "name": "National Bakery",
+    "latitude": 40.5771617,
+    "longitude": -73.9648664,
+    "icon": "default"
+  },
+  {
+    "id": "56a23c47-d0a8-42ea-bdb1-310e52b74f4a",
+    "name": "Peephole Cinema",
+    "latitude": 40.7016474,
+    "longitude": -73.9272448,
+    "icon": "default"
+  },
+  {
+    "id": "5169dd83-e58a-4ec1-aba0-d3d3defbce3d",
+    "name": "Fifth Avenue Bingo",
+    "latitude": 40.6701876,
+    "longitude": -73.9858765,
+    "icon": "default"
+  },
+  {
+    "id": "c0baea2a-6ba3-4351-86f0-0131ba198cac",
+    "name": "Sorted Library",
+    "latitude": 40.7042318,
+    "longitude": -73.9870246,
+    "icon": "default"
+  },
+  {
+    "id": "620890c4-d515-425e-b9d9-2943f8a5609d",
+    "name": "Bensonhurst statue house",
+    "latitude": 40.6042365,
+    "longitude": -73.9963288,
+    "icon": "default"
+  },
+  {
+    "id": "ca29cd23-22d6-40fb-aec1-6a783261038d",
+    "name": "Gotham Greens",
+    "latitude": 40.6750448,
+    "longitude": -73.9886778,
+    "icon": "default"
+  },
+  {
+    "id": "c2751683-5f66-4348-ab88-199dc722463b",
+    "name": "Naval Cemetery Landscape",
+    "latitude": 40.6992601,
+    "longitude": -73.9630928,
+    "icon": "default"
+  },
+  {
+    "id": "f554e472-d980-48dc-a9f7-c1a1980ee7ec",
+    "name": "Shirley Chisholm State Park",
+    "latitude": 40.6430089,
+    "longitude": -73.8754301,
+    "icon": "default"
+  },
+  {
+    "id": "78d94b6b-126d-4078-9d32-0c7afdb430c6",
+    "name": "Brooklyn Waterfront Artists",
+    "latitude": 40.6727944,
+    "longitude": -74.0176183,
+    "icon": "default"
+  },
+  {
+    "id": "e4636e50-b165-457f-88cc-994adc9ddb4d",
+    "name": "Carmelite Monastery",
+    "latitude": 40.684426,
+    "longitude": -73.890315,
+    "icon": "default"
+  },
+  {
+    "id": "728ef2a7-8fe1-4399-871a-07b7df70eafd",
+    "name": "Wendy\u2019s Subway",
+    "latitude": 40.70384,
+    "longitude": -73.9379809,
+    "icon": "default"
+  },
+  {
+    "id": "747664c7-33bf-485b-b12c-2e97e3eff654",
+    "name": "The Hoxton, Williamsburg",
+    "latitude": 40.7208251,
+    "longitude": -73.9587909,
+    "icon": "default"
+  },
+  {
+    "id": "cecbe6b7-bcf0-496e-829d-0eb23a96588e",
+    "name": "Brooklyn Grange Sunset Park",
+    "latitude": 40.6594154,
+    "longitude": -74.0044891,
+    "icon": "default"
+  },
+  {
+    "id": "82eed212-dd5a-49b2-a21d-d7370b538aa0",
+    "name": "Friends of Refugees of Eastern Europe",
+    "latitude": 40.6679726,
+    "longitude": -73.943198,
+    "icon": "default"
+  },
+  {
+    "id": "30a6df47-cfcc-478d-9929-6a9b921a9020",
+    "name": "mansions of president street",
+    "latitude": 40.6676959,
+    "longitude": -73.9435885,
+    "icon": "default"
+  },
+  {
+    "id": "9cc37d32-34a0-44e6-91e7-604af9d8fd7a",
+    "name": "Blue: The Tatter Textile Library",
+    "latitude": 40.6770318,
+    "longitude": -73.985069,
+    "icon": "default"
+  },
+  {
+    "id": "4b8dc819-c3f6-4e86-adde-27dcc5ec635d",
+    "name": "Most Holy Trinity Cemetery",
+    "latitude": 40.6886665,
+    "longitude": -73.9028772,
+    "icon": "default"
+  },
+  {
+    "id": "ee26d18d-3aee-4da5-8778-9a88870e1db9",
+    "name": "Berl's Brooklyn Poetry Shop",
+    "latitude": 40.7025762,
+    "longitude": -73.9874484,
+    "icon": "default"
+  },
+  {
+    "id": "2b916235-e41b-42ff-8fc9-e9babb22393a",
+    "name": "Fresh Creek Nature Preserve",
+    "latitude": 40.6443269,
+    "longitude": -73.8855623,
+    "icon": "default"
+  },
+  {
+    "id": "c06b631f-ac37-4c37-b7a5-b405db992bfe",
+    "name": "Endale Arch",
+    "latitude": 40.6710577,
+    "longitude": -73.9690506,
+    "icon": "default"
+  },
+  {
+    "id": "57841d86-6b15-4341-b58b-cb8dd3e98a54",
+    "name": "Recess",
+    "latitude": 40.6973722,
+    "longitude": -73.9679774,
+    "icon": "default"
+  },
+  {
+    "id": "138b9412-b9b2-43a3-8452-b8588a695fbd",
+    "name": "Hadas Gallery",
+    "latitude": 40.6939265,
+    "longitude": -73.9626766,
+    "icon": "default"
+  },
+  {
+    "id": "d60a5e09-337d-478f-9e6a-7931e7004704",
+    "name": "Plumb Beach (Gateway National Recreation Area)",
+    "latitude": 40.583293,
+    "longitude": -73.9209991,
+    "icon": "default"
+  },
+  {
+    "id": "0a6878c0-51c3-4c6f-9d49-bd74e50c1269",
+    "name": "Marine Park Salt Marsh Nature Center",
+    "latitude": 40.6040464,
+    "longitude": -73.9306319,
+    "icon": "default"
+  },
+  {
+    "id": "56c31a51-4e68-4b6c-9598-40a888c6d840",
+    "name": "Hudson Avenue",
+    "latitude": 40.7030725,
+    "longitude": -73.9811206,
+    "icon": "default"
+  },
+  {
+    "id": "6e26c0d8-8f32-4361-a619-f79d89128856",
+    "name": "1440 Albemarle Rd",
+    "latitude": 40.6463726,
+    "longitude": -73.9656929,
+    "icon": "default"
+  },
+  {
+    "id": "981e911e-c8a7-4620-af65-b1efa2312e0c",
+    "name": "1510 Albemarle Rd",
+    "latitude": 40.6464586,
+    "longitude": -73.965073,
+    "icon": "default"
+  },
+  {
+    "id": "a80266b3-caa7-4123-a3c2-b97250a080b5",
+    "name": "1306 Albemarle Rd",
+    "latitude": 40.6462459,
+    "longitude": -73.9669786,
+    "icon": "default"
+  },
+  {
+    "id": "c8d1fa0a-e5a3-4c07-b1bd-0cf9a51a00e6",
+    "name": "125 Buckingham Rd",
+    "latitude": 40.6474062,
+    "longitude": -73.9646778,
+    "icon": "default"
+  },
+  {
+    "id": "331190c1-4f88-45f9-a5e1-be078aec25a6",
+    "name": "85 Buckingham Rd",
+    "latitude": 40.6482838,
+    "longitude": -73.9644851,
+    "icon": "default"
+  },
+  {
+    "id": "7bf6df31-f9d9-4d9e-a718-e04684c4028c",
+    "name": "317 Rugby Rd",
+    "latitude": 40.6420382,
+    "longitude": -73.9652572,
+    "icon": "default"
+  },
+  {
+    "id": "86b00635-5603-4a81-b8a1-633991c1e498",
+    "name": "The Jackie Robinson House",
+    "latitude": 40.6481035,
+    "longitude": -73.927264,
+    "icon": "default"
+  },
+  {
+    "id": "7f2e874f-7c9f-421b-9814-208c0daad324",
+    "name": "Enrico Caruso Museum of America",
+    "latitude": 40.6028756,
+    "longitude": -73.9535492,
+    "icon": "default"
+  },
+  {
+    "id": "f5e77ce7-2ecf-4f94-b246-a5b84d6ae82d",
+    "name": "Gingerbread House",
+    "latitude": 40.6278614,
+    "longitude": -74.0383897,
+    "icon": "default"
+  },
+  {
+    "id": "a601eccb-06f1-4d5a-a58e-886582608a81",
+    "name": "Smack Mellon",
+    "latitude": 40.7037407,
+    "longitude": -73.9897595,
+    "icon": "default"
+  },
+  {
+    "id": "dd04c549-563c-4891-be5e-e81b4d957864",
+    "name": "Wonderville",
+    "latitude": 40.6923719,
+    "longitude": -73.9274634,
+    "icon": "default"
+  },
+  {
+    "id": "e7de90b1-255d-44c9-be8b-84958f1829ec",
+    "name": "MINUS SPACE",
+    "latitude": 40.7033588,
+    "longitude": -73.9908596,
+    "icon": "default"
+  },
+  {
+    "id": "be701a24-d180-469a-b2e8-31806e6a6b83",
+    "name": "Shtetl Art Gallery",
+    "latitude": 40.6974469,
+    "longitude": -73.9589178,
+    "icon": "default"
+  },
+  {
+    "id": "0abd0026-9525-4445-82e7-e143c84daffa",
+    "name": "Greenpoint Library",
+    "latitude": 40.7259813,
+    "longitude": -73.9506651,
+    "icon": "default"
+  },
+  {
+    "id": "ef911e0b-740f-43cb-b702-86dcbf3c7d32",
+    "name": "82 Degraw St",
+    "latitude": 40.6859643,
+    "longitude": -74.0037775,
+    "icon": "default"
+  },
+  {
+    "id": "7895d181-3404-46b9-b747-11bdbc55760f",
+    "name": "Film Noir Cinema",
+    "latitude": 40.7273005,
+    "longitude": -73.9515454,
+    "icon": "default"
+  },
+  {
+    "id": "e3461177-191a-40a7-a103-d11a99acd60c",
+    "name": "BJ's Park and Rest Area",
+    "latitude": 40.5913495,
+    "longitude": -73.9999153,
+    "icon": "default"
+  },
+  {
+    "id": "39ad9231-ac84-4755-87bf-55f2c5f9982d",
+    "name": "North Williamsburg",
+    "latitude": 40.720844,
+    "longitude": -73.9649124,
+    "icon": "default"
+  },
+  {
+    "id": "75496c14-8b7d-4f90-b28e-504638f7aab1",
+    "name": "Underhill Walls",
+    "latitude": 40.6742795,
+    "longitude": -73.9672186,
+    "icon": "default"
+  },
+  {
+    "id": "5643b1d4-c17e-46b0-87f9-42fc671a2388",
+    "name": "Harold and Maude Vintage",
+    "latitude": 40.6897711,
+    "longitude": -73.9510959,
+    "icon": "default"
+  },
+  {
+    "id": "56ff3ee3-a894-4abe-9477-204ef1497a30",
+    "name": "Herbert Von King Park",
+    "latitude": 40.689612,
+    "longitude": -73.946732,
+    "icon": "default"
+  },
+  {
+    "id": "0d6cf5e3-4432-4083-ac8d-b30371561017",
+    "name": "Star Perfumes & Gift Co",
+    "latitude": 40.6809646,
+    "longitude": -73.9532796,
+    "icon": "default"
+  },
+  {
+    "id": "4e9beab6-a9ec-4427-99a3-a34cc093323e",
+    "name": "Ocean Avenue Pedestrian Bridge",
+    "latitude": 40.5822162,
+    "longitude": -73.949363,
+    "icon": "default"
+  },
+  {
+    "id": "b09b552a-3dd0-43fa-90a8-f5857f6ebe82",
+    "name": "Holocaust Memorial Park",
+    "latitude": 40.5824506,
+    "longitude": -73.953694,
+    "icon": "default"
+  },
+  {
+    "id": "d4216bdc-5b5a-4fb6-92b1-c032d1528ccf",
+    "name": "Cherry Hill Gourmet Inc",
+    "latitude": 40.5838861,
+    "longitude": -73.9487833,
+    "icon": "default"
+  },
+  {
+    "id": "f36bde07-81dd-46c0-811c-56fdb3485025",
+    "name": "Syndicated Bar Theater Kitchen",
+    "latitude": 40.7048388,
+    "longitude": -73.9330082,
+    "icon": "default"
+  },
+  {
+    "id": "e0fd1ef7-0054-450d-825a-7679b5b41893",
+    "name": "Leroy's Place BROOKLYN",
+    "latitude": 40.6660201,
+    "longitude": -73.9820273,
+    "icon": "default"
+  },
+  {
+    "id": "d2cee3d5-965f-4760-9ba4-028abcc2b8a7",
+    "name": "Webster Place",
+    "latitude": 40.663437,
+    "longitude": -73.986655,
+    "icon": "default"
+  },
+  {
+    "id": "dd738c64-bb85-403f-95d1-f78a4792f8e7",
+    "name": "Williamsburg Music Center",
+    "latitude": 40.711305,
+    "longitude": -73.963079,
+    "icon": "default"
+  },
+  {
+    "id": "b5d40e8c-dcec-4f31-9099-396c9f5b4cfe",
+    "name": "Archestratus Books + Foods",
+    "latitude": 40.732808,
+    "longitude": -73.955144,
+    "icon": "default"
+  },
+  {
+    "id": "66092d66-448a-4ec2-a5cf-6620e7ad1316",
+    "name": "Swivel Gallery",
+    "latitude": 40.6871329,
+    "longitude": -73.9508047,
+    "icon": "default"
+  },
+  {
+    "id": "dd3ba1c2-1a0d-4138-b568-accab59fd4fc",
+    "name": "Alhambra Apartments",
+    "latitude": 40.6813792,
+    "longitude": -73.9500051,
+    "icon": "default"
+  },
+  {
+    "id": "f502ccb9-cea4-4f7f-a127-542d69c06810",
+    "name": "488 Nostrand Ave.",
+    "latitude": 40.6821433,
+    "longitude": -73.9500973,
+    "icon": "default"
+  },
+  {
+    "id": "192bc899-40da-4eae-ac61-896a43e8ff61",
+    "name": "480 Nostrand Ave.",
+    "latitude": 40.6822935,
+    "longitude": -73.9501148,
+    "icon": "default"
+  },
+  {
+    "id": "00cfa5f1-b581-4328-a7d2-9cba1d0a6bf2",
+    "name": "Sunset Play Center",
+    "latitude": 40.6469924,
+    "longitude": -74.0021546,
+    "icon": "default"
+  },
+  {
+    "id": "aa35d87e-1728-4b5e-9df6-6324d2b8b959",
+    "name": "Eastern Parkway Pedestrian Mall",
+    "latitude": 40.6695466,
+    "longitude": -73.9421846,
+    "icon": "default"
+  },
+  {
+    "id": "8cad2ae0-d4bb-4f18-bcf5-ff655e84d00a",
+    "name": "Ocean Parkway",
+    "latitude": 40.6137386,
+    "longitude": -73.9684303,
+    "icon": "default"
+  },
+  {
+    "id": "42cdd409-57fc-4a1a-bf93-366691a4d7a2",
+    "name": "Manhattan Beach Park",
+    "latitude": 40.5768049,
+    "longitude": -73.942583,
+    "icon": "default"
+  },
+  {
+    "id": "fe5923f0-0a52-42db-9880-4b5f2495635d",
+    "name": "Sheepshead Bay Piers",
+    "latitude": 40.5839556,
+    "longitude": -73.9459804,
+    "icon": "default"
+  },
+  {
+    "id": "1eb15d18-2818-4d46-8525-1521b66d1efd",
+    "name": "Kingsborough Community College",
+    "latitude": 40.5786707,
+    "longitude": -73.9351016,
+    "icon": "default"
+  },
+  {
+    "id": "ba9379e0-3027-487f-92f2-58ca6ecd87b7",
+    "name": "Brooklyn Public Library - Gerritsen Beach Branch",
+    "latitude": 40.5913977,
+    "longitude": -73.9239955,
+    "icon": "default"
+  },
+  {
+    "id": "bdd38e04-f410-4c34-b5d2-c9f589568a1d",
+    "name": "Tamaqua Bar & Marina",
+    "latitude": 40.594344,
+    "longitude": -73.929953,
+    "icon": "default"
+  },
+  {
+    "id": "b844453a-634d-4d0c-9b70-3cce89b170af",
+    "name": "Bush Terminal Piers Park",
+    "latitude": 40.6534111,
+    "longitude": -74.0201023,
+    "icon": "default"
+  },
+  {
+    "id": "a7a70b48-7fec-404c-9961-ec0088bcd5d4",
+    "name": "Russian Books & Gifts Store | St-Petersburg",
+    "latitude": 40.5763877,
+    "longitude": -73.9661344,
+    "icon": "default"
+  },
+  {
+    "id": "de4174a6-ceac-4832-99f6-f3d350791b3b",
+    "name": "Master Theater",
+    "latitude": 40.5784015,
+    "longitude": -73.958527,
+    "icon": "default"
+  },
+  {
+    "id": "d35085f9-4d19-464b-b102-d44d4a61be15",
+    "name": "American United Mosque",
+    "latitude": 40.6356299,
+    "longitude": -74.0091926,
+    "icon": "default"
+  },
+  {
+    "id": "6e7bb292-87d8-47a7-a8aa-df89d0d4a65f",
+    "name": "Hurricane Point",
+    "latitude": 40.7232805,
+    "longitude": -73.962625,
+    "icon": "default"
+  },
+  {
+    "id": "cf40148e-84fe-41e8-ac78-265acf3a1d71",
+    "name": "Alliance of Resident Theatres",
+    "latitude": 40.6851473,
+    "longitude": -73.9735043,
+    "icon": "default"
+  },
+  {
+    "id": "a9d663cb-7dc3-4e45-8061-8bff939312e0",
+    "name": "JACK",
+    "latitude": 40.6826399,
+    "longitude": -73.9608721,
+    "icon": "default"
+  },
+  {
+    "id": "cf99dfef-a94f-4400-ac6d-22b8d07d359a",
+    "name": "Asia Art Archive in America",
+    "latitude": 40.700149,
+    "longitude": -73.9942743,
+    "icon": "default"
+  },
+  {
+    "id": "eea2cfa4-5d1c-4ea3-9f04-b1a3e4549531",
+    "name": "Elsewhere",
+    "latitude": 40.709411,
+    "longitude": -73.923169,
+    "icon": "default"
+  },
+  {
+    "id": "02af36b7-c499-44dc-ad02-a9653cfbbdd4",
+    "name": "El Museo de Los Sures",
+    "latitude": 40.7140289,
+    "longitude": -73.9626,
+    "icon": "default"
+  },
+  {
+    "id": "7e9f185e-89e7-4374-9928-a1ed6461372b",
+    "name": "The Morbid Anatomy Library and Gift Shop",
+    "latitude": 40.6560789,
+    "longitude": -74.0078174,
+    "icon": "default"
+  },
+  {
+    "id": "2f002146-b2be-402c-b5d5-1400c3d2ebef",
+    "name": "Museum of Women's Resistance",
+    "latitude": 40.6640557,
+    "longitude": -73.9528642,
+    "icon": "default"
+  },
+  {
+    "id": "f76b06d9-daee-405a-8484-b424ddf61bf3",
+    "name": "Clive Davis Institute of Recorded Music",
+    "latitude": 40.6929116,
+    "longitude": -73.9874613,
+    "icon": "default"
+  },
+  {
+    "id": "10f53fd3-b5cb-4588-8840-cfdad2b9f555",
+    "name": "BrownstoneJAZZ",
+    "latitude": 40.6815763,
+    "longitude": -73.9469889,
+    "icon": "default"
+  },
+  {
+    "id": "ef29f653-2e1a-4aa1-bf8f-8c4dc2d28d70",
+    "name": "Ornithology Jazz Club",
+    "latitude": 40.6955888,
+    "longitude": -73.9319823,
+    "icon": "default"
+  },
+  {
+    "id": "1f20469a-bd79-4e3e-b1e7-3f51eaaeca20",
+    "name": "WORTHLESSSTUDIOS",
+    "latitude": 40.7076408,
+    "longitude": -73.9313437,
+    "icon": "default"
+  },
+  {
+    "id": "85089aba-030d-4223-bccf-4cc7aa939fe8",
+    "name": "Anopoli",
+    "latitude": 40.6352778,
+    "longitude": -74.0263889,
+    "icon": "default"
+  },
+  {
+    "id": "51a1ba06-6f1a-4e43-950c-532dd146900a",
+    "name": "Amant",
+    "latitude": 40.7123133,
+    "longitude": -73.9370549,
+    "icon": "default"
+  },
+  {
+    "id": "95a41624-1952-4002-83de-2c29028613db",
+    "name": "BioBAT, Inc.",
+    "latitude": 40.6455096,
+    "longitude": -74.0238947,
+    "icon": "default"
+  },
+  {
+    "id": "baffb5db-a744-4bb2-b304-98fc4803879b",
+    "name": "Ryan Visitor Center - Floyd Bennett Field",
+    "latitude": 40.5881603,
+    "longitude": -73.8969745,
+    "icon": "default"
+  },
+  {
+    "id": "7dbff1b9-62e9-4465-8313-21af9dccfc08",
+    "name": "Gowanus Dredgers Canoe Club Boathouse",
+    "latitude": 40.6769483,
+    "longitude": -73.990036,
+    "icon": "default"
+  },
+  {
+    "id": "9ae0025a-b778-42f2-99e2-c9abc301cd22",
+    "name": "Adams Street Library",
+    "latitude": 40.7040753,
+    "longitude": -73.9883644,
+    "icon": "default"
+  },
+  {
+    "id": "116c4b1a-fd08-4650-9bc3-5aaee28cac6a",
+    "name": "Flatbush Central Caribbean Marketplace",
+    "latitude": 40.6529867,
+    "longitude": -73.959495,
+    "icon": "default"
+  },
+  {
+    "id": "9b4747c5-6de8-4891-844e-a72548809215",
+    "name": "Genspace",
+    "latitude": 40.6565705,
+    "longitude": -74.0026065,
+    "icon": "default"
+  },
+  {
+    "id": "9995ab76-ef0b-4acc-bd42-e6c4ef834d4f",
+    "name": "Prison Ship Martyrs Monument",
+    "latitude": 40.6917937,
+    "longitude": -73.9755288,
+    "icon": "default"
+  },
+  {
+    "id": "2d40d400-3b6c-46ed-a463-5e86d7922747",
+    "name": "Stuffed Animal Tree of Bergen Beach",
+    "latitude": 40.6217157,
+    "longitude": -73.9111125,
+    "icon": "default"
+  },
+  {
+    "id": "2a719198-2fbd-4533-b5e5-5c5e892c64c8",
+    "name": "martense lane rock",
+    "latitude": 40.6529966,
+    "longitude": -74.0017339,
+    "icon": "default"
+  },
+  {
+    "id": "62dda997-702b-4470-ae0a-4dc9e368c031",
+    "name": "Faurschou New York",
+    "latitude": 40.7335909,
+    "longitude": -73.9556203,
+    "icon": "default"
+  },
+  {
+    "id": "e978a16a-be81-4116-a5ad-ed45c9e01ca1",
+    "name": "Delight Factory",
+    "latitude": 40.6753336,
+    "longitude": -73.9163716,
+    "icon": "default"
+  },
+  {
+    "id": "0d5c5454-ec21-49b5-b97c-7a62d0e699b9",
+    "name": "Dumbo - Manhattan Bridge View",
+    "latitude": 40.7033165,
+    "longitude": -73.9895698,
+    "icon": "default"
+  },
+  {
+    "id": "608f61e0-90da-454e-a128-b0ec9e32d7e2",
+    "name": "Farm.One",
+    "latitude": 40.679678,
+    "longitude": -73.9689121,
+    "icon": "default"
+  },
+  {
+    "id": "2831a7e1-f0a2-4c32-80ab-320e5a2361d2",
+    "name": "Janet Borden Inc",
+    "latitude": 40.7033589,
+    "longitude": -73.9909737,
+    "icon": "default"
+  },
+  {
+    "id": "d4f01176-03fd-4e9b-8315-1b2b1882c405",
+    "name": "e-flux",
+    "latitude": 40.6945365,
+    "longitude": -73.9613927,
+    "icon": "default"
+  },
+  {
+    "id": "6c085ef1-c9b9-4f0a-8e82-678c9127eb98",
+    "name": "SHOOTING GALLERY",
+    "latitude": 40.5753863,
+    "longitude": -73.9800341,
+    "icon": "default"
+  },
+  {
+    "id": "f6f07de7-20ad-4158-b223-95cfb8f920eb",
+    "name": "Chemistry Creative",
+    "latitude": 40.711596,
+    "longitude": -73.9367976,
+    "icon": "default"
+  },
+  {
+    "id": "021f70b4-ed38-43ea-8102-45e47fdcc147",
+    "name": "Brownsville Heritage House Inc",
+    "latitude": 40.6644738,
+    "longitude": -73.9051607,
+    "icon": "default"
+  },
+  {
+    "id": "6faefa48-8d7e-4ea7-8220-f99176119e88",
+    "name": "Brooklyn Seltzer Museum",
+    "latitude": 40.6777958,
+    "longitude": -73.8699776,
+    "icon": "default"
+  },
+  {
+    "id": "bed33cab-4922-4814-be17-accfad6d5ee9",
+    "name": "Powerhouse Arts",
+    "latitude": 40.6764243,
+    "longitude": -73.9885252,
+    "icon": "default"
+  },
+  {
+    "id": "db984698-dc5d-4d70-935f-39e94dc1c8b0",
+    "name": "Fallkill Falls",
+    "latitude": 40.6618385,
+    "longitude": -73.9714751,
+    "icon": "default"
+  },
+  {
+    "id": "a8141741-68ee-48fb-b41c-c0a1dc75d3d8",
+    "name": "Dead Letter No. 9",
+    "latitude": 40.716096,
+    "longitude": -73.964839,
+    "icon": "default"
+  },
+  {
+    "id": "a089a017-787f-42e9-b3fe-c07f4d5a08ff",
+    "name": "FENG SWAY",
+    "latitude": 40.7248752,
+    "longitude": -73.9539942,
+    "icon": "default"
+  },
+  {
+    "id": "dea905cb-6ab3-44fb-815f-e78b27bbd6c1",
+    "name": "Mother of Junk",
+    "latitude": 40.7166347,
+    "longitude": -73.9566778,
+    "icon": "default"
+  },
+  {
+    "id": "238a0ad8-6862-4d52-839f-bcdd5a42d799",
+    "name": "The Brooklyn Trust Company Building",
+    "latitude": 40.6945075,
+    "longitude": -73.9921493,
+    "icon": "default"
+  },
+  {
+    "id": "1a6dca35-5c27-4013-a9cc-a96ab3e10408",
+    "name": "9 Dekalb Ave",
+    "latitude": 40.6903851,
+    "longitude": -73.9825343,
+    "icon": "default"
+  },
+  {
+    "id": "44ba67be-5994-48d8-8dc4-64be8a632aa4",
+    "name": "175 Broadway",
+    "latitude": 40.7103067,
+    "longitude": -73.9625705,
+    "icon": "default"
+  },
+  {
+    "id": "0414dd07-c1e8-46fe-ae84-ea3b6c83ec8a",
+    "name": "1 Hanson Pl",
+    "latitude": 40.6854025,
+    "longitude": -73.9776761,
+    "icon": "default"
+  },
+  {
+    "id": "e35d6bb8-dca6-4491-b0c3-fe42d8c5b69a",
+    "name": "Fiske Terrace-Midwood Park Historic District",
+    "latitude": 40.6325863,
+    "longitude": -73.9599629,
+    "icon": "default"
+  },
+  {
+    "id": "77b62197-85e8-4d22-84f6-f26b85999535",
+    "name": "Senator Street Historic District",
+    "latitude": 40.63645,
+    "longitude": -74.0243556,
+    "icon": "default"
+  },
+  {
+    "id": "59c2e95a-99c5-4984-bbfb-2c76bd31a74f",
+    "name": "The Ripped Bodice",
+    "latitude": 40.6760881,
+    "longitude": -73.9810057,
+    "icon": "default"
+  },
+  {
+    "id": "6cb22ddf-e288-426c-9e7b-407fba7c730b",
+    "name": "Big Night",
+    "latitude": 40.7303866,
+    "longitude": -73.9574593,
+    "icon": "default"
+  },
+  {
+    "id": "e9f6c51f-85a9-4307-9bc9-9caea9f5de1c",
+    "name": "A.I.R.",
+    "latitude": 40.7038431,
+    "longitude": -73.9870756,
+    "icon": "default"
+  },
+  {
+    "id": "1ff7a5b9-4677-48ba-90cc-0636351bcb22",
+    "name": "Pratt Institute Sculpture Park",
+    "latitude": 40.6907367,
+    "longitude": -73.9639907,
+    "icon": "default"
+  },
+  {
+    "id": "e4162f35-4a57-462b-97e1-b295437591c4",
+    "name": "The Bone Museum",
+    "latitude": 40.705891,
+    "longitude": -73.9371786,
+    "icon": "default"
+  },
+  {
+    "id": "23142423-be10-45e4-9284-df1c5449e665",
+    "name": "770 Eastern Pkwy",
+    "latitude": 40.6690693,
+    "longitude": -73.9428047,
+    "icon": "default"
+  },
+  {
+    "id": "7d16f85f-03cc-474c-b3cc-d3094c725072",
+    "name": "Studebaker Building",
+    "latitude": 40.6729195,
+    "longitude": -73.9539377,
+    "icon": "default"
+  },
+  {
+    "id": "3255cb18-eab8-46d0-8a7a-90a0180ab899",
+    "name": "Amersfort Park",
+    "latitude": 40.6285772,
+    "longitude": -73.9390065,
+    "icon": "default"
+  },
+  {
+    "id": "302e0ee8-091b-4680-8325-c022b93439ec",
+    "name": "Lindsay of rMayor Sign",
+    "latitude": 40.638668,
+    "longitude": -73.954328,
+    "icon": "default"
+  },
+  {
+    "id": "264ba5de-3ade-46d3-964f-9da97ec65862",
+    "name": "Newkirk Plaza Mural and Mosaic",
+    "latitude": 40.63507,
+    "longitude": -73.963024,
+    "icon": "default"
+  },
+  {
+    "id": "9f56cb26-439b-491a-b83f-5519a85b29cf",
+    "name": "Avenue H",
+    "latitude": 40.6297251,
+    "longitude": -73.9616534,
+    "icon": "default"
+  },
+  {
+    "id": "6fdc2894-ef76-4bb8-a03b-2dbe32e5a3e3",
+    "name": "Grave of DeWitt Clinton",
+    "latitude": 40.6565885,
+    "longitude": -73.9930782,
+    "icon": "default"
+  },
+  {
+    "id": "1c7756ac-7a2b-475b-a585-636be7bc07f8",
+    "name": "Tomb of Secrets on Bay Grove Hill",
+    "latitude": 40.6565942,
+    "longitude": -73.9939001,
+    "icon": "default"
+  },
+  {
+    "id": "a25da4e5-b9fb-4674-8f5a-5222511dff43",
+    "name": "The Brooklyn Clay Retort and Fire Brick Works Storehouse",
+    "latitude": 40.6750614,
+    "longitude": -74.0133986,
+    "icon": "default"
+  },
+  {
+    "id": "416c66a9-2568-4620-972c-aa72c0fffcaf",
+    "name": "Sunny's",
+    "latitude": 40.6756944,
+    "longitude": -74.0168722,
+    "icon": "default"
+  },
+  {
+    "id": "32bf8ade-7281-4592-a76b-994311224353",
+    "name": "Dream Fishing Tackle",
+    "latitude": 40.7250985,
+    "longitude": -73.9534561,
+    "icon": "default"
+  },
+  {
+    "id": "54733c92-2bab-4325-a214-ad1a23bd2a89",
+    "name": "Awesome Brooklyn",
+    "latitude": 40.658313,
+    "longitude": -73.96013,
+    "icon": "default"
+  },
+  {
+    "id": "cd85e99b-e96e-45ff-a7fb-8616e0a04c01",
+    "name": "Awesome Home",
+    "latitude": 40.6574803,
+    "longitude": -73.9599302,
+    "icon": "default"
+  },
+  {
+    "id": "db942f3a-447d-43f6-92a3-d39bf9854098",
+    "name": "peace & RIOT",
+    "latitude": 40.6837278,
+    "longitude": -73.9438436,
+    "icon": "default"
+  },
+  {
+    "id": "d64c6aee-3fb8-48a2-9ebf-37dc9f4a8e98",
+    "name": "Woods Grove",
+    "latitude": 40.6839471,
+    "longitude": -73.9953942,
+    "icon": "default"
+  },
+  {
+    "id": "086d8165-0799-4096-8701-0cb72a81af4e",
+    "name": "Yesterday's News Antiques and Collectibles",
+    "latitude": 40.6792892,
+    "longitude": -73.9975798,
+    "icon": "default"
+  },
+  {
+    "id": "fd145563-8fd2-445e-86f6-e7e28393a3d0",
+    "name": "Eugene J. Candy Co.",
+    "latitude": 40.7032172,
+    "longitude": -73.9305453,
+    "icon": "default"
+  },
+  {
+    "id": "32fda4eb-1b77-456e-9df5-d5a30333e7a6",
+    "name": "Kato Sake Works",
+    "latitude": 40.70597,
+    "longitude": -73.9237799,
+    "icon": "default"
+  },
+  {
+    "id": "67281be3-8b24-4f30-82a5-d8f9543b5711",
+    "name": "Skinny Dennis",
+    "latitude": 40.7159083,
+    "longitude": -73.9621222,
+    "icon": "default"
+  },
+  {
+    "id": "8009c28f-8cd5-47b5-96f6-fe765489cb91",
+    "name": "Allison Eden Studios",
+    "latitude": 40.70263,
+    "longitude": -73.93644,
+    "icon": "default"
+  },
+  {
+    "id": "b3314181-e1eb-42ff-bf15-7d4839a09789",
+    "name": "Carroll Hall",
+    "latitude": 40.7049755,
+    "longitude": -73.930684,
+    "icon": "default"
+  },
+  {
+    "id": "085a1726-843a-49a9-b264-860450024f57",
+    "name": "Noble Signs Inc",
+    "latitude": 40.6762022,
+    "longitude": -73.903304,
+    "icon": "default"
+  },
+  {
+    "id": "60d82970-dae8-40e1-b46f-c8b03410731c",
+    "name": "Roulette Intermedium",
+    "latitude": 40.6856169,
+    "longitude": -73.9807735,
+    "icon": "default"
+  },
+  {
+    "id": "303761ed-f88d-40be-8fe0-26ec6ff5fcd0",
+    "name": "Balcones Recycling",
+    "latitude": 40.661688,
+    "longitude": -74.0090809,
+    "icon": "default"
+  },
+  {
+    "id": "fa7317e2-b109-4466-8220-5e0872cf81cc",
+    "name": "Williamsburg Biannual",
+    "latitude": 40.7131513,
+    "longitude": -73.9673616,
+    "icon": "default"
+  },
+  {
+    "id": "f023045a-45e4-4f2d-afa6-bde7b202d5cc",
+    "name": "Picture Room",
+    "latitude": 40.690952,
+    "longitude": -73.9963734,
+    "icon": "default"
+  },
+  {
+    "id": "dc10d8bc-6d5d-44da-a087-01e589e650ed",
+    "name": "ShapeShifter Lab",
+    "latitude": 40.674967,
+    "longitude": -73.9760077,
+    "icon": "default"
+  },
+  {
+    "id": "23cc166d-d52c-4874-b41a-4cb80f4b6dbb",
+    "name": "St. Cecilia's Roman Catholic Church",
+    "latitude": 40.7201233,
+    "longitude": -73.9421695,
+    "icon": "default"
+  },
+  {
+    "id": "f9854bde-7fc8-4d80-b812-f45b6093fedb",
+    "name": "brooklynONE productions",
+    "latitude": 40.6571343,
+    "longitude": -74.007193,
+    "icon": "default"
+  },
+  {
+    "id": "f5219e29-477c-4938-a103-4f7cbce0b6d6",
+    "name": "Secret Riso Club",
+    "latitude": 40.699888,
+    "longitude": -73.9286902,
+    "icon": "default"
+  },
+  {
+    "id": "76d1bad7-8cdb-4217-998d-d5bffdc7f387",
+    "name": "Environmental Study Center",
+    "latitude": 40.6221663,
+    "longitude": -73.9084746,
+    "icon": "default"
+  },
+  {
+    "id": "bb60b679-130c-46eb-a124-0fa5924c73ab",
+    "name": "Brooklyn Art Haus",
+    "latitude": 40.7134273,
+    "longitude": -73.9549377,
+    "icon": "default"
+  },
+  {
+    "id": "8ce22b73-db36-4e64-bcfd-7f9b79b4d8ed",
+    "name": "NOoSPHERE Arts",
+    "latitude": 40.7348283,
+    "longitude": -73.943611,
+    "icon": "default"
+  },
+  {
+    "id": "cb5d41f7-9873-4f6e-a5b4-0d4fcf39261c",
+    "name": "L10 Arts & Cultural Center",
+    "latitude": 40.686236,
+    "longitude": -73.9783039,
+    "icon": "default"
+  },
+  {
+    "id": "d8f3595e-c933-4d0e-a8e6-37bb4aabc2be",
+    "name": "Brooklyn Art Cave",
+    "latitude": 40.6980702,
+    "longitude": -73.936791,
+    "icon": "default"
+  },
+  {
+    "id": "e321aebe-c203-4cda-8cf1-f7e34f83bb0f",
+    "name": "Balady Halal Foods",
+    "latitude": 40.6320636,
+    "longitude": -74.0219045,
+    "icon": "default"
+  },
+  {
+    "id": "73688a68-5df2-4886-b66f-ee12605fe59b",
+    "name": "Night Owl Video",
+    "latitude": 40.712958,
+    "longitude": -73.9577536,
+    "icon": "default"
+  },
+  {
+    "id": "29e3b4ff-ea4a-4e61-b450-6d2231999caf",
+    "name": "The Gecko Gallery NYC",
+    "latitude": 40.7058871,
+    "longitude": -73.9374341,
+    "icon": "default"
+  }
 ]
