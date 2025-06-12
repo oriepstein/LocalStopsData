@@ -1,0 +1,522 @@
+[
+  {
+    "id": "ac8b27eb-4cdf-48d7-a006-08e0d6f78527",
+    "name": "Canadian Museum for Human Rights",
+    "latitude": 49.8907982,
+    "longitude": -97.1309499,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Canadian Museum for Human Rights is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "c604d2a6-157b-41a8-849b-339dc263f5fb",
+    "name": "Riel House National Historic Site",
+    "latitude": 49.8193317,
+    "longitude": -97.1361884,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The historic home of the pivotal political activist who led the M\u00e9tis people in rebellion against the Canadian government.\u00a0",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "71bc80d1-57f3-47d4-862e-91435ca43d38",
+    "name": "Fort Gibraltar",
+    "latitude": 49.8990899,
+    "longitude": -97.1255783,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The intense competition of the 19th-century fur trading industry played out at this fort in Western Canada.\u00a0\u00a0",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "c817afce-85f3-48bc-8439-84696a85b7d6",
+    "name": "Manitoba Museum",
+    "latitude": 49.9000253,
+    "longitude": -97.1364389,
+    "icon": "default",
+    "imageURL": "",
+    "description": "check out the proscenium theater:\u00a0This little theatre at the end of the Urban Gallery in the Manitoba Museum plays silent films from stars who performed in Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "7cc2a2f7-91a1-49f9-aef2-e8803a961254",
+    "name": "Upper Fort Garry Heritage Provincial Park",
+    "latitude": 49.887988,
+    "longitude": -97.135319,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Fort Garry was a pivotal post for the Hudson\u2019s Bay Company and a major factor in the economy and political culture of the area.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "40bbfa43-d186-436b-9136-2ef6749ea0d1",
+    "name": "Trappist Monastery Provincial Heritage Park",
+    "latitude": 49.7571149,
+    "longitude": -97.1544355,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The ruins of a burned-down monastery have become a serene park and community space.\u00a0\u00a0",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "fb6905ee-4fbb-415b-b6e5-470128ca50b8",
+    "name": "Royal Canadian Mint",
+    "latitude": 49.8527801,
+    "longitude": -97.0542067,
+    "icon": "default",
+    "imageURL": "",
+    "description": "some say to skip this",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "fe5345b6-2efc-4fe0-a6b8-f0db5e2e6216",
+    "name": "Dalnavert Museum and Visitors' Centre",
+    "latitude": 49.8860039,
+    "longitude": -97.1418295,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Built in 1895, Dalnavert Museum is a small Victorian mansion nestled in the heart of Winnipeg\u2019s Downtown. This unique museum features a \u201cday in the life\u201d feel as it transports you back in time to the 19th century the second you step inside.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "45a39b66-99d5-4919-b757-43acbea8a568",
+    "name": "The Forks Market",
+    "latitude": 49.8874252,
+    "longitude": -97.1317798,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Forks Market is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "18d106a7-2557-44f7-a825-97dda00dfc1e",
+    "name": "The Forks National Historic Site",
+    "latitude": 49.8882237,
+    "longitude": -97.1277904,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Forks National Historic Site is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "71f6f86c-aac0-4069-94dd-0511796208df",
+    "name": "Winnipeg Art Gallery",
+    "latitude": 49.8894348,
+    "longitude": -97.1505908,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Winnipeg Art Gallery is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "0605a831-647c-4954-a0be-fcaf1df9ace1",
+    "name": "The Forks",
+    "latitude": 49.8909396,
+    "longitude": -97.1299378,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Forks is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "eb6485fb-ca9a-43eb-9650-f4f4765ff8e3",
+    "name": "Exchange District",
+    "latitude": 49.8975695,
+    "longitude": -97.1372174,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Exchange District is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "cf8c43ad-3e5f-4c06-885d-dc8ea114e376",
+    "name": "Manitoba Legislative Building",
+    "latitude": 49.884475,
+    "longitude": -97.1463829,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Manitoba Legislative Building is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "31d870f2-953e-4f76-bbc1-b0bb45418b00",
+    "name": "Pinawa Dam Provincial Heritage Park",
+    "latitude": 50.2165232,
+    "longitude": -95.9284733,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Pinawa Dam Provincial Heritage Park is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "6c2af824-2ec8-4e89-b0b7-001fa889126b",
+    "name": "Pinawa's Suspension Bridge",
+    "latitude": 50.1580854,
+    "longitude": -95.9043058,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Pinawa's Suspension Bridge is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "c30211d6-24ec-4954-84aa-c6185b55c364",
+    "name": "Narcisse Snake Dens",
+    "latitude": 50.7345267,
+    "longitude": -97.5303555,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The largest single concentration of harmless garter snakes in the world is a writhing Canadian serpent orgy.\u00a0",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "8c1b1a74-8e80-482c-b5dc-e5dfeddbdae5",
+    "name": "New Iceland Heritage Museum",
+    "latitude": 50.6308972,
+    "longitude": -96.9862754,
+    "icon": "default",
+    "imageURL": "",
+    "description": "New Iceland Heritage Museum is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "2a079b9b-f192-492f-8760-401d4c26defe",
+    "name": "Gimli",
+    "latitude": 50.6320809,
+    "longitude": -96.9886746,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Icelandic settlement in Manitoba established in 1875.\u00a0",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "ec4b607a-64b5-4b73-9dd6-274008cb1f8a",
+    "name": "Prairie Dog Central Railway",
+    "latitude": 49.9517414,
+    "longitude": -97.2700096,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The oldest operating steam locomotive in Canada runs along this heritage railway.\u00a0\u00a0",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "e598fc5e-b0c6-4b5f-bce2-4378ce137f0b",
+    "name": "Glass Bottle Houses",
+    "latitude": 49.6305176,
+    "longitude": -98.6961267,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This small enclave plays host to a house, church, and wishing well all composed entirely of recycled glass bottles.\u00a0\u00a0",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "a6d23532-7754-4558-b4ff-8447541b264c",
+    "name": "Agowiidiwinan Centre",
+    "latitude": 49.8868127,
+    "longitude": -97.130014,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Agowiidiwinan Centre is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "6ff43345-a331-465e-9dad-9b8376d2650a",
+    "name": "Assiniboine Forest",
+    "latitude": 49.8544095,
+    "longitude": -97.2425458,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Assiniboine Forest is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "e207f523-a521-40d4-ad75-d0f74a9c6246",
+    "name": "The Basement Winnipeg",
+    "latitude": 49.8811247,
+    "longitude": -97.3178578,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Basement Winnipeg is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "8a445845-4191-4a13-9a1e-7afb41810293",
+    "name": "Buhler Gallery",
+    "latitude": 49.8850278,
+    "longitude": -97.1246019,
+    "icon": "default",
+    "imageURL": "",
+    "description": "art gallery located in hospital",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "342c5f6f-d077-4fbb-87a2-0b6238706e78",
+    "name": "Immaculate Conception Church",
+    "latitude": 50.0039032,
+    "longitude": -96.7726889,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Grotto of Our Lady of Lourdes is a concrete replica of the Grotto in Lourdes, France, and is located next to the Ukrainian Catholic Church of the Immaculate Conception in Cooks Creek, Manitoba. The church and grotto are a nationally and provincially designated historic site and are open to visitors.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "076d36ac-3cc0-4bd9-b79a-68932917f308",
+    "name": "Cornish Library",
+    "latitude": 49.8783075,
+    "longitude": -97.1600687,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Cornish Library is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "7cf53045-5813-4198-996a-350ef6e740e0",
+    "name": "Crokicurl",
+    "latitude": 49.8869119,
+    "longitude": -97.1314067,
+    "icon": "default",
+    "imageURL": "",
+    "description": "crokinole meets curling",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "4fb78cf5-c3ef-4e1f-97dd-5382f20036ae",
+    "name": "C2 Centre for Craft",
+    "latitude": 49.8962353,
+    "longitude": -97.1457032,
+    "icon": "default",
+    "imageURL": "",
+    "description": "C2 Centre for Craft is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "3967c7c9-5747-478b-941b-f3a383490134",
+    "name": "Government House of Manitoba",
+    "latitude": 49.8839721,
+    "longitude": -97.1450397,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Government House of Manitoba is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "3ab677b6-b318-448d-a0a7-2f6fa74db8f5",
+    "name": "Vaughan Street Jail",
+    "latitude": 49.8875621,
+    "longitude": -97.1478373,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Vaughan Street Jail is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "556d6120-4096-4cb0-a285-d3663c029f68",
+    "name": "Plug In Institute of Contemporary Art",
+    "latitude": 49.8903603,
+    "longitude": -97.1512017,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Plug In Institute of Contemporary Art is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "cbad0558-9f56-453b-bf15-15b6842df344",
+    "name": "Black Hole Theatre Company",
+    "latitude": 49.8082502,
+    "longitude": -97.1316377,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Black Hole Theatre Company is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "7b9a5a0c-81a5-49aa-ac88-d8645b7e46a5",
+    "name": "Living Prairie Museum",
+    "latitude": 49.8878782,
+    "longitude": -97.2725211,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Living Prairie Museum is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "b47c6e89-9169-4ca8-9e9e-199954c0d877",
+    "name": "The Leaf",
+    "latitude": 49.8692524,
+    "longitude": -97.2244835,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The Leaf is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "af97ae6c-4737-4cc0-96da-78b7a28126c1",
+    "name": "FortWhyte Alive",
+    "latitude": 49.8204405,
+    "longitude": -97.2249257,
+    "icon": "default",
+    "imageURL": "",
+    "description": "FortWhyte Alive is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "9d8c39cd-e544-4644-a4cc-f9bce8c187b3",
+    "name": "Osborne Village",
+    "latitude": 49.879007,
+    "longitude": -97.141052,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Osborne Village is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "36782c3c-e70e-4069-bf3c-08d9896c5ab2",
+    "name": "Leo Mol Sculpture Garden",
+    "latitude": 49.8746803,
+    "longitude": -97.2364143,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Leo Mol Sculpture Garden is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "a6475a2a-03fa-4c57-aba6-8d34ea2bcb9c",
+    "name": "Esplanade Riel Footbridge",
+    "latitude": 49.8906904,
+    "longitude": -97.1271732,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Esplanade Riel Footbridge is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "b499e098-d76f-4734-99a4-028e2036f951",
+    "name": "Birds Hill Provincial Park",
+    "latitude": 50.0156101,
+    "longitude": -96.8818551,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Birds Hill Provincial Park is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "e778825a-2be0-4c47-9151-b0a59cc944df",
+    "name": "Saint Boniface Cathedral",
+    "latitude": 49.8893156,
+    "longitude": -97.1213306,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Saint Boniface Cathedral is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "ad477bd6-09dd-410c-b9ba-ae18ba81e462",
+    "name": "Ashdown Market",
+    "latitude": 49.8978646,
+    "longitude": -97.1371451,
+    "icon": "default",
+    "imageURL": "",
+    "description": "grocery store that hosts comedy shows",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "18844f80-66c5-4f67-96a8-1a6f473200e8",
+    "name": "Sunset Beach",
+    "latitude": 51.2024792,
+    "longitude": -96.6216069,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Sunset Beach is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "f790eaa0-9a66-4f05-9636-264de791ffe5",
+    "name": "Camp Morton Provincial Park",
+    "latitude": 50.7152564,
+    "longitude": -96.9872262,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Camp Morton Provincial Park is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "21d8df21-bacf-4235-a31b-70aceee44dd7",
+    "name": "The Caves",
+    "latitude": 51.6362193,
+    "longitude": -96.8104509,
+    "icon": "default",
+    "imageURL": "",
+    "description": "is this on private property?",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "4e7b6241-e7e6-4e8a-89db-231c5a85eec0",
+    "name": "Grassy Narrows Marsh",
+    "latitude": 51.045559,
+    "longitude": -96.8353069,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Grassy Narrows Marsh is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "14e7d5b0-24b0-46b2-b970-fe0378c91fca",
+    "name": "Aroma Bistro",
+    "latitude": 49.8548589,
+    "longitude": -97.1115218,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Aroma Bistro is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "37064c68-a6e2-46e1-bbe0-37f247a80c13",
+    "name": "HP Tergesen & Sons",
+    "latitude": 50.6318199,
+    "longitude": -96.9859586,
+    "icon": "default",
+    "imageURL": "",
+    "description": "HP Tergesen & Sons is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "cfdf1d4a-b7b9-4ef9-aa67-c8bdd942e47d",
+    "name": "Clementine Cafe",
+    "latitude": 49.8989672,
+    "longitude": -97.1416337,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Clementine Cafe is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "5f1ff9bc-5dee-4df4-af77-06c443d30a1a",
+    "name": "Kris' Fish & Chips",
+    "latitude": 50.632401,
+    "longitude": -96.985777,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Kris' Fish & Chips is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "84e2e709-ef00-4dfd-97f6-1ffdc2f16193",
+    "name": "Baraka Pita Bakery & Restaurant",
+    "latitude": 49.9370946,
+    "longitude": -97.1168813,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Baraka Pita Bakery & Restaurant is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  },
+  {
+    "id": "2cf873db-6917-4628-a621-98f31b398a2d",
+    "name": "Toad Hall Toys Inc",
+    "latitude": 49.8966783,
+    "longitude": -97.1417011,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Toad Hall Toys Inc is a great place to explore Winnipeg.",
+    "info": "Open daily. Admission may vary. Check online for details."
+  }
+]
