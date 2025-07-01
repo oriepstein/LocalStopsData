@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Wien Museum Beethoven Museum",
     "description": "A museum capturing one of the world's most famous classical composer's battle with hearing loss.\u00a0\u00a0",
+    "icon": "museum",
     "lat": 48.2548478,
     "lon": 16.3561609
   },
@@ -55,6 +56,7 @@
     "id": 8,
     "name": "Wien Museum Hermesvilla",
     "description": "A gift from Emperor Franz Joseph I to his wife.\u00a0\u00a0",
+    "icon": "museum",
     "lat": 48.1706721,
     "lon": 16.2459795
   },
@@ -83,6 +85,7 @@
     "id": 12,
     "name": "Wien Museum Otto Wagner Kirche am Steinhof",
     "description": "The first modernist church in Europe.\u00a0",
+    "icon": "museum",
     "lat": 48.2106173,
     "lon": 16.2787785
   },
@@ -154,6 +157,7 @@
     "id": 22,
     "name": "Esperanto Museum of the Austrian National Library",
     "description": "Museum devoted to the artificial language of Esperanto.\u00a0",
+    "icon": "museum",
     "lat": 48.2093901,
     "lon": 16.36568
   },
@@ -204,6 +208,7 @@
     "id": 29,
     "name": "Funeral Museum Vienna",
     "description": "Collection dedicated to funeral rites, equipment, and mourning rituals of the Viennese.\u00a0",
+    "icon": "museum",
     "lat": 48.1541737,
     "lon": 16.4403348
   },
@@ -234,6 +239,7 @@
     "id": 33,
     "name": "Josephinum",
     "description": "One of the best collections of wax anatomical models in the world.\u00a0",
+    "icon": "museum",
     "lat": 48.219335,
     "lon": 16.3564625
   },
@@ -319,6 +325,7 @@
   {
     "id": 45,
     "name": "Kunst Haus Wien. Museum Hundertwasser",
+    "icon": "museum",
     "description": "",
     "lat": 48.211076,
     "lon": 16.393286
@@ -327,6 +334,7 @@
     "id": 46,
     "name": "Museum of Art Fakes",
     "description": "This Austrian museum celebrates the work of famous forgers and their inimitable imitations.\u00a0",
+    "icon": "museum",
     "lat": 48.2077364,
     "lon": 16.393205
   },
@@ -334,6 +342,7 @@
     "id": 47,
     "name": "Globe Museum of the Austrian National Library",
     "description": "Handsomely crafted representations of our round planet.\u00a0",
+    "icon": "museum",
     "lat": 48.2092938,
     "lon": 16.3654159
   },
