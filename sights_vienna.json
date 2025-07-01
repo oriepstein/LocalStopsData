@@ -132,6 +132,7 @@
     "id": 19,
     "name": "Brennpunkt",
     "description": "A history of heat is on display at this unique Austrian museum.\u00a0",
+    "icon": "green",
     "lat": 48.1830295,
     "lon": 16.3393253
   },
@@ -174,6 +175,7 @@
     "id": 25,
     "name": "Jesuit Church",
     "description": "The solemn exterior conceals an opulent interior of this 17th century church.\u00a0",
+    "icon": "green",
     "lat": 48.2090088,
     "lon": 16.3775837
   },
@@ -209,6 +211,7 @@
     "id": 30,
     "name": "Supersense",
     "description": "A neo-Gothic mansion now houses a wunderkammer of analog tech that hits on all the senses.\u00a0",
+    "icon": "green",
     "lat": 48.2169248,
     "lon": 16.3892417
   },
@@ -223,6 +226,7 @@
     "id": 32,
     "name": "Votivkirche",
     "description": "A neo-Gothic church built to thank God for saving the Emperor of Austria from an assassination.\u00a0",
+    "icon": "green",
     "lat": 48.2154012,
     "lon": 16.3590821
   },
@@ -272,6 +276,7 @@
     "id": 39,
     "name": "Museum of Natural History Vienna",
     "description": "Beautiful Austrian natural history museum with carved ceilings and row after row of ancient taxidermy.\u00a0",
+    "icon": "green",
     "lat": 48.205212,
     "lon": 16.3598451
   },
@@ -279,6 +284,7 @@
     "id": 40,
     "name": "Vienna Sewer System",
     "description": "Vienna's underworld of tunnels and subterranean rivers made an iconic appearance in a 1949 Orson Welles film.\u00a0\u00a0<br>Reservation online or via phone is required",
+    "icon": "green",
     "lat": 48.2006306,
     "lon": 16.3673641
   },
@@ -342,6 +348,7 @@
     "id": 49,
     "name": "St. Stephen's Cathedral",
     "description": "The crypt of the imposing Stephensdom holds royal intestines and thousands of skeletons.\u00a0",
+    "icon": "green",
     "lat": 48.2084114,
     "lon": 16.3734707
   },
@@ -377,6 +384,7 @@
     "id": 54,
     "name": "St. Charles's Church",
     "description": "Built to give thanks for the passing of a plague epidemic, this cathedral is a one-of-a-kind architectural hybrid.\u00a0",
+    "icon": "green",
     "lat": 48.1985626,
     "lon": 16.3716999
   },
@@ -405,6 +413,7 @@
     "id": 58,
     "name": "Austrian National Library, State Hall",
     "description": "The beautiful baroque library of the Hapsburg empire.\u00a0",
+    "icon": "green",
     "lat": 48.2062609,
     "lon": 16.3668953
   },
@@ -440,6 +449,7 @@
     "id": 63,
     "name": "Zauberkasten-Museum",
     "description": "magic museum",
+    "icon": "green",
     "lat": 48.183518,
     "lon": 16.3220046
   },
@@ -530,6 +540,7 @@
   {
     "id": 76,
     "name": "Kunsthistorisches Museum Wien",
+    "icon": "green",
     "description": "",
     "lat": 48.2038016,
     "lon": 16.3617874
@@ -544,6 +555,7 @@
   {
     "id": 78,
     "name": "Belvedere Palace",
+    "icon": "green",
     "description": "",
     "lat": 48.1914751,
     "lon": 16.3809322
