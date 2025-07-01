@@ -17,6 +17,7 @@
     "id": 3,
     "name": "Rathaus der Stadt Wien",
     "description": "paternoster -\u00a0A non-stop elevator ride in Vienna's city hall.",
+    "icon": "green",
     "lat": 48.2109437,
     "lon": 16.3565084
   },
@@ -24,6 +25,7 @@
     "id": 4,
     "name": "Strudlhofstiege",
     "description": "A set of outdoor stairs named in honor of a famous Austrian artist.\u00a0",
+    "icon": "green",
     "lat": 48.2221676,
     "lon": 16.3577504
   },
@@ -45,6 +47,7 @@
     "id": 7,
     "name": "WIENXTRA-Spielebox",
     "description": "Journey through a mesmerizing array of board games inside this museum.\u00a0\u00a0",
+    "icon": "green",
     "lat": 48.211842,
     "lon": 16.343781
   },
